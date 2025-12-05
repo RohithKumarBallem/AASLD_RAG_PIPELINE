@@ -1,0 +1,429 @@
+[
+  {
+    "table_index": 1,
+    "headers": [],
+    "rows": [
+      [
+        "End Note"
+      ],
+      [
+        "Procite"
+      ],
+      [
+        "Reference Manager"
+      ]
+    ],
+    "row_count": 3,
+    "column_count": 1
+  },
+  {
+    "table_index": 2,
+    "headers": [
+      "Population group",
+      "Incidence of HCC"
+    ],
+    "rows": [
+      [
+        "Sufficient risk to warrant surveillance"
+      ],
+      [
+        "Child-Pugh A–B cirrhosis, any etiologyHepatitis BHepatitis C (viremic or post-SVR)Alcohol associated cirrhosisNonalcoholic steatohepatitisOther etiologies",
+        "≥1.0% per year"
+      ],
+      [
+        "Child-Pugh C cirrhosis, transplant candidate",
+        ""
+      ],
+      [
+        "Non-cirrhotic chronic hepatitis BMan from endemic countryaage >40 yWoman from endemic countryaage > 50 yPerson from Africa at earlier agebFamily history of HCCPAGE-B score ≥ 10c",
+        "≥0.2% per year"
+      ],
+      [
+        "Insufficient risk and in need of risk stratification models/biomarkers"
+      ],
+      [
+        "Hepatitis C and stage 3 fibrosis",
+        "< 0.2% per year"
+      ],
+      [
+        "Noncirrhotic NAFLD",
+        ""
+      ]
+    ],
+    "row_count": 7,
+    "column_count": 2
+  },
+  {
+    "table_index": 3,
+    "headers": [
+      "Test",
+      "Early detection research network (EDRN) phase of validation",
+      "Performance characteristics"
+    ],
+    "rows": [
+      [
+        "US plus AFP55",
+        "5",
+        "Sensitivity",
+        "61%"
+      ],
+      [
+        "",
+        "",
+        "Specificity",
+        "92%"
+      ],
+      [
+        "AFP-L3%69",
+        "3",
+        "Sensitivity",
+        "62%"
+      ],
+      [
+        "",
+        "",
+        "Specificity",
+        "90%"
+      ],
+      [
+        "DCP69",
+        "3",
+        "Sensitivity",
+        "40%"
+      ],
+      [
+        "",
+        "",
+        "Specificity",
+        "81%"
+      ],
+      [
+        "Multitarget algorithm70",
+        "2",
+        "Sensitivity",
+        "82%"
+      ],
+      [
+        "",
+        "",
+        "Specificity",
+        "87%"
+      ],
+      [
+        "GALAD71",
+        "2/3",
+        "Sensitivity",
+        "54–72%"
+      ],
+      [
+        "",
+        "",
+        "Specificity",
+        "90%"
+      ],
+      [
+        "Doylestown plus72",
+        "2/3",
+        "Sensitivity",
+        "90%"
+      ],
+      [
+        "",
+        "",
+        "Specificity",
+        "95%"
+      ]
+    ],
+    "row_count": 12,
+    "column_count": 3
+  },
+  {
+    "table_index": 4,
+    "headers": [
+      "Examples of expanded criteriaa",
+      "Post-transplant survival"
+    ],
+    "rows": [
+      [
+        "UCSF criteria207",
+        "One tumor ≤ 6.5 cm or2–3 tumors, each ≤ 4.5 cm, with total tumor volume ≤ 8 cm",
+        "81% 5-year survival"
+      ],
+      [
+        "Total tumor volume < 115 cm208",
+        "Sum of volume for each tumor ≤ 115 cm3",
+        "75% 4-year survival"
+      ],
+      [
+        "Up-to-seven criteria209",
+        "Diameter or largest tumor (cm) + number of tumors ≤ 7",
+        "71% 5-year survival"
+      ],
+      [
+        "Extended Toronto criteria210",
+        "Biopsy demonstrating well-to-moderate differentiation for patients beyond Milan criteria andECOG performance status 0–1",
+        "68% 5-year survival"
+      ],
+      [
+        "Kyoto criteria211",
+        "Number or tumors ≤ 10, maximum diameter of each tumor ≤ 5 cm, and serum DCP ≤ 400 mAU/ml",
+        "65% 5-year survival"
+      ]
+    ],
+    "row_count": 5,
+    "column_count": 2
+  },
+  {
+    "table_index": 5,
+    "headers": [],
+    "rows": [
+      [
+        "Inclusion criteria"
+      ],
+      [
+        "HCC exceeding Milan criteria but meeting one of the following:1. Single lesion 5.1–8 cm2. 2–3 lesions each ≤ 5 cm with the sum of the maximal tumor diameters ≤ 8 cm3. 4–5 lesions each ≤ 3 cm with the sum of the maximal tumor diameters ≤ 8 cmAND absence of vascular invasion or extrahepatic disease based on cross-sectional imaging"
+      ],
+      [
+        "Criteria for successful downstaging"
+      ],
+      [
+        "Residual tumor size and diameter within Milan criteria (1 lesion ≤ 5 cm, 2–3 lesions ≤ 3 cm)(a) Only viable tumor(s) are considered; tumor diameter measurements should not include the area of necrosis from tumor-directed therapy.(b) If there is more than one area of residual tumor enhancement, then the diameter of the entire lesion should be counted toward the overall tumor burden."
+      ],
+      [
+        "Criteria for downstaging failure and exclusion from liver transplant"
+      ],
+      [
+        "1. Progression of tumor(s) to beyond inclusion/eligibility criteria for downstaging (as defined above)2. Tumor invasion of a major hepatic vessel based on cross-sectional imaging3. Lymph node involvement by tumor or extrahepatic spread of tumor4. Infiltrative tumor growth pattern5. Persistent AFP elevations > 500 ng/ml in patients who had prior AFP ≥ 1000 ng/ml"
+      ],
+      [
+        "Timing of liver transplant in relation to downstaging"
+      ],
+      [
+        "1. There should be a minimum observation period of 3 mo of disease stability from successful downstaging to liver transplant2. Per current UNOS policy, the patient must remain within Milan criteria for 6 mo after successful downstaging before receiving MELD exception points"
+      ]
+    ],
+    "row_count": 8,
+    "column_count": 1
+  },
+  {
+    "table_index": 6,
+    "headers": [],
+    "rows": [
+      [
+        "Proposed factors for TACE unsuitability"
+      ],
+      [
+        "Tumor size",
+        "Beyond UNOS-DS criteria"
+      ],
+      [
+        "Tumor appearance",
+        "Multinodular, bilobar, with > 50% liver involvementInfiltrative or nodular with poorly defined margins"
+      ],
+      [
+        "Tumor marker",
+        "Marked AFP elevationsa"
+      ],
+      [
+        "PVTT",
+        "Large vessel vascular invasion, e.g., main PVTT or hepatic vein tumor thrombus"
+      ],
+      [
+        "Liver function",
+        "ALBI 2–3, especially if tumor exceeds segmental treatment zoneDeteriorating liver function over time"
+      ],
+      [
+        "Proposed factors for Y90 unsuitability"
+      ],
+      [
+        "Lung shunt",
+        ">25 Gray in a single treatment>30 Gray cumulative in multiple treatments"
+      ],
+      [
+        "Nontarget treatment",
+        "Infusion zone includes gastric/duodenal branches unable to correct with embolization"
+      ],
+      [
+        "PVTT",
+        "Large vessel vascular invasion, e.g., main PVTT/Vp4 or hepatic vein tumor thrombusInability to deliver boosted dose and/or lack of uptake in the PVTT on99mTcmacroaggregated albumin scan"
+      ],
+      [
+        "Liver function",
+        "ALBI 2–3, especially if tumor exceeds segmental treatment zoneDeteriorating liver function over time"
+      ]
+    ],
+    "row_count": 11,
+    "column_count": 1
+  },
+  {
+    "table_index": 7,
+    "headers": [],
+    "rows": [
+      [
+        "TACE or TARE refractoriness"
+      ],
+      [
+        "Lack of objective response: >50% definite viable disease after 2 TACE treatments or 1 TARE treatment"
+      ],
+      [
+        "Development of new HCC within treatment zone after 2 consecutive TACE"
+      ],
+      [
+        "Lack of improvement for tumor markers (e.g., AFP) after 2 consecutive TACE or 1 TARE"
+      ],
+      [
+        "Stage migration to advanced HCC, including new vascular invasion or extrahepatic metastases"
+      ]
+    ],
+    "row_count": 5,
+    "column_count": 1
+  },
+  {
+    "table_index": 8,
+    "headers": [
+      "Aspect",
+      "IMbrave150312",
+      "HIMALAYA323",
+      "REFLECT313"
+    ],
+    "rows": [
+      [
+        "Study drugs",
+        "Atezolizumab + bevacizumab",
+        "Sorafenib",
+        "Durvalumab + tremelimumab",
+        "Durvalumab",
+        "Sorafenib",
+        "Lenvatinib",
+        "Sorafenib"
+      ],
+      [
+        "Median OS, months (95% CI)",
+        "19.2 (17.0–23.7)",
+        "13.4 (11.4–16.9)",
+        "16.4 (14.2–19.6)",
+        "16.6 (14.1–19.1)",
+        "13.8 (12.3–16.1)",
+        "13.6 (12.1–14.9)",
+        "12.3 (10.4–13.9)"
+      ],
+      [
+        "HR for death (95% CI)",
+        "0.66 (0.52–0.85)",
+        "Durvalumab + tremelimumab vs. sorafenib: 0.78 (0.65–0.92)Durvalumab vs. sorafenib: 0.86 (0.73–1.03)",
+        "0.92 (0.79–1.06)"
+      ],
+      [
+        "Median PFS, months (95% CI)",
+        "6.8 (5.7–8.3)",
+        "4.3 (4.0–5.6)",
+        "3.8 (3.7–5.3)",
+        "3.7 (3.2–3.8)",
+        "4.1 (3.8–5.5)",
+        "7.3 (5.6–7.5)",
+        "3.6 (3.6–3.9)"
+      ],
+      [
+        "ORR by RECIST 1.1",
+        "29.8",
+        "11.3",
+        "20.1",
+        "17.0",
+        "5.1",
+        "18.8",
+        "6.5"
+      ],
+      [
+        "Common AEsa",
+        "Hypertension (30%), fatigue (20%), proteinuria (20%), AST increase (20%), pruritis (20%), diarrhea (19%)",
+        "Diarrhea (49%), PPE (48%), hypertension (24%), decreased appetite (24%), fatigue (19%), AST increase (17%)",
+        "Diarrhea (27%), pruritis (23%), rash (22%), decreased appetite (17%), fatigue (17%)",
+        "Diarrhea (15%), pruritis (14%), constipation (11%), AST increased (14%), decreased appetite (14%)",
+        "PPE (47%), diarrhea (45%), fatigue (19%), hypertension (18%), decreased appetite (18%)",
+        "Hypertension (42%), diarrhea (39%), decreased appetite (34%), decreased weight (31%), fatigue (30%), PPE (27%), proteinuria (25%), hypothyroidism (16%)",
+        "PPE (52%), diarrhea (46%), hypertension (30%), decreased appetite (27%), fatigue (25%), decreased weight (22%)"
+      ]
+    ],
+    "row_count": 6,
+    "column_count": 4
+  },
+  {
+    "table_index": 9,
+    "headers": [
+      "Aspect",
+      "CELESTIAL314",
+      "RESORCE315",
+      "REACH-2127",
+      "KEYNOTE-240316",
+      "KEYNOTE-394317",
+      "CheckMate 040318"
+    ],
+    "rows": [
+      [
+        "Study design",
+        "Phase III: cabozantinib vs. placebo",
+        "Phase III: regorafenib vs. placebo",
+        "Phase III: ramucirumab vs. placebo",
+        "Phase III: pembrolizumab vs. placebo",
+        "Phase III: pembrolizumab vs. placebo",
+        "Phase II: ipilimumab + nivolumab"
+      ],
+      [
+        "Population",
+        "Prior sorafenib, second or third line",
+        "Tolerated and progressed on sorafenib, second line",
+        "Prior sorafenib, second line, AFP > 400 only",
+        "Prior sorafenib, second line",
+        "Prior sorafenib, second line, Asia only",
+        "Prior sorafenib, multiple prior lines allowed"
+      ],
+      [
+        "Median OS",
+        "10.2 vs. 8.0 m",
+        "10.6 vs. 7.8 m",
+        "8.5 vs. 7.3 m",
+        "13.9 vs. 10.6 m",
+        "14.6 vs. 13.0 m",
+        "22.8 m"
+      ],
+      [
+        "OS HR",
+        "0.76 (0.63 to 0.92)",
+        "0.63 (0.50 to 0.79)",
+        "0.71 (0.53 to 0.95)",
+        "0.78 (0.61 to 0.998)",
+        "0.79 (0.63 to 0.99)",
+        "N/A"
+      ],
+      [
+        "PFS",
+        "5.2 vs. 1.9 m",
+        "3.1 vs. 1.5 m",
+        "2.8 vs. 1.6 m",
+        "3.0 vs. 2.8 m",
+        "2.6 vs. 2.3 m",
+        "Not reported"
+      ],
+      [
+        "ORR",
+        "4% vs. 1%",
+        "10% vs. 4%",
+        "5% vs. 1%",
+        "18.3% vs. 4.4%",
+        "12.7% vs. 1.3%",
+        "32%"
+      ],
+      [
+        "Common AEsa",
+        "Diarrhea (54%), decreased appetite (48%), PPE (46%), fatigue (45%), nausea (31%), hypertension (29%), vomiting (26%)",
+        "PPE (53%), diarrhea (41%), fatigue (40%), hypertension (31%), anorexia (31%), increased blood bilirubin (29%), abdominal pain (28%), increased AST (25%)",
+        "Fatigue (24%), peripheral edema (24%), decreased appetite (22%), liver injury or failure (21%), nausea (19%), bleeding (19%), proteinuria (18%), hypertension (12%)",
+        "AST increased (23%), blood bilirubin increased (19%), fatigue (19%), pruritis (18%), ALT increased (18%), decreased appetite (17%), diarrhea (17%)",
+        "Immune-related AEs (18.1%), severe grade 3–5 immune-related AEs (3%)",
+        "Pruritis (45%), rash (29%), diarrhea (24%), AST increased (20%), hypothyroidism (20%), fatigue (18%), ALT increase (16%), lipase increased (14%), adrenal insufficiency (14%), rash maculopapular (14%)"
+      ]
+    ],
+    "row_count": 7,
+    "column_count": 7
+  }
+]

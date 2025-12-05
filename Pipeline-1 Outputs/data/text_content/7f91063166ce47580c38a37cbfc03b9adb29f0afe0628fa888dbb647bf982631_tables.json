@@ -1,0 +1,683 @@
+[
+  {
+    "table_index": 1,
+    "headers": [],
+    "rows": [
+      [
+        "End Note"
+      ],
+      [
+        "Procite"
+      ],
+      [
+        "Reference Manager"
+      ]
+    ],
+    "row_count": 3,
+    "column_count": 1
+  },
+  {
+    "table_index": 2,
+    "headers": [
+      "",
+      "",
+      "",
+      "Organ failures",
+      "Other variablesa"
+    ],
+    "rows": [
+      [
+        "NACSELD ACLF12",
+        "D-US multicenterVal-internal validation",
+        "MELD",
+        "—",
+        "RRTb",
+        "HE Grade 3 and 4",
+        "Mechanical vent",
+        "—",
+        "Shock",
+        "√",
+        "√",
+        "√",
+        "—"
+      ],
+      [
+        "CLIF-C ACLF score4",
+        "D-Eur multicenterVal-Eur single center",
+        "TB, sCr, INR",
+        "TB ≥ 12 mg/dLb",
+        "sCr ≥ 2 mg/dL or RRTb",
+        "HE Grade 3 and 4",
+        "PaO2/FiO2≤ 200 or SpO2/FiO2≤ 214",
+        "Coagulation INR ≥ 2.5b",
+        "Use of vasopressors",
+        "√",
+        "√",
+        "—",
+        "—"
+      ],
+      [
+        "AARC ACLF14",
+        "D-Asia, multicenterVal-internal validation",
+        "TB, sCr, INR",
+        "TB (mg/dL)b<1515–25>25",
+        "sCr(mg/dL)b<0.70.7–1.5>1.5",
+        "HE grade0: 1 point1 and 2: 2 points3 and 4: 3 points",
+        "—",
+        "INRb<1.81.8–2.5>2.5",
+        "—",
+        "—",
+        "—",
+        "—",
+        "√Points (mmol/L)1: <1.52: 1.5–2.53: >2.5"
+      ],
+      [
+        "COSSH ACLF20",
+        "D-Asia, multicenter, HBV etiologyVal-Asia, external val",
+        "TB, sCr, INR",
+        "TB levels (mg/dL)b",
+        "sCr levels (mg/dL)b",
+        "HE grade",
+        "PaO2/FiO2or SpO2/FiO2",
+        "INRb",
+        "MAP or use of vasopressors",
+        "√",
+        "—",
+        "—",
+        "—"
+      ],
+      [
+        "HBV-ACLF score265",
+        "D-Asia, multicenter, HBV etiologyVal-Asia, HBV etiology",
+        "TB, INR",
+        "TB levels (mg/dL)b",
+        "Urea levels",
+        "HE grade",
+        "—",
+        "INRb",
+        "—",
+        "√",
+        "Neutrophil",
+        "—",
+        "—"
+      ],
+      [
+        "MELD lactate22",
+        "D-US, multicenterVal-US, multicenter",
+        "MELD",
+        "—",
+        "—",
+        "—",
+        "—",
+        "—",
+        "—",
+        "—",
+        "—",
+        "—",
+        "√"
+      ],
+      [
+        "CLIF-C ACLF lactate21",
+        "D-Europe, multicenterVal-internal",
+        "TB, sCr, INR",
+        "TB ≥ 12 mg/dLb",
+        "sCr ≥ 2 mg/dL or RRTb",
+        "HE Grade 3 and 4",
+        "PaO2/FiO2≤ 200 or SpO2/FiO2≤ 214",
+        "Coagulation: INR ≥ 2.5b",
+        "Use of vasopressors",
+        "√",
+        "√",
+        "—",
+        "√"
+      ]
+    ],
+    "row_count": 7,
+    "column_count": 5
+  },
+  {
+    "table_index": 3,
+    "headers": [
+      "References",
+      "ACLF definition",
+      "Population, n",
+      "Age (y), sex (male)",
+      "Score/variables",
+      "Mortality",
+      "Outcomes",
+      "Comparison with other scores"
+    ],
+    "rows": [
+      [
+        "Prognostic scores in ACLF developed by different societies"
+      ],
+      [
+        "Jalanet al.,J Hep4",
+        "EF CLIF",
+        "Europe, multicenterDerivation set: 275 patients from Canonic study with ACLFValidation set: 225 patients with ACLF admitted to ICU (single center, France)",
+        "DerivationAge: 54.5 ± 12.1Male: 176 (64%)ValidationAge: 55.1 ± 11.1Male: 171 (976%)",
+        "CLIF-C ACLF scoreLiver (Bi ≥ 12)Renal (sCr ≥ 2 or RRT)Brain: HE Grades 3 and 4Coagulation: INR ≥ 2.5Circulatory: use of vasopressorsRespiratoryPaO2/FiO2≤ 200 or SpO2/FiO2≤ 214AgeWBC count",
+        "28-day mortalityDerivation set: 93 (34%)Validation set: 117 (52%)",
+        "28-day mortality(C index)Derivation set: 0.760Validation set: 0.744",
+        "C indexDerivation setChild–Pugh: 0.668MELD: 0.687MELD-Na: 0.684Validation setChild–Pugh: 0.653MELD: 0.645MELD-Na: 0.648"
+      ],
+      [
+        "O’Learyet al.,Hepatol12",
+        "NACSELD",
+        "North America, multicenterTraining cohort: 1605Validation cohort (internal validation): 1070",
+        "DerivationAge: 57.51 ± 10.68Male: 991 (63%)ValidationAge: 56.78 ± 11.03Male: 668 (62%)",
+        "NACSELD ACLFOrgan failures: cardiovascular (shock), renal (RRT), respiratory (mechanical ventilation), brain (Grades 3 and 4 HE)AgeMELD scoreWBC count admissionAlbumin admission",
+        "30-day survivalTraining cohort: 1444 (90%)Validation cohort: 950 (89%)",
+        "30-day survival (AUC)Training cohort: 0.80Validation cohort: 0.85",
+        "Comparison with APASL for 30-day mortality (AUC)NACSELD: 0.82APASL: 0.77Not statistically significant"
+      ],
+      [
+        "Choudhuryet al.,Hepatol Int14",
+        "APASL",
+        "Asia, multicenterDerivation cohort: 480Internal validation cohort: 922",
+        "DerivationAge: 45.1 ± 11.8Male: 434 (90%)ValidationAge: 44.8 ± 11.5Male: 808 (88%)",
+        "AARC ACLFBisCrINRLactateHE",
+        "28-day mortalityDerivation cohort: 210 (44%)Validation cohort: 358 (39%)",
+        "28-day mortality (AUC)Derivation cohort: 0.80Validation cohort: 0.78",
+        "AUC 28-day mortalityMELD: 0.763CLIF-SOFA: 0.750SOFA: 0.728APACHE II: 0.692Child–Pugh: 0.657"
+      ],
+      [
+        "Wuet al.,Gut20",
+        "ACLF classified according to EF CLIF",
+        "China, multicenterPatients with acute decompensation of cirrhosis and patients with severe liver injury for CHB (with or without cirrhosis) (Bi ≥ 5, INR ≥ 1.5)Derivation cohort: 503External validation cohort: 154",
+        "HBV-ACLF (without cirrhosis)Age: 43 ± 11Male: 79 (86%)HBV-ACLF (cirrhosis)Age: 48 ± 11Male: 232 (86%)Non–HBV-ACLF (cirrhosis)Age: 57 ± 12Male: 24 (86%)",
+        "COSSH ACLFHBV-SOFA (modified CLIF-SOFA excluding Bi and INR): -Renal: sCr levels -Brain: HE grade-Cardiovascular: MAP or use of vasopressors-Respiratory: PaO2/FiO2or SpO2/FiO2INRBiAge",
+        "28-day mortalityHBV-ACLF (without cirrhosis): 53 (60%)HBV-ACLF (cirrhosis): 122 (52%)Non–HBV-ACLF (cirrhosis): 7 (28%)",
+        "28-day mortality (AUC)Derivation cohort:0.829Validation cohort:0.813",
+        "AC 28-day mortalityCLIF-C ACLF: 0.796MELD: 0.736MELD-Na: 0.736Child–Pugh: 0.627"
+      ],
+      [
+        "Validation or comparison of ACLF prognostic scores"
+      ],
+      [
+        "Rosenblattet al.,Liver Transpl15",
+        "NACSELD definition",
+        "Multicenter, North AmericaHospitalized patients with cirrhosis (n=1,523,478)ACLF: 106,634 (7%)",
+        "No ACLFAge: 58 ± 0.02Male: 66%ACLFAge: 56 ± 0.08Male: 59%",
+        "External validation NACSELD ACLF",
+        "In-hospital survival: No ACLF: 1,335,394 (94%)ACLF: 50,971 (48%)",
+        "In-hospital mortality (AUROC): 0.77",
+        ""
+      ],
+      [
+        "McPhailet al.,Clin Gastroenterol Hepatol16",
+        "OF defined according to SOFA score",
+        "Single center, retrospective, LondonPatients who were critically ill and with cirrhosis were admitted to a liver ICU971 patients",
+        "Age: 51 (16–90)Male: 615 (63%)",
+        "Validation CLIF-SOFA",
+        "In-hospital: 506 (52%)",
+        "In-hospital mortality (AUC)CLIF-SOFA admission: 0.813CLIF-SOFA Day 7: 0.842",
+        "Admission values (AUC)MELD: 0.786APACHE: 0.768SOFA: 0.799Lactate: 0.699Day 7 valuesMELD: 0.764APACHE: 0.793SOFA: 0.844Lactate: 0.712"
+      ],
+      [
+        "Lee,Liver Int17",
+        "ACLF defined by CLIF-SOFA score",
+        "Single center, retrospective, KoreaPatients with alcoholic cirrhosis admitted to tertiary care center345 patients (ACLF=125)",
+        "No ACLFAge: 55 (46–65)Male: 116 (55%)ACLF-1Age: 57 (50–65)Male: 45 (94%)ACLF-2Age: 61 (53–68)Male: 19 (86%)ACLF-3Age: 55 (47–62)Male: 46 (84%)",
+        "Validation CLIF-SOFA",
+        "30-day mortalityNo ACLF: 3%ACLF-1: 10%ACLF-2: 37%ACLF-3: 76%",
+        "30-day mortality (AUC): 0.943",
+        "30-day mortality (AUC): Child–Pugh: 0.705MELD: 0.804MELD-Na: 0.804"
+      ],
+      [
+        "Engelmannet al., Crit Care 2018243",
+        "ACLF defined by EF CLIF",
+        "Single center, retrospective, LondonPatients with ACLF admitted to ICU (n=202)",
+        "Alive: Age: 50 ± 12Male: 70 (68%)Dead: Age: 53 ± 11Male: 66 (67%)",
+        "Validation CLIF-C ACLF and define a threshold for futility",
+        "28-day mortality: 99 (49%)",
+        "28-day mortality according to CLIF-C ACLF thresholds: ≥55: 80%≥60: 88%≥65: 94%≥70: 100%",
+        ""
+      ],
+      [
+        "Dhimanet al.,World J Gastroenterol18",
+        "ACLF defined by APASL vs. EF CLIF",
+        "Single center, prospective, IndiaPatients admitted with acute decompensation of cirrhosis (n=50)ACLFAPASL: 19 (38%)EF CLIF: 38 (76%)",
+        "Age: 46 ± 13Male: 43 (86%)",
+        "Comparison CLIF-SOFA vs. APASL criteria and CLIF-SOFA vs. other prognostic scores",
+        "28-day mortality: EF CLIFNo ACLF: 1 (8%)ACLF: 18(47%)APASLNo ACLF: 12 (39%)ACLF: 7(37%)",
+        "28-day mortality (AUC)CLIF-SOFA: 0.795",
+        "28-day mortality (AUC)APACHE: 0.787Child–Pugh: 0.739MELD: 0.710"
+      ],
+      [
+        "Caoet al.,Am J Gastroenterol99",
+        "ACLF defined by EF CLIF and NACSELD",
+        "Single center, prospective, ChinaPatients admitted with acute decompensation of cirrhosis (n=468)ACLFEF CLIF: 137 (29%)NACSELD: 35 (7.4%)",
+        "No ACLFAge: 55 (47–64)Male: 229 (69%)ACLFAge: 53 (45–63)Male: 116 (985%)",
+        "Compare EASL-CLIF vs. NACSELD criteria and scores",
+        "28-day transplant free survivalEF CLIF: No ACLF: 99%ACLF: 58%NACSELDNo ACLF: 92%ACLF: 37%",
+        "28-day mortality (accuracy)EF CLIF: 85.3NPV: 98.47PPV: 50.41NACSELD: 92.02NPV: 91.59PPV: 97.14",
+        "—"
+      ],
+      [
+        "Linet al.,Med Sci Monit266",
+        "AARC criteria",
+        "Single center, IsraelPatients with cirrhosis admitted to the ICU (n=786)ACLF=196",
+        "Age: 56 (50–65)Male: 524 (67%)",
+        "Validation AARC ACLF score in non-Asian population",
+        "28-day mortality227 (29%)",
+        "28-day mortality (AUC)AARC ACLF: 0.754",
+        "28-day mortality (AUC)MELD: 0.753MELD-Na: 0.747Child–Pugh: 0.688CLIF-SOFA: 0.743CLIF-C ACLF lactate: 0.777"
+      ],
+      [
+        "Vermaet al.,Hepatol Int19",
+        "APASL criteria",
+        "Multicenter, prospectively collected data of patients with ACLF from AARC consortium (n=2864)",
+        "Age: 44 (36–53)Male: 2429 (85%)",
+        "Comparison of multiple prognostic models: AARCCLIF-C ACLFNACSELD ACLFSOFAAPACHE IIMELDMELD-LA",
+        "30-day survival: 64.9%",
+        "C index at enrollmentMELD-LA: 0.832MELD: 0.758CLIF-C ACLF: 0.820NACSELD ACLF: 0.832AARC: 0.849C index at day 7MELD-LA: 0.832MELD: 0.779CLIF-C ACLF: 0.808NACSELD ACLF: 0.856AARC: 0.872",
+        "—"
+      ],
+      [
+        "Prognostic scores including lactate"
+      ],
+      [
+        "Sarmastet al.,Hepatol22",
+        "No specific data on ACLF, but NACSELD is used to define OF",
+        "Multicenter, North AmericaPatients with chronic liver disease admitted to the hospitalDerivation cohort: 3588Validation Cohort 1: 1804Validation Cohort 2: 726",
+        "Derivation cohortAge: 58.1 ± 13.2Male: 57%Validation Cohort 1Age: 58.4 ± 13Male: 57%Validation Cohort 2Age: 57.5 ± 11.1Male: 64%",
+        "Development MELD lactate score (MELD-LA)",
+        "In-hospital mortalityDerivation cohort: 705 (20%)Validation Cohort 1: 222 (12%)Validation Cohort 2: 35 (5%)",
+        "In-hospital mortality(C index)Derivation cohort: 0.81Validation Cohort 1: 0.85Validation Cohort 2: 0.82Patients admitted to the ICU: 0.74",
+        "In-hospital mortality (C index)Derivation cohortMELD: 0.74MELD-Na: 0.73Validation Cohort 2MELD: 0.76"
+      ],
+      [
+        "Mahmudet al.,Liver Transpl23",
+        "No specific data on ACLF",
+        "Multicenter, retrospective, North America (VA population)Hospitalized patients with complications of cirrhosis (n=1306 with lactate at admission)",
+        "Age: 58 (53–63)Male: 1009 (97%)",
+        "MELD-LA",
+        "In-hospital mortality: 59 (6%)30-day mortality: 125 (12%)",
+        "In-hospital mortality (AUC): 0.789",
+        "In-hospital mortality (AUC)MELD: 0.776"
+      ],
+      [
+        "Drolzet al.,Hepatol21",
+        "EF CLIF",
+        "Multicenter, EuropeDerivation cohortPatients with cirrhosis admitted to the ICU (n=566)ACLF=407External validation cohort: 250 critically ill patients",
+        "Age: 58 (51–65)Male: 347 (61%)",
+        "Development of CLIF-C ACLF lactate",
+        "28-day survival: 332 (59%)",
+        "28-day mortality (AUC)Derivation cohortCLIF-C ACLF lactate: 0.79Validation cohortCLIF-C ACLF lactate: 0.79",
+        "28-day mortality (AUC)Derivation cohort: CLIF-C ACLF: 0.75Validation cohort CLIF-C ACLF: 0.75"
+      ],
+      [
+        "Prognostic scores for specific etiologies (HBV)"
+      ],
+      [
+        "Liet al.,J Hep265",
+        "COSSH ACLF",
+        "Multicenter, ChinaDerivation cohortPatients with acute deterioration HBV chronic liver disease (n=2409). ACLF=954 (40%).Validation cohortPatients with acute deterioration HBV chronic liver disease (n=321).",
+        "No ACLFAge: 49 ± 12Male: 1180 (81%)ACLFAge: 48 ± 12Male: 837 (88%)",
+        "HBV-ACLF scoreVariables: INRHE gradeBiNeutrophil countUreaAge",
+        "28-day mortalityDerivation cohortNo ACLF: 4%ACLF: 26%",
+        "28-day mortality(C index)Derivation cohort: 0.826Validation cohort: 0.895",
+        "28-day mortality(C index)Derivation cohortCOSSH ACLF: 0.793CLIF-C ACLF: 0.792MELD: 0.731MELD-Na: 0.730Validation cohortCOSSH ACLF: 0.880CLIF-C ACLF: 0.857MELD: 0.767MELD-Na: 0.785"
+      ],
+      [
+        "Other scores or prognostic models"
+      ],
+      [
+        "Abdallahet al.,J Hep226",
+        "EF CLIF",
+        "Multicenter, retrospective, North America (UNOS registry)Patients with cirrhosis and ACLF listed for LT (HCV, ALD, and NASH).N=18,416ACLF-1=8720ACLF-2=5586ACLF-3=4110",
+        "Age: 54 ± 9Male: 69%Caucasian: 63%",
+        "MELD-ACLF modelInteraction between listing MELD-ACLF grade: ACLF has higher impact on lower MELD scoresOther variables include in the model: AgeSexEtiologyObesityPerformance status",
+        "90-day waitlist mortality (death or too sick for LT): 21.6%ACLF-1: 18%ACLF-2: 20%ACLF-3a: 25%ACLF-3b: 35%",
+        "—",
+        "—"
+      ]
+    ],
+    "row_count": 22,
+    "column_count": 8
+  },
+  {
+    "table_index": 4,
+    "headers": [
+      "Parameter",
+      "Definition"
+    ],
+    "rows": [
+      [
+        "Baseline sCr",
+        "Stable sCr in ≤3 moIf not available, a stable sCr closest to the current oneIf no previous sCr at all, use admission sCr"
+      ],
+      [
+        "Definition of AKI",
+        "Increase in sCr by ≥0.3 mg/dL (26.4 µmol/L) in <48 h or 50% increase in sCr from baseline"
+      ],
+      [
+        "Staging",
+        "Stage 1: increase in sCr by ≥0.3 mg/dL (26.4 µmol/L) in <48 h or increase in sCr of 1.5 to two times or greater from baselineStage 2: increase in sCr of more than two to three times from baselineStage 3: increase in sCr of more than three times from baseline or sCr >4 mg/dL (352 µmol/L) with an acute increase of ≥0.3 mg/dL (26.4 µmol/L) or the initiation of renal replacement therapy"
+      ],
+      [
+        "Course of AKIProgressionRegression",
+        "Progression of AKI to a higher stage or need for renal replacement therapyRegression of AKI to a lower stage"
+      ],
+      [
+        "Response to RxNonePartialComplete",
+        "No regression of AKIRegression of AKI stage with final sCr ≥0.3 mg/dL (26.4 µmol/L) from baselineRegression of AKI stage with final sCr <26.4 µmol/L (0.3 mg/dL) from baseline"
+      ],
+      [
+        "Diagnostic criteria for HRS-AKI",
+        "• Cirrhosis with ascites• Diagnosis of Stage 2 AKI or higher according to IAC-AKI criteria• No response after 2 consecutive days of diuretic withdrawal and plasma volume expansion with albumin 1 g/kg of body weight to a maximum of 100 g/day• Absence of shock• No current or recent treatment with nephrotoxic drugs• Absence of parenchymal kidney disease as indicated by absence of proteinuria >500 mg/day, microhematuria (>50 red blood cells per high power field) and normal renal ultrasonography"
+      ]
+    ],
+    "row_count": 6,
+    "column_count": 2
+  },
+  {
+    "table_index": 5,
+    "headers": [
+      "References",
+      "n",
+      "Inclusion criteria",
+      "Age (y); sex (M/F)",
+      "Interventions",
+      "Primary endpoints",
+      "Outcomes"
+    ],
+    "rows": [
+      [
+        "Martín-Llahíet al.Spain114a",
+        "46",
+        "• Cirrhosis with either HRS1 or HRS2• Age: ≥18 y and ≤75 y• No organic nephropathy• No advanced HCC, cardiac disease, or active infection",
+        "T+A: 59 ± 10; 16/7Albumin: 155 ± 11; 3/10",
+        "T+A vs. albumin alone",
+        "• Improvement of renal function• Survival at 3 mo",
+        "RespondersT+A arm: 10/23Albumin arm: 2/23 (p<0.05)3-month survivalT+A arm: 6/23Albumin arm: 4/23 (p=0.7)"
+      ],
+      [
+        "Sanyalet al., United States, Russia, and Germany115",
+        "112",
+        "• Age: ≥18 y• HRS1 per ICA 1996 diagnostic criteria• Absence of cardiovascular disease as per PI judgement",
+        "T+A: 51 ± 11; 41/15P+A: 53 ± 11; 39/17",
+        "T+A vs.P+A",
+        "Treatment success: sCr <1.5 mg/dL twice in ≤14 d without dialysis, death, or recurrence of HRS",
+        "Treatment successT+A arm: 14/56P+A arm: 7/56 (p=0.093)HRS reversalT+A arm: 19/56P+A arm: 7/56 (p=0.008)"
+      ],
+      [
+        "Boyeret al., United States and Canada116",
+        "196",
+        "• Age: ≥18 y• HRS1 per ICA 2007 diagnostic criteria• sCr ≤ 7 mg/dL• MAP ≥ 70 mm Hg• Absence of sepsis, untreated infection, and intrinsic renal disease• >48 h of other vasoconstrictor therapy",
+        "T+A: 56 ± 8; 52/45P+A: 55 ± 9; 67/32(p=0.04)",
+        "T+A vs.P+A",
+        "Confirmed HRS reversal: sCr <1.5 mg/dL twice while on Rx without dialysis or liver transplantation",
+        "Incidence of confirmed HRS reversalT+A arm: 19/97P+A arm: 13/99 (p=0.22)"
+      ],
+      [
+        "Wonget al.and Wonget al., United States and Canada101,112",
+        "300",
+        "• Cirrhosis and ascites• HRS1 per ICA 2007 diagnostic criteria• sCr ≤ 7 mg/dL• Absence of LVP >4 L in ≤2 d, untreated infection, severe cardiovascular disease• No RRT in <4 wk",
+        "T+A: 54 ± 11; 120/79P+A: 54 ± 12; 59/42",
+        "T+A vs.P+A",
+        "Verified HRS reversal: sCr <1.5 mg/dL twice while on Rx without dialysis and surviving for ≥10 d after Rx completion",
+        "Incidence of verified HRS reversalT+A arm: 63/199P+A arm: 17/101 (p=0.006)"
+      ],
+      [
+        "Alessandriaet al.Italy125b",
+        "22",
+        "• Cirrhosis and ascites• HRS1 per ICA 1996 diagnostic criteria• Absence of CAD, PVD, or respiratory failure",
+        "T+A: 56 ± 3; 9/3N+A: 55 ± 2; 7/3",
+        "T+A vs. N+Ac",
+        "Reversal of HRS: sCr <1.5 mg/dL",
+        "Incidence of HRS reversalT+A arm: 10/12N+A arm: 7/10(p>0.05)"
+      ],
+      [
+        "Sharmaet al.India126",
+        "40",
+        "• Cirrhosis and ascites• HRS1 per ICA 1996 diagnostic criteria• Absence of CAD, PVD, ventricular arrhythmia, or cardiomyopathy• Absence of bacterial infection in <1 wk",
+        "T+A: 48 ± 13; 17/3N+A: 48 ± 10; 17/3",
+        "T+A vs. N+A",
+        "Reversal of HRS: sCr <1.5 mg/dL",
+        "Incidence of HRS reversalT+A arm: 8/20N+A arm: 10/20(p=0.74)"
+      ],
+      [
+        "Singhet al.(2012), India127",
+        "46",
+        "• Cirrhosis and ascites• HRS1 per ICA 1996 diagnostic criteria• Absence of CAD, PVD, ventricular arrhythmia, or cardiomyopathy",
+        "T+A: 51 ± 12; 19/4N+A: 48 ± 12; 19/4",
+        "T+A vs. N+A",
+        "Reversal of HRS: sCr <1.5 mg/dL",
+        "Incidence of HRS reversalT+A arm: 9/23N+A arm: 10/23(p=0.76)"
+      ],
+      [
+        "Goyalet al., India128",
+        "41",
+        "• Cirrhosis and ascites• 18–70 y• HRS1 per ICA 2007 diagnostic criteria• Absence of CAD, PVD, ventricular arrhythmia, or cardiomyopathy• Absence of shock, severe sepsis, or pancreatitis",
+        "T+A: 57 ± 6; 17/3N+A: 55 ± 7; 20/1",
+        "T+A vs. N+A",
+        "Reversal of HRS: sCr <1.5 mg/dL",
+        "Incidence of HRS reversalT+A arm: 9/20N+A arm: 10/21(p=1.00)"
+      ],
+      [
+        "Saifet al., India129",
+        "60",
+        "• Cirrhosis and ascites• Rapid worsening of sCr to >1.5 mg/dL while fulfilling all other diagnostic criteria of HRS• Absence of CAD, PVD, ventricular arrhythmia, or sepsis",
+        "T+A: 54 ± 9N+A: 52 ± 13No mention of sex of patients",
+        "T+A vs. N+A",
+        "Reversal of HRS: sCr <1.5 mg/dL",
+        "Incidence of HRS reversalT+A arm: 17/30N+A arm: 16/30(p>0.05)"
+      ],
+      [
+        "Kwonget al., United States133",
+        "20",
+        "• Cirrhosis and ascites• HRS-AKI as per 2015 ICA diagnostic criteria• Absence of other vasoconstrictor use",
+        "64 (55–67); 14/6",
+        "Norepinephrine for midodrine/octreotide nonresponders",
+        "Regression of AKI stage with sCr decreasing to <0.3 mg/dL of baseline",
+        "Incidence of full response: 9/20"
+      ],
+      [
+        "Cavallinet al.Italy121d",
+        "49",
+        "• Cirrhosis and ascites• 18–75 y• HRS1 or severe HRS2 per ICA 2007 diagnostic criteria• Absence of CAD, septic shock, cardiac or respiratory failure or stroke• If HCC is present, it needs to be within Milan criteria",
+        "T+A: 60 ± 12; 21/6M/O+A: 65 ± 10; 11/10",
+        "T+A vs. M/O+A",
+        "Reversal of renal failure: sCr <1.5 mg/dL",
+        "Incidence of renal failure reversalT+A arm: 15/27M/O+A arm: 1/21(p<0.001)"
+      ]
+    ],
+    "row_count": 11,
+    "column_count": 7
+  },
+  {
+    "table_index": 6,
+    "headers": [
+      "Intervention",
+      "Rational"
+    ],
+    "rows": [
+      [
+        "Stop PPIs",
+        "Stop PPIs unless the patient has a clear and current indication"
+      ],
+      [
+        "Remove Foley catheters",
+        "• Limit the use of urinary catheters to eliminate frequent nosocomial UTIs• Avoid medications that can cause urinary retention, such as anticholinergics, in persons >65 y old"
+      ],
+      [
+        "SBP prophylaxis",
+        "Antibiotic use for secondary SBP prophylaxis and GI bleeding prophylaxis use"
+      ],
+      [
+        "Aspiration prevention measures",
+        "• Paracentesis for tense ascites• Avoid sedating medications:○ Benzodiazepines (including zolpidem)○ Opiates (including tramadol)• Avoid vomiting and dehydration from lactulose overuse• Careful airway monitoring of patients with a GI bleed and/or HE"
+      ],
+      [
+        "Length of stay",
+        "Limit length of hospital stay"
+      ],
+      [
+        "Ensure vaccines are up to date",
+        "• COVID-19• HAV and HBV• Influenza yearly• Pneumococcus every 5 y when patient is >65 y old, but consider starting in all patients with cirrhosis• Herpes zoster two doses separated by 2–6 mo in adults >50 y old• Tetanus–diphtheria–acellular pertussis every 10 y"
+      ]
+    ],
+    "row_count": 6,
+    "column_count": 2
+  },
+  {
+    "table_index": 7,
+    "headers": [
+      "Infection site",
+      "Finding",
+      "Considerations for peritransplant management"
+    ],
+    "rows": [
+      [
+        "Urinary tract",
+        "Asymptomatic bacteriuria",
+        "Not a contraindication to LT"
+      ],
+      [
+        "Urinary tract",
+        "Asymptomatic fungi",
+        "Not a contraindication to LT"
+      ],
+      [
+        "Urinary tract",
+        "UTI without urosepsis",
+        "Continue antibiotic therapy pre- and/or posttransplant"
+      ],
+      [
+        "Ascites",
+        "Spontaneous bacterial peritonitis",
+        "Consider reactivation if repeat tap shows >25% decrease in PMN count ≥48 h after therapy initiation"
+      ],
+      [
+        "Pulmonary",
+        "Spontaneous bacterial empyema",
+        "Treat similarly to spontaneous bacterial peritonitisDrainage and/or VATS may be required"
+      ],
+      [
+        "Pulmonary",
+        "Pneumonia",
+        "Consider reactivation after clinical improvement or 7 d of therapyConsider tracheal aspirate in vented patients to guide therapyConsider sampling of associated pleural fluid to rule out empyema"
+      ],
+      [
+        "Blood",
+        "Bacteremia/culture-negative sepsis",
+        "Repeat blood cultures at 2–3 d so that results are available at Day 5Consider reactivation at ≥5 d of antibiotics if rapid clinical improvement and repeat blood cultures are negative for ≥48 h"
+      ],
+      [
+        "Blood",
+        "Fungemia",
+        "Exclude secondary source and ensure negative blood cultures off therapy prior to reactivation"
+      ],
+      [
+        "Skin",
+        "—",
+        "Consider reactivation after clinical resolution or 5 d of antibiotics"
+      ],
+      [
+        "Gastrointestinal",
+        "Clostridium difficilecolitis",
+        "Consider reactivation after 7 d with clinical improvement and normalization of WBC count or earlier if flexible sigmoidoscopy documents mucosal healing"
+      ],
+      [
+        "Gastrointestinal",
+        "History ofC. difficile",
+        "Consider prophylactic treatment in the setting of antibiotics peritransplant"
+      ]
+    ],
+    "row_count": 11,
+    "column_count": 3
+  },
+  {
+    "table_index": 8,
+    "headers": [
+      "Category",
+      "Factors associated with adverse outcomes after LT"
+    ],
+    "rows": [
+      [
+        "Pre-LT factors",
+        "• Ventilatory status: on ventilator, respiratory failure, ARDS212,215,216,225,226,228,236,268,269• Lactate levels >4 mmol/L225,236,270• RRT212,242,268• Sepsis or infections with MDROs225,235,236,242,268• Fungal or nosocomial infection219• Longer ICU stay before OLT268,271• ACLF grade and high MELD9,212,213,238• Low pre-LT leukocyte count225• Advanced age9,225,235,238,270• ACLF progression272• HCC238"
+      ],
+      [
+        "Transplant-related factors",
+        "• High donor risk index215,225,238• Intraoperative blood transfusion268"
+      ],
+      [
+        "Post-LT factors",
+        "• Rejection episodes273• Sepsis and multiorgan failure216"
+      ]
+    ],
+    "row_count": 3,
+    "column_count": 2
+  },
+  {
+    "table_index": 9,
+    "headers": [],
+    "rows": [
+      [
+        "Outpatients",
+        "If a patient has orders to withhold or withdraw life-sustaining treatment, they should be followed.Palliative care or hospice should be offered to patients expected to survive <6 mo."
+      ],
+      [
+        "Inpatients",
+        "Patients with goals of care for medical therapy documented in one hospital should have them transferred with them to any other hospital.Patients should have a surrogate decision-maker identified within 48 h of hospital admission.Admitted patients who are not transplant candidates with HRS-AKI that does not respond to pharmacotherapy should be offered palliative care or hospice.Patients who are not transplant candidates and required hemodialysis or pacemaker placement should have a goals of care discussion before initiation/insertion.Patients who require mechanical ventilation for >48 h or remain in the ICU for >48 h should have goals of care discussed and documented in the chart.All patients with cirrhosis admitted to the ICU or who had a diagnosis of ACLF should receive a palliative care consult (or hospice consult when appropriate) to define and explain prognosis, determine goals of care, and document medical power of attorney and code status irrespective of transplant listing status."
+      ]
+    ],
+    "row_count": 2,
+    "column_count": 2
+  },
+  {
+    "table_index": 10,
+    "headers": [],
+    "rows": [
+      [
+        "Overall",
+        "Uniform definition of ACLF that can be applicable worldwideAppropriate duration of onset to define ACLFStandard management protocol for ACLF targeted at early diagnosis and reversal of precipitating events and organ failuresObjective outcomes (e.g., 1- or 3-month mortality) that are standardized"
+      ],
+      [
+        "Prognosis",
+        "Validated clinical scoring systems to assess severity of ACLF early in the clinical presentationScores that predict future decompensation and not simply reflect current critical illnessEstablishing interval for serial risk assessmentRole of biomarkers such as NGAL or cystatin C274,275in prediction of short-term mortalityRole of other inflammatory biomarkers,276serum metabolites,277,278and markers of dysbiosis279,280in prediction of short-term mortality"
+      ],
+      [
+        "Brain failure",
+        "Role of biomarkers for prediction and specific diagnosis of HE-related brain failureNewer therapeutic options that maximize pain control without sedation"
+      ],
+      [
+        "Kidney Failure",
+        "Role of biomarkers (NGAL, kidney injury molecule 1, cystatin C, IL-18, liver fatty-acid binding protein) to differentiate the causes of AKI281–283and assess response to treatmentDevelopment of newer classes of drugs such as renal vasodilators in combination with systemic vasoconstrictors284"
+      ],
+      [
+        "Infection",
+        "Novel approaches to identify MDR and fungal organisms earlier in patients with cirrhosisCulture-independent identification of causative organisms using rapid PCR “syndrome panels” and metagenomicsStudies to assess the optimal antibiotic therapy for SBP prophylaxis after MDR infectionsRole of microbiome alteration and outcomes after transplantation285–287"
+      ],
+      [
+        "Coagulopathy",
+        "Utilization of viscoelastic testing (TEG/ROTEM) in larger populations of critically ill patients with cirrhosis"
+      ],
+      [
+        "Nutrition",
+        "Optimal caloric and protein requirements in critically ill patients with cirrhosis"
+      ],
+      [
+        "Cardiovascular",
+        "Optimal MAP threshold and vasopressor choiceType, quantity, and target of albumin administration (serum albumin level vs. physiologic measures)Overall resuscitation strategies"
+      ],
+      [
+        "Pulmonary",
+        "Utility of indices predicting potential failure of noninvasive interventions and the need for escalation to invasive mechanical ventilationPotential benefits of low tidal volume and low PEEP strategies in mechanical ventilation on cardiopulmonary function and survival in patients with ACLFEvidence-based criteria (e.g., PaO2/FiO2<150 mm Hg) regarding objective respiratory parameters that would preclude transplant227"
+      ],
+      [
+        "Transplantation",
+        "Predictive models for LT candidacy and futilityProtocolized assessment, management, and evaluation of potential LT candidatesPolicies regarding SLKT in critically ill patients with cirrhosis/ACLF"
+      ],
+      [
+        "Palliative",
+        "Incorporation of palliative care principles into hepatology trainingDevelopments of liver-specific hospice to expand its acceptance and use for inpatient and outpatients with cirrhosis"
+      ]
+    ],
+    "row_count": 11,
+    "column_count": 2
+  }
+]

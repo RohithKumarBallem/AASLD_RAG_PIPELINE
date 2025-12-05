@@ -1,0 +1,1054 @@
+[
+  {
+    "table_index": 1,
+    "headers": [],
+    "rows": [
+      [
+        "End Note"
+      ],
+      [
+        "Procite"
+      ],
+      [
+        "Reference Manager"
+      ]
+    ],
+    "row_count": 3,
+    "column_count": 1
+  },
+  {
+    "table_index": 2,
+    "headers": [
+      "Study Design",
+      "Rating Quality",
+      "Strength Determinants",
+      "Strength and Implications of Recommendation"
+    ],
+    "rows": [
+      [
+        "Randomized controlled trial",
+        "High",
+        "Quality of evidence",
+        "Strong"
+      ],
+      [
+        "Moderate",
+        "Balance of benefits and harms",
+        "Most people would want courseMost people should take courseCan be adapted as policy in most cases"
+      ],
+      [
+        "Low",
+        "Patient values and preferences"
+      ],
+      [
+        "Observational",
+        "Very low",
+        "Resources and costs",
+        "Conditional"
+      ],
+      [
+        "Feasibility",
+        "Many people would select courseRequires decision aids and shared decision‐makingDebatable policy choice"
+      ],
+      [
+        "Acessibility"
+      ],
+      [
+        "Equity"
+      ]
+    ],
+    "row_count": 7,
+    "column_count": 4
+  },
+  {
+    "table_index": 3,
+    "headers": [
+      "Condition",
+      "Definition"
+    ],
+    "rows": [
+      [
+        "AIH",
+        "Characteristic histologic abnormalities (lymphoplasmacytic interface hepatitis), elevated AST, ALT, and total IgG and the presence of one or more characteristic autoantibodies"
+      ],
+      [
+        "Inactive cirrhosis",
+        "Absence of inflammatory infiltrates in both portal tracts and fibrous bands in cirrhosis"
+      ],
+      [
+        "Acute severe AIH",
+        "Jaundice, INR > 1.5 < 2, no encephalopathy; no previously recognized liver disease370"
+      ],
+      [
+        "ALF",
+        "INR ≥ 2; hepatic encephalopathy within 26 weeks of onset of illness; no previously recognized liver disease100"
+      ],
+      [
+        "Biochemical remission",
+        "Normalization of serum AST, ALT, and IgG*levels"
+      ],
+      [
+        "Histological remission",
+        "Absence of inflammation in liver tissue after treatment"
+      ],
+      [
+        "Treatment failure",
+        "Worsening laboratory or histological findings despite compliance with standard therapy"
+      ],
+      [
+        "Incomplete response",
+        "Improvement of laboratory and histological findings that are insufficient to satisfy criteria for remission"
+      ],
+      [
+        "Relapse",
+        "Exacerbation of disease activity after induction of remission and drug withdrawal (or nonadherence)"
+      ],
+      [
+        "Treatment intolerance",
+        "Inability to continue maintenance therapy due to drug‐related side effects"
+      ]
+    ],
+    "row_count": 10,
+    "column_count": 2
+  },
+  {
+    "table_index": 4,
+    "headers": [
+      "Features",
+      "Type 1 AIH",
+      "Type 2 AIH"
+    ],
+    "rows": [
+      [
+        "Frequency",
+        "US adults, 96%61",
+        "US children, 9%‐12%14"
+      ],
+      [
+        "UK children, 38%13"
+      ],
+      [
+        "Age at presentation",
+        "Peripubertal and adults",
+        "Usually under 14 years153"
+      ],
+      [
+        "Mode of presentation",
+        "Chronic symptoms common",
+        "Acute onset (~40%)"
+      ],
+      [
+        "Ascites or GI bleeding rare",
+        "Acute liver failure possible555"
+      ],
+      [
+        "Asymptomatic in 25%‐34%",
+        "Relapse frequent108"
+      ],
+      [
+        "Acute in 25%‐75%",
+        ""
+      ],
+      [
+        "Acute severe in 2%‐6%",
+        ""
+      ],
+      [
+        "Laboratory features",
+        "Hypergammaglobulinemia",
+        "IgA levels may be reduced153"
+      ],
+      [
+        "Autoantibodies",
+        "ANA",
+        "Anti‐LKM1"
+      ],
+      [
+        "SMA, anti‐actin",
+        "[Anti‐LC1, Anti‐LKM3]"
+      ],
+      [
+        "SLA",
+        ""
+      ],
+      [
+        "Concurrent immune diseases",
+        "Autoimmune thyroiditis",
+        "Autoimmune thyroiditis"
+      ],
+      [
+        "Rheumatic diseases",
+        "Diabetes mellitus"
+      ],
+      [
+        "IBD",
+        "Vitiligo"
+      ],
+      [
+        "Autoimmune overlap with PSC (ASC in children)",
+        "Common in children",
+        "Rare"
+      ],
+      [
+        "Atypical pANCA‐positive",
+        "Atypical pANCA‐negative"
+      ],
+      [
+        "Overlap with PBC",
+        "Seen in adults (not children)",
+        "Not reported"
+      ],
+      [
+        "Cirrhosis at presentation",
+        "Adults, 28%‐33% (especially elderly)",
+        "Rare"
+      ],
+      [
+        "Children, ≤33%"
+      ],
+      [
+        "Remission after drug withdrawal",
+        "Possible",
+        "Rare, usually need long‐term immunosuppression"
+      ]
+    ],
+    "row_count": 21,
+    "column_count": 3
+  },
+  {
+    "table_index": 5,
+    "headers": [
+      "Antibody",
+      "Target Antigen",
+      "Diagnostic Value"
+    ],
+    "rows": [
+      [
+        "ANA",
+        "Chromatin, ribonucleoproteins557",
+        "Type 1 AIH56"
+      ],
+      [
+        "SMA",
+        "Filamentous actin (F‐actin), vimentin, desmin81",
+        "Type 1 AIH56"
+      ],
+      [
+        "LKM1",
+        "Cytochrome P450 2D6 (CYP2D6)559",
+        "Type 2 AIH153"
+      ],
+      [
+        "SLA",
+        "Sep (O‐phosphoserine) transfer RNA:Sec (selenocysteine) transfer RNA synthase560",
+        "Type 1 AIH69"
+      ],
+      [
+        "Severe AIH70"
+      ],
+      [
+        "Predicts relapse after treatment73"
+      ],
+      [
+        "Associated with poor outcome70"
+      ],
+      [
+        "p‐ANCA (atypical)",
+        "Β‐tubulin isotype 577",
+        "Type 1 AIH75"
+      ],
+      [
+        "",
+        "Nuclear lamina proteins565",
+        "PSC566"
+      ],
+      [
+        "",
+        "ASC108"
+      ],
+      [
+        "Actin",
+        "Filamentous (F) actin81",
+        "Type 1 AIH81"
+      ],
+      [
+        "α‐Actinin",
+        "Filamentous actin cross‐linking proteins568",
+        "Investigational84"
+      ],
+      [
+        "",
+        "",
+        "Type 1 AIH85"
+      ],
+      [
+        "",
+        "",
+        "Prognostic biomarker85"
+      ],
+      [
+        "LKM3",
+        "UDP glucuronosyltransferase family 190",
+        "Type 2 AIH90"
+      ],
+      [
+        "",
+        "",
+        "Hepatitis D90"
+      ],
+      [
+        "LC‐1",
+        "Formiminotransferase cyclodeaminase569",
+        "Type 2 AIH569"
+      ],
+      [
+        "LM",
+        "Cytochrome P450 1A2572",
+        "Dihydralazine‐induced hepatitis574"
+      ],
+      [
+        "",
+        "",
+        "APECED hepatitis575"
+      ],
+      [
+        "AMA",
+        "E2‐subunits of pyruvate dehydrogenase complex576",
+        "PBC576"
+      ],
+      [
+        "PBC–AIH overlap syndrome177"
+      ],
+      [
+        "Type 1 AIH183"
+      ]
+    ],
+    "row_count": 22,
+    "column_count": 3
+  },
+  {
+    "table_index": 6,
+    "headers": [
+      "Definite Association",
+      "Probable Association",
+      "Possible Association"
+    ],
+    "rows": [
+      [
+        "Minocycline187",
+        "Propylthiouracil579",
+        "Ipilimumab (anti‐CTLA‐4)581"
+      ],
+      [
+        "Nitrofurantoin187",
+        "Isoniazid582",
+        "Tremelimumab (anti‐CTLA‐4)581"
+      ],
+      [
+        "Infliximab206",
+        "Diclofenac583",
+        "Nivolumab (anti‐PD‐1)581"
+      ],
+      [
+        "Alpha‐methyldopa585",
+        "Etanercept216",
+        "Pembroluzimab (anti‐PD‐1)230"
+      ],
+      [
+        "Adalimumab216",
+        "Atorvastatin592",
+        "Atezolizumab (anti‐PD‐L1)581"
+      ],
+      [
+        "Halothane596",
+        "Rosuvastatin598",
+        "Black cohosh (herbal medicine)599"
+      ],
+      [
+        "Oxyphenisatin*601",
+        "Clometacine602",
+        "Dai‐saiko‐to (herbal medicine)604"
+      ],
+      [
+        "Dihydralazine*573",
+        "",
+        "Germander (herbal medicine)606"
+      ],
+      [
+        "Tienilic acid*607",
+        "",
+        "Hydroxycut (nutritional supplement)608"
+      ],
+      [
+        "",
+        "",
+        "Trichloroethylene (toxin)609"
+      ],
+      [
+        "",
+        "",
+        "Papaverine610"
+      ],
+      [
+        "",
+        "",
+        "Indomethacin611"
+      ],
+      [
+        "",
+        "",
+        "Imatinab612"
+      ]
+    ],
+    "row_count": 13,
+    "column_count": 3
+  },
+  {
+    "table_index": 7,
+    "headers": [
+      "Clinical Features",
+      "Drug Induced AIH‐Like Injury",
+      "AIH"
+    ],
+    "rows": [
+      [
+        "Gender",
+        "Mainly women187",
+        "Female predominance, but men also affected2"
+      ],
+      [
+        "Acute onset",
+        "Majority (>60%)231",
+        "<20%2"
+      ],
+      [
+        "Hypersensitivity (fever, rash, eosinophilia)",
+        "Up to 30%231",
+        "Unusual2"
+      ],
+      [
+        "Temporal relationship with drug",
+        "Positive231",
+        "Negative2"
+      ],
+      [
+        "HLA DRB1*03:01 or DRB1*04:01 association",
+        "None236",
+        "Common29"
+      ],
+      [
+        "Concurrent autoimmune diseases",
+        "Unusual187",
+        "Present in 14%‐44%129"
+      ],
+      [
+        "Cirrhosis at presentation",
+        "Rare187",
+        "28%‐33%9"
+      ],
+      [
+        "Management",
+        "Stop offending drug ± glucocorticoids187",
+        "Glucocorticoids with AZA2"
+      ],
+      [
+        "Relapse after drug withdrawal",
+        "Rare187",
+        "60%‐87%243"
+      ],
+      [
+        "Progression to cirrhosis",
+        "Rare187",
+        "7%‐40%105"
+      ],
+      [
+        "Survival without transplantation",
+        "90%‐100%187",
+        "10‐year survival, 89%‐91%105"
+      ]
+    ],
+    "row_count": 11,
+    "column_count": 3
+  },
+  {
+    "table_index": 8,
+    "headers": [
+      "Medication",
+      "Safety Reports in Pregnancy"
+    ],
+    "rows": [
+      [
+        "Terlipressin",
+        "Uterine ischemia"
+      ],
+      [
+        "Octreotide",
+        "No harmful effects noted"
+      ],
+      [
+        "Beta‐blockers",
+        "Fetal bradycardia, fetal growth retardation"
+      ],
+      [
+        "Lactulose",
+        "No harmful effects noted"
+      ],
+      [
+        "Rifaximin",
+        "No harmful effects noted but limited data"
+      ],
+      [
+        "Corticosteroids",
+        "Inconsistent association with cleft abnormalities"
+      ],
+      [
+        "AZA",
+        "Premature birth"
+      ],
+      [
+        "MMF",
+        "Birth defects, spontaneous abortion"
+      ],
+      [
+        "TAC",
+        "Premature birth, transient neonatal renal dysfunction"
+      ]
+    ],
+    "row_count": 9,
+    "column_count": 2
+  },
+  {
+    "table_index": 9,
+    "headers": [
+      "Drug",
+      "Side Effects",
+      "Management Options"
+    ],
+    "rows": [
+      [
+        "Predniso(lo)ne",
+        "Cosmetic: Facial rounding, hirsutism, alopecia, dorsal hump, striaeSystemic: Weight gain, glucose intolerance/diabetes, hypertension, fatty liver, osteoporosis, vertebral compression, cataracts, glaucoma, opportunistic infectionsQuality of life: Emotional instability, psychosis, depression, anxiety",
+        "Actively taper to the lowest steroid dose needed for remission and attempt withdrawal after remissionEye examinations for cataract and glaucomaLifestyle interventions for metabolic syndromeBone density monitoringVitamin D and calcium administrationProactive screening and management for quality of life and mental health symptoms"
+      ],
+      [
+        "Budesonide",
+        "Reduced intensity of the side effects from prednisone is possible despite first‐pass metabolismUnable to reach the liver with portal hypertensive shuntsPortal vein thrombosis in cirrhosis",
+        "Taper budesonide to the lowest effective dose and attempt withdrawal after remissionDo not prescribe in cirrhosis and acute severe AIH"
+      ],
+      [
+        "AZA",
+        "Hematologic: Mild cytopenia, severe leukopenia or bone marrow failure (rare)Gastrointestinal: Nausea, emesis, pancreatitisNeoplastic: Nonmelanoma skin cancerCholestatic liver damage (rare)",
+        "Check TPMT metabolizer status prior to prescribingMonitor cell counts at least every 6 monthsReduce dose if mild cytopenia occursDiscontinue in severe cytopeniaDiscontinue in gastrointestinal intoleranceAvoid direct sunlight and have yearly dermatologic screening for skin cancerNot recommended in decompensated cirrhosis or acute severe AIH"
+      ]
+    ],
+    "row_count": 3,
+    "column_count": 3
+  },
+  {
+    "table_index": 10,
+    "headers": [
+      "Budesonide + AZA versus Predniso(ol)ne + AZA"
+    ],
+    "rows": [
+      [
+        "Biochemical remission",
+        "Two studies (one RCT351and one non‐RCT20)",
+        "High"
+      ],
+      [
+        "Rapidity of response",
+        "No studies reported rapidity of response",
+        ""
+      ],
+      [
+        "Side effects (bone disease, cytopenia, weight gain, portal vein thrombosis)",
+        "One study351reported more steroid‐specific side effects in prednisone group compared to budesonide group",
+        "Low"
+      ],
+      [
+        "Death",
+        "No studies reported death",
+        ""
+      ],
+      [
+        "Liver transplantation",
+        "No studies reported LT",
+        ""
+      ],
+      [
+        "Meta‐analysis:I2test of heterogeneity",
+        "I2= 0.0%,P= 0.495",
+        ""
+      ],
+      [
+        "Meta‐analysis for biochemical remission",
+        "OR, 2.19; 95% CI, 1.30‐3.67",
+        ""
+      ],
+      [
+        "Meta‐analysis: Conclusions",
+        "Few qualified studies"
+      ],
+      [
+        "Homogeneous test results between studies"
+      ],
+      [
+        "Current evidence insufficient to assess patient selection and long‐term outcome"
+      ],
+      [
+        "Budesonide and AZA favored for biochemical remission"
+      ],
+      [
+        "Conditional recommendation with low certainty for use of budesonide and AZA in children and adults without cirrhosis, acute severe hepatitis, or ALF"
+      ]
+    ],
+    "row_count": 12,
+    "column_count": 1
+  },
+  {
+    "table_index": 11,
+    "headers": [
+      "Strength Determinant",
+      "SR1: “First‐Line Treatment” (budesonide/AZA versus predniso(lo)ne/AZA",
+      "SR2: “Second‐Line Treatment” (MMF versus TAC)",
+      "SR3: “Steroid Withdrawal Post‐LT” (pred versus no pred)"
+    ],
+    "rows": [
+      [
+        "1. Benefits versus harms",
+        "Budesonide > pred",
+        "MMF > TAC",
+        "No pred > pred"
+      ],
+      [
+        "2. Certainty",
+        "Limited",
+        "Limited",
+        "Limited"
+      ],
+      [
+        "3. Cost",
+        "High cost/copay for budesonide",
+        "+MMF",
+        "No pred"
+      ],
+      [
+        "4. Patient values",
+        "Budesonide",
+        "+MMF (ease of use)",
+        "No pred"
+      ],
+      [
+        "+TAC (pregnancy)"
+      ],
+      [
+        "5. Feasibility",
+        "Copay may make it harder to get budesonide",
+        "Equal",
+        "Equal"
+      ],
+      [
+        "6. Accessibility",
+        "Copay may make it harder to get budesonide",
+        "Equal",
+        "Equal"
+      ],
+      [
+        "7. Equity",
+        "Equal",
+        "Equal",
+        "Equal"
+      ]
+    ],
+    "row_count": 8,
+    "column_count": 4
+  },
+  {
+    "table_index": 12,
+    "headers": [
+      "MMF versus TAC"
+    ],
+    "rows": [
+      [
+        "Biochemical remission",
+        "Two retrospective studies418reported no significant difference in frequency of biochemical remission",
+        "Low"
+      ],
+      [
+        "Drug intolerance",
+        "One study418reported drug intolerance and showed no significant difference between MMF and TAC in frequency of side effects",
+        "Very low"
+      ],
+      [
+        "Death or LT",
+        "One study418reported death or LT (together) and showed no significant difference in frequencies between MMF and TAC",
+        "Very low"
+      ],
+      [
+        "Meta‐analysis:I2test of heterogeneity",
+        "I2= 59.6%,P= 0.116",
+        ""
+      ],
+      [
+        "Meta‐analysis: For biochemical remission",
+        "OR, 1.95; 95% CI, 0.18‐20.81",
+        ""
+      ],
+      [
+        "Meta‐analysis: Conclusions",
+        "Few qualified studies"
+      ],
+      [
+        "Heterogeneous test results between studies"
+      ],
+      [
+        "Low‐quality evidence to assess differences in frequency of biochemical remission"
+      ],
+      [
+        "Very low‐quality evidence to assess differences in frequency of side effects, mortality, or need for LT"
+      ],
+      [
+        "Conditional recommendation with very low certainty that MMF be used over TAC based on ease of use and side effect profile"
+      ]
+    ],
+    "row_count": 10,
+    "column_count": 1
+  },
+  {
+    "table_index": 13,
+    "headers": [
+      "Continuation versus Discontinuation of Steroids After LT"
+    ],
+    "rows": [
+      [
+        "Recurrent autoimmune hepatitis",
+        "Two retrospective studies488and one RCT489reported no significant difference in recurrence of AIH after LT",
+        "Low"
+      ],
+      [
+        "Acute cellular rejection",
+        "No studies reported frequencies of acute cellular rejection",
+        ""
+      ],
+      [
+        "Graft loss",
+        "No studies reported frequencies of graft loss",
+        ""
+      ],
+      [
+        "Death",
+        "One RCT489reported no significant difference between the two groups",
+        "Very low"
+      ],
+      [
+        "Re‐transplantation",
+        "No studies reported retransplantation",
+        ""
+      ],
+      [
+        "Meta‐analysis:I2test of heterogeneity",
+        "I2= 38.6%,P= 0.202",
+        ""
+      ],
+      [
+        "Meta‐analysis: For biochemical remission",
+        "OR, 0.62; 95% CI, 0.19‐1.96",
+        ""
+      ],
+      [
+        "Meta‐analysis: Conclusions",
+        "Few qualified studies"
+      ],
+      [
+        "Heterogeneous test results between studies"
+      ],
+      [
+        "Low‐quality evidence to assess differences in frequency of recurrent AIH after LT"
+      ],
+      [
+        "Very low‐quality evidence to assess differences in mortality after LT"
+      ],
+      [
+        "Conditional recommendation of very low certainty that steroids be discontinued after LT"
+      ]
+    ],
+    "row_count": 12,
+    "column_count": 1
+  },
+  {
+    "table_index": 14,
+    "headers": [
+      "Categories",
+      "Recurrent AIH",
+      "De NovoAIH"
+    ],
+    "rows": [
+      [
+        "Clinical findings",
+        "Graft dysfunction at 2 months‐12 years471",
+        "Indication for LT other than AIH503"
+      ],
+      [
+        "Asymptomatic to graft failure614",
+        "Exclude plasma cell–rich rejection/plasma cell hepatitis521"
+      ],
+      [
+        "May be detected only by liver biopsy500",
+        ""
+      ],
+      [
+        "Laboratory findings",
+        "Increased serum AST, ALT, IgG levels501",
+        "Increased serum AST, ALT, IgG levels503"
+      ],
+      [
+        "Serological markers",
+        "Same antibodies as pre‐LT AIH617",
+        "ANA, SMA, anti‐LKM1503"
+      ],
+      [
+        "ANA, SMA common617"
+      ],
+      [
+        "Anti‐LKM1 rare618"
+      ],
+      [
+        "Histologic findings",
+        "Lobular hepatitis, focal necrosis, pseudorosettes (early)620",
+        "Interface hepatitis521"
+      ],
+      [
+        "Interface hepatitis, lymphoplasmacytic infiltration (late)623",
+        "Lymphoplasmacytic infiltrates521"
+      ],
+      [
+        "Lobular collapse, confluent/bridging necrosis (severe)621",
+        ""
+      ],
+      [
+        "Treatment",
+        "Predniso(lo)ne, 30 mg daily, and AZA, 1‐2 mg/kg daily499",
+        "Children501Predniso(lo)ne (1‐2 mg/kg, <60 mg daily) and AZA (1‐2 mg/kg daily)Otherwise same as recurrent AIH adults501Same as recurrent AIH"
+      ],
+      [
+        "Predniso(lo)ne dose reduction to 5‐10 mg daily in 4‐8 weeks624"
+      ],
+      [
+        "Predniso(lo)ne and AZA maintenance501"
+      ],
+      [
+        "Continue calcineurin inhibitor624"
+      ],
+      [
+        "Rescue regimens (empiric)",
+        "MMF for AZA627",
+        "MMF for AZA419"
+      ],
+      [
+        "Switch calcineurin inhibitor498",
+        "Rapamycin629"
+      ],
+      [
+        "Rapamycin628",
+        ""
+      ],
+      [
+        "Outcomes",
+        "5‐year patient survival, 86%‐100%500",
+        "Better in children than adults503"
+      ],
+      [
+        "Graft failure, 8%‐50%614",
+        "Biochemical remission, 86%503"
+      ],
+      [
+        "Retransplantation, 33%‐60%614",
+        "Retransplantation, 8%508"
+      ],
+      [
+        "Recurrent AIH in retransplanted liver, 33%‐100%614",
+        "Patient survival, 95%626"
+      ]
+    ],
+    "row_count": 21,
+    "column_count": 3
+  },
+  {
+    "table_index": 15,
+    "headers": [
+      "Goal",
+      "Treatment",
+      "Mechanism of Action",
+      "Status of Development"
+    ],
+    "rows": [
+      [
+        "Decrease the numbers and/or functions of autoimmune effector cells and pathogenic autoantibodies",
+        "Immunosuppressive drugs: CNI, mTOR, antiproliferative agents",
+        "Inhibit proliferation of autoantigen‐activated CD4 and CD8 T cells by reducing the amount and/or signaling of mitogenic IL‐2 or block completion of T‐cell division",
+        "SOC in multiple AI diseases. Combination therapies using subtoxic doses of two or more agents attractive. Ongoing research into prevention and management of toxicities"
+      ],
+      [
+        "Anti‐CD20",
+        "B‐cell depletion"
+      ],
+      [
+        "Anti‐BAFF",
+        "B‐cell depletion followed by mobilization of memory B cells from lymphoid tissue. Potent inhibition of BAFF signaling in activated T cells",
+        "Off‐label use as alternative therapy in AIH"
+      ],
+      [
+        "Anti‐BAFF, followed by anti‐CD20",
+        "SOC in SLE. Ongoing clinical trial in AIH"
+      ],
+      [
+        "Anti‐CD40",
+        "Depletion of memory B cells mobilized from lymphoid tissues by anti‐BAFF",
+        "Clinical trials planned in AI diseases"
+      ],
+      [
+        "Efgartigimod",
+        "Block CD40‐CD40L (CD154) costimulation of T cells and B cells",
+        "POC. Clinical trial initiated in liver transplantation"
+      ],
+      [
+        "Inhibition of sphingosine‐1‐phosphate receptors",
+        "First in class antibody fragment to block FcRn to increase IgG clearance and prevent IgG recycling",
+        "POC to reduce pathogenic autoantibodies and Ig–autoantigen immune complexes"
+      ],
+      [
+        "Myeloid‐derived suppressor cells",
+        "Prevent egress of activated T cells from lymph nodes into blood",
+        "SOC in MS, new agents in development for other AI diseases"
+      ],
+      [
+        "Inhibit autoreactive T‐cell activation and proliferation",
+        "POC in preclinical models. Clinical trials planned in RA"
+      ],
+      [
+        "Decrease and/or inhibit proinflammatory cytokines",
+        "Anti‐TNFα or TNFα‐receptor",
+        "Reduce TNFα‐mediated tissue injury and proinflammatory signaling pathways",
+        "SOC in multiple AI diseases. Studied as an alternative therapy in AIH"
+      ],
+      [
+        "Anti‐IL‐6 or anti‐IL‐6R",
+        "Reduce pathogenic effects of proinflammatory IL‐6 signaling in innate and adaptive immune responses",
+        "SOC in RA, clinical trials ongoing in other AI diseases"
+      ],
+      [
+        "Anti‐IL‐12 (p40 subunit)",
+        "Reduce pathogenic effects of proinflammatory IL‐12 signaling in innate and adaptive immune responses",
+        "SOC in psoriasis and Crohn’s disease. Also blocks IL‐23 signaling"
+      ],
+      [
+        "Anti‐IL‐17a or Anti‐17R",
+        "Reduce pathogenic effects of IL‐17",
+        "SOC for psoriasis and psoriatic arthritis. Clinical trials planned in other AI diseases"
+      ],
+      [
+        "Anti‐IL‐21",
+        "Reduce multiple pathogenic effects of IL‐21 in innate and adaptive immune responses",
+        "Ongoing clinical trials in RA, T1DM, and Crohn’s disease"
+      ],
+      [
+        "Anti‐IL‐23 (p19 or p40 subunits)",
+        "Reduce pathogenic effects of proinflammatory IL‐23 stimulation of Th17 cells",
+        "SOC in psoriasis and Crohn’s disease"
+      ],
+      [
+        "Anti‐Blys",
+        "Reduce pathogenic B‐cell selection, differentiation, and homeostasis",
+        "SOC in SLE"
+      ],
+      [
+        "Inhibit signaling of proinflammatory cytokines",
+        "mTOR inhibition",
+        "Decrease proliferation of activated CD4 and CD8 T cells by inhibiting signaling of IL‐2",
+        "SOC in solid organ transplantation and AI diseases. Alternative therapy in AIH"
+      ],
+      [
+        "Tofacitinib (JAK3 inhibitor of IL‐2 signaling)",
+        "Decrease proliferation of activated CD4 and CD8 T cells by inhibiting signaling of IL‐2",
+        "SOC in RA. Clinical trials planned"
+      ],
+      [
+        "Baricitinib (JAK1/2 inhibitor of IL‐6 and IFNγ signaling)",
+        "Reduce pathogenic effects of proinflammatory IL‐6 signaling through IL‐6R in innate and adaptive immune responses and pathogenic effects of IFNγ signaling in NK, NK T, CD4, and CD8 T cells",
+        "SOC in RA. Ongoing clinical trial in PBC"
+      ],
+      [
+        "Pacritinib (JAK2 inhibitor of IL‐12/IL‐23 signaling)",
+        "Reduce proinflammatory IL‐12 and Il‐23 signaling that polarizes increases CD4 Th1 polarization, secretion of IFNγ and TNFα, cytotoxic activity of NK and CD8 CTLs, and differentiation of pathogenic Th17 cells",
+        "POC established. Ongoing clinical trials"
+      ],
+      [
+        "Filotinib (JAK1 inhibitor of IFNα/IFNβ signaling)",
+        "Reduce immunopathogenic gene expression induced by type 1 IFNs",
+        "POC established. Ongoing clinical trials"
+      ],
+      [
+        "Upadacitinib (selective JAK1 inhibitor of IFNα/IFNβ signaling)",
+        "Reduce immunopathogenic gene expression",
+        "SOC for refractory RA"
+      ],
+      [
+        "Augment effects of immunosuppressant cytokines",
+        "rHuIL‐10",
+        "Reduce immunopathogenic effects of activated CD4 Th1 cells",
+        "SOC to prevent pancreatitis post‐ERCP"
+      ],
+      [
+        "Trial in UC terminated for concern of Guillain‐Barré syndrome"
+      ],
+      [
+        "Inhibit transendothelial migration of effector cells from blood into tissues",
+        "Inhibition of chemokine receptors or integrins",
+        "Prevent tissue inflammation and injury by blocking transendothelial entry of effector cells from blood into target tissues",
+        "SOC inhibition of α4/β7 integrin in UC. Clinical trial in PSC ineffective"
+      ],
+      [
+        "Prevent chemokine‐induced terminal differentiation of effector cells",
+        "Potential for clinical trials of other Food and Drug Administration–approved chemokine/integrin inhibitors"
+      ],
+      [
+        "Establish immunoregulatory control",
+        "Low‐dose IL‐2 infusion to increase autoantigen‐specific iTregs",
+        "Expansion of preexisting autoantigen‐specific iTregsin vivorequires exposure to low concentrations of IL‐2",
+        "POC established"
+      ],
+      [
+        "Clinical trials ongoing"
+      ],
+      [
+        "Infusion of autoantigen‐specific iTregs generatedex vivo",
+        "Ex vivogeneration of autologous autoantigen‐specific iTregs followed by infusion to immunologically control autoantigen‐specific CD4 Th‐cell subset responses",
+        "POC of iTreg generationex vivoestablished. Future clinical trials planned in AIH. Viability, function, and distribution of iTregs after infusion unknown"
+      ],
+      [
+        "Inhibition of bromodomain and extraterminal family of proteins",
+        "Inhibition of disease‐specific epigenetic transcriptional enhancers, superenhancers, and enhancer RNA production to decrease autoimmune reactions",
+        "POC established. Clinical trials ongoing"
+      ],
+      [
+        "Mesenchymal stem cells",
+        "Inhibition of innate immune cells, effector T cells",
+        "POC established. Clinical trials ongoing"
+      ],
+      [
+        "Induction of antigen‐specific iTregs"
+      ],
+      [
+        "Reduction of TNFα secretion"
+      ],
+      [
+        "Establish physiologic immunoregulatory state of pregnancy",
+        "PIF",
+        "Creation of immunosuppressive and immunomodulatory environment of pregnancy",
+        "Phase 1b trial of synthetic PIF in AIH completed. Ongoing clinical trial"
+      ]
+    ],
+    "row_count": 34,
+    "column_count": 4
+  }
+]

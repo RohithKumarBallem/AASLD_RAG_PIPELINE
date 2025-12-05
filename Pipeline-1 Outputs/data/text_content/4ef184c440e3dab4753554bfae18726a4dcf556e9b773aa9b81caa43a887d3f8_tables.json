@@ -1,0 +1,100 @@
+[
+  {
+    "table_index": 1,
+    "headers": [],
+    "rows": [
+      [
+        "End Note"
+      ],
+      [
+        "Procite"
+      ],
+      [
+        "Reference Manager"
+      ]
+    ],
+    "row_count": 3,
+    "column_count": 1
+  },
+  {
+    "table_index": 2,
+    "headers": [
+      "Sign/Symptom",
+      "Medication(s)",
+      "Type/Class",
+      "Notes"
+    ],
+    "rows": [
+      [
+        "Abnormal liver tests",
+        "UDCA",
+        "Bile acid",
+        "First‐line treatment for PBC"
+      ],
+      [
+        "OCA",
+        "Bile acid",
+        "For those who do not fully respond to UDCA; should not be used in people with decompensated cirrhosis"
+      ],
+      [
+        "Bezafibrate",
+        "Fibrate",
+        "Should not be used in people with decompensated cirrhosis"
+      ],
+      [
+        "Fenofibrate"
+      ],
+      [
+        "Itchiness (pruritus)",
+        "Cholestyramine",
+        "Anion‐exchange resin",
+        "Bind and remove substances in blood that cause itching"
+      ],
+      [
+        "Colestipol"
+      ],
+      [
+        "Colesevelam"
+      ],
+      [
+        "Rifampicin",
+        "Antibiotic",
+        "For itchiness that does not respond to first treatment"
+      ],
+      [
+        "Naltrexone",
+        "Opioid antagonist",
+        "For itchiness that does not respond to first treatment"
+      ],
+      [
+        "Sertraline",
+        "Selective serotonin reuptake inhibitor",
+        "For itchiness that does not respond to first treatment"
+      ],
+      [
+        "Dry eyes and mouth",
+        "Artificial tears",
+        "Saline",
+        "Rewetting of eyes"
+      ],
+      [
+        "Cyclosporine",
+        "Immunosuppressant",
+        "Decreases eye inflammation; may need ophthalmologist"
+      ],
+      [
+        "Lifitegrast"
+      ],
+      [
+        "Pilocarpine",
+        "Acetylcholine receptor agonist",
+        "Increases production of tears and saliva"
+      ],
+      [
+        "Cevimeline"
+      ]
+    ],
+    "row_count": 15,
+    "column_count": 4
+  }
+]

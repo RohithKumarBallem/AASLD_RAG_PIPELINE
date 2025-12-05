@@ -1,0 +1,190 @@
+[
+  {
+    "table_index": 1,
+    "headers": [],
+    "rows": [
+      [
+        "End Note"
+      ],
+      [
+        "Procite"
+      ],
+      [
+        "Reference Manager"
+      ]
+    ],
+    "row_count": 3,
+    "column_count": 1
+  },
+  {
+    "table_index": 2,
+    "headers": [],
+    "rows": [
+      [
+        "Your Experience in the Past Year"
+      ],
+      [
+        "1. You drink alcohol in larger amounts or over a longer period of time than you wanted."
+      ],
+      [
+        "2. You want to decrease the amount of alcohol in your life and have tried unsuccessfully to cut down or control alcohol use."
+      ],
+      [
+        "3. You spend a lot of time trying to get alcohol, drink alcohol, or recover from its effects."
+      ],
+      [
+        "4. You need or have a strong desire to drink alcohol."
+      ],
+      [
+        "5. Because of your drinking, you are unable to fulfill your responsibilities at work, school, or home."
+      ],
+      [
+        "6. You continue to drink alcohol even though it causes repeated problems in your social and family life."
+      ],
+      [
+        "7. You give up or decrease time with your friends, family, and coworkers to drink alcohol."
+      ],
+      [
+        "8. You continue to drink alcohol in situations that are physically dangerous."
+      ],
+      [
+        "9. You continue to drink alcohol even though you know it is hurting you physically and emotionally."
+      ],
+      [
+        "10. Alcohol tolerance, defined as either 1 or 2:"
+      ],
+      [
+        "1. You need to drink more and more alcohol to achieve the desired effect/“buzz”; or"
+      ],
+      [
+        "2. You notice a decreased physical and emotional effect even though you are drinking the same amount of alcohol."
+      ],
+      [
+        "11. Alcohol withdrawal, defined as either A or B:"
+      ],
+      [
+        "A. Alcohol withdrawal symptoms (anxiety, shaky hands, headache, nausea, vomiting, sweating, can’t sleep, racing heart, high blood pressure, fever, hallucinations, seizures)"
+      ],
+      [
+        "B. Alcohol (or a closely related medication, such as benzodiazepine) is used to avoid or relieve the symptoms in A."
+      ],
+      [
+        "If you answered yes to at least 2 of these symptoms, you have AUD:"
+      ],
+      [
+        "Mild: 2‐3 symptomsModerate: 4‐5 symptomsSevere: ≥6 symptoms"
+      ]
+    ],
+    "row_count": 18,
+    "column_count": 1
+  },
+  {
+    "table_index": 3,
+    "headers": [],
+    "rows": [
+      [
+        "1. How often do you have a drink containing alcohol?",
+        "Score"
+      ],
+      [
+        "Never (0)",
+        "Monthly or less (1)",
+        "Two to four times a month (2)",
+        "Two to three times per week (3)",
+        "Four or more times a week (4)",
+        "______"
+      ],
+      [
+        "2. How many drinks containing alcohol do you have on a typical day when you are drinking?",
+        ""
+      ],
+      [
+        "1 or 2 (0)",
+        "3 or 4 (1)",
+        "5 or 6 (2)",
+        "7 to 9 (3)",
+        "10 or more (4)",
+        "______"
+      ],
+      [
+        "3. How often do you have six or more drinks on one occasion?",
+        ""
+      ],
+      [
+        "Never (0)",
+        "Less than monthly (1)",
+        "Monthly (2)",
+        "Two to three times per week (3)",
+        "Four or more times a week (4)",
+        "______"
+      ]
+    ],
+    "row_count": 6,
+    "column_count": 2
+  },
+  {
+    "table_index": 4,
+    "headers": [
+      "Signs and Symptoms of Alcoholic Hepatitis"
+    ],
+    "rows": [
+      [
+        "No appetite"
+      ],
+      [
+        "Nausea and vomiting"
+      ],
+      [
+        "Abdominal discomfort or pain"
+      ],
+      [
+        "Weight loss"
+      ],
+      [
+        "Ascites"
+      ],
+      [
+        "Confusion"
+      ],
+      [
+        "Jaundice"
+      ],
+      [
+        "Malnutrition"
+      ]
+    ],
+    "row_count": 8,
+    "column_count": 1
+  },
+  {
+    "table_index": 5,
+    "headers": [
+      "Blood Test",
+      "Your Result"
+    ],
+    "rows": [
+      [
+        "Bilirubin",
+        "____ mg/dL"
+      ],
+      [
+        "International normalized ratio",
+        "____"
+      ],
+      [
+        "Creatinine",
+        "____ mg/dL"
+      ],
+      [
+        "Sodium",
+        "____ mEq/L"
+      ],
+      [
+        "Did the patient have dialysis at least twice in the past week?",
+        "__ Yes __ No"
+      ]
+    ],
+    "row_count": 5,
+    "column_count": 2
+  }
+]

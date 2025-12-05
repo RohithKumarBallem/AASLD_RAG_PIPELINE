@@ -1,0 +1,405 @@
+[
+  {
+    "table_index": 1,
+    "headers": [],
+    "rows": [
+      [
+        "End Note"
+      ],
+      [
+        "Procite"
+      ],
+      [
+        "Reference Manager"
+      ]
+    ],
+    "row_count": 3,
+    "column_count": 1
+  },
+  {
+    "table_index": 2,
+    "headers": [
+      "",
+      "Location",
+      "Supply (afferent)",
+      "Drainage (efferent)"
+    ],
+    "rows": [
+      [
+        "Gastroesophageal varices"
+      ],
+      [
+        "Esophageal varices",
+        "Mid- and distal esophagus",
+        "Left gastric vein",
+        "Through azygos and hemiazygos vein into SVC"
+      ],
+      [
+        "Gastroesophageal varices (GOV): contiguous with esophageal varices"
+      ],
+      [
+        "GOV1",
+        "Lesser curvature of stomach",
+        "Left gastric vein",
+        "Through azygos and hemiazygos veins into SVC"
+      ],
+      [
+        "GOV2",
+        "Greater curvature of stomach/fundus",
+        "Left gastric vein and posterior gastric vein",
+        "Through azygos vein and hemiazygos veins into SVC and inferior phrenic vein into left renal vein (GRS) or IVC (gastrocaval shunt)"
+      ],
+      [
+        "Isolated gastric varices (IGV)"
+      ],
+      [
+        "IGV1",
+        "Fundus",
+        "Short gastric veins, posterior gastric vein",
+        "Through inferior phrenic vein into left renal vein (GRS) or into IVC (gastrocaval shunt)"
+      ],
+      [
+        "IGV2",
+        "Any location in stomach other than the fundus",
+        "Short gastric veins, posterior gastric vein",
+        "Left and right gastric vein"
+      ],
+      [
+        "Ectopic varices"
+      ],
+      [
+        "Rectal varices",
+        "Rectum",
+        "Superior rectal vein",
+        "Through middle and inferior rectal vein into internal iliac vein"
+      ],
+      [
+        "Duodenal varices",
+        "Duodenum",
+        "Superior or inferior pancreaticoduodenal veins5,6",
+        "Through gonadal or renal capsular vein into IVC"
+      ],
+      [
+        "Stomal varices",
+        "Surgically created ostomies",
+        "Mesenteric branches from the superior mesenteric vein7",
+        "Through systemic venous collaterals in abdominal wall into iliofemoral vein"
+      ]
+    ],
+    "row_count": 12,
+    "column_count": 4
+  },
+  {
+    "table_index": 3,
+    "headers": [
+      "",
+      "Basis of classification",
+      "Description"
+    ],
+    "rows": [
+      [
+        "Sarin Classification9",
+        "Endoscopic location",
+        "Gastroesophageal varices (GOV) type 1: lesser curvature"
+      ],
+      [
+        "",
+        "",
+        "Gastroesophageal varices (GOV) type 2: greater curvature"
+      ],
+      [
+        "",
+        "",
+        "Isolated gastric varices type 1: fundus"
+      ],
+      [
+        "",
+        "",
+        "Isolated gastric varices type 2: anywhere in the stomach other than fundus"
+      ],
+      [
+        "Saad-Caldwell Classification4",
+        "Type of varices and presence and absence of shunts",
+        "Type 1: Supply (afferent flow) through left gastric vein"
+      ],
+      [
+        "",
+        "",
+        "1(a): Drainage through small portosystemic collaterals"
+      ],
+      [
+        "",
+        "",
+        "1(b): Drainage mainly through GRS"
+      ],
+      [
+        "",
+        "",
+        "Type 2: Supply (afferent flow) through short gastric veins"
+      ],
+      [
+        "",
+        "",
+        "2(a): Drainage through small portosystemic collaterals"
+      ],
+      [
+        "",
+        "",
+        "2(b): Drainage mainly through GRS"
+      ],
+      [
+        "",
+        "",
+        "Type 3: Supply (afferent) through left gastric and short gastric veins"
+      ],
+      [
+        "",
+        "",
+        "3(a): Drainage through small portosystemic collaterals"
+      ],
+      [
+        "",
+        "",
+        "3(b): Drainage mainly through GRS"
+      ],
+      [
+        "",
+        "",
+        "Type 4"
+      ],
+      [
+        "",
+        "",
+        "4(a): Type 3(a) with PVT"
+      ],
+      [
+        "",
+        "",
+        "4(b): Type 3(b) with PVT"
+      ],
+      [
+        "Kiyosue Classification11",
+        "Patterns of supplying (afferent) and draining (efferent) veins",
+        "Supply"
+      ],
+      [
+        "",
+        "",
+        "Type 1: Single gastric vein"
+      ],
+      [
+        "",
+        "",
+        "Type 2: Multiple gastric veins"
+      ],
+      [
+        "",
+        "",
+        "Type 3: Single or multiple gastric veins with coexistent gastric veins that are contiguous with a shunt but do not contribute to the varices"
+      ],
+      [
+        "",
+        "",
+        "Drainage"
+      ],
+      [
+        "",
+        "",
+        "Type A: Single shunt"
+      ],
+      [
+        "",
+        "",
+        "Type B: Single shunt and collateral veins"
+      ],
+      [
+        "",
+        "",
+        "Type C: Both gastrorenal and gastrocaval shunts"
+      ],
+      [
+        "",
+        "",
+        "Type D: A shunt which cannot be catheterized"
+      ],
+      [
+        "Hirota Classification12",
+        "Visualization during venography",
+        "Grade 1: No evidence of collateral veins, gastric varices are well opacified"
+      ],
+      [
+        "",
+        "",
+        "Grade 2: Few small collateral veins, contrast remains in gastric varices for >3 min"
+      ],
+      [
+        "",
+        "",
+        "Grade 3: Few medium to large collateral veins, partial opacification of gastric varices, contrast remains in gastric varices <3 min"
+      ],
+      [
+        "",
+        "",
+        "Grade 4: Large collateral veins, gastric varices are not well opacified"
+      ],
+      [
+        "",
+        "",
+        "Grade 5: Large GRS with rapid flow; left adrenal vein cannot be occluded with balloon catheter"
+      ],
+      [
+        "Matsumoto Classification13",
+        "Flow dynamics of the circuit",
+        "Type 1: Gastric veins communicate with GRS"
+      ],
+      [
+        "",
+        "",
+        "1(a): Hepatopetal blood flow"
+      ],
+      [
+        "",
+        "",
+        "1(b): Hepatofugal blood flow"
+      ],
+      [
+        "",
+        "",
+        "Type 2: No evidence of communication between gastric veins and GRS"
+      ],
+      [
+        "",
+        "",
+        "2(a): Hepatopetal blood flow"
+      ],
+      [
+        "",
+        "",
+        "2(b): Hepatofugal blood flow"
+      ]
+    ],
+    "row_count": 36,
+    "column_count": 3
+  },
+  {
+    "table_index": 4,
+    "headers": [
+      "",
+      "",
+      "Variceal obliteration techniques"
+    ],
+    "rows": [
+      [
+        "Technique",
+        "Percutaneously created portosystemic shunt connecting portal vein with hepatic veinTIPS can be performed with ATO.Might complement RTO",
+        "Balloon occlusion of a GRS and retrograde injection of sclerosant agent, with ensuing gastric variceal obliterationBalloon occlusion maintained up to 36 hNeed for ICU monitoring",
+        "The GRS is occluded with a vascular plug, and Gelfoam is injected retrogradely to obliterate the gastric varices.",
+        "The GRS is occluded with coils, and Gelfoam is injected retrogradely to obliterate the gastric varices.",
+        "Percutaneous transhepatic or trans-splenic embolization of portomesenteric veins supplying esophageal, gastric or ectopic varices using various embolic materialsATO can be performed with TIPS or RTO."
+      ],
+      [
+        "Technical limitations",
+        "Challenging in patients with PVT, biliary dilation, hepatic tumors, and polycystic liver",
+        "Need for prolonged balloon occlusion (up to 36 h), with ICU monitoring during this periodMight not be possible in patients with shunts larger than available balloon diameters",
+        "Might not be possible inpatients with shunts larger than available plugs (<18 mm)Might not be possible in challenging anatomy, such as a very tortuous course from IVC to renal vein to GRS (Z-path)",
+        "Might not be possible in patients with giant shunts larger than available coils (<30 mm)No anatomical limitation",
+        "Might not be able to embolize multiple collateral veins supplying varices, resulting in early rebleeding from collateralsMore invasive than RTO because it requires direct percutaneous access through the liver or spleen or through TIPS"
+      ],
+      [
+        "Physiological effects",
+        "Decrease in PSPGIncrease in COIncrease in cardiopulmonary pressures",
+        "Decrease in portosystemic shuntingRedirection of flow through portosystemic collaterals to the liver, with potential improvement in liver function and hepatic encephalopathyIncrease in PSPG with the possibility of new complications of portal hypertension (ascites or esophageal variceal hemorrhage)"
+      ],
+      [
+        "Clinical context of use",
+        "Variceal hemorrhage because of esophageal and GOV1, gastrofundal varices or ectopic varicesPreemptive TIPSSalvage TIPSRescue TIPSSecondary prevention",
+        "Gastrofundal variceal hemorrhage with a GRS allowing retrograde access:Treatment of acute hemorrhagePrevention of rebleedingTreatment of ectopic varices with favorable anatomy (large and accessible efferent shunt)",
+        "Variceal hemorrhage because ofEsophageal varicesGastric varicesEctopic varices"
+      ],
+      [
+        "Contraindications",
+        "Congestive heart failure (Stage C/D or EF <50%)Severe pulmonary hypertension with mPAP >45 mm HgSevere uncontrolled hepatic encephalopathyUncontrolled sepsis",
+        "Splenic and/or portal vein thrombosis (needs sufficient hepatopedal flow capacity for blood flow redirection)Active sepsisUncontrolled esophageal variceal hemorrhage (would require simultaneous TIPS)Poor liver function or hepatic encephalopathy are not a limitation and might improve with RTO",
+        "CoagulopathySplenic and/or portal vein thrombosis (unable to access these vessels)Active sepsis"
+      ],
+      [
+        "Procedural or short-term complications",
+        "<5% frequencyIntraperitoneal bleedingArterial injuryLiver infarctCapsular punctureHemobiliaSepsisTIPS thrombosis/dysfunction",
+        "Related to sclerosant escape to systemic and/or portal circulation:Renal vein thrombosisPVTPulmonary embolismAnaphylactic shockDisseminated intravascular coagulationAcute kidney injury",
+        "Related to Gelfoam escape to systemic and/or portal circulation (rare)Renal vein thrombosisPVTPulmonary embolismPlug or coil migration into renal vein and causing nontarget embolization (rare)",
+        "Related to embolic materials escape to systemic and/or portal circulation (rare)Renal vein thrombosisPVTPulmonary embolism"
+      ],
+      [
+        "Long-term complications",
+        "Related to an increase in portal systemic shunt:New or worsening hepatic encephalopathyWorsening liver functionRelated to cardiac overloadCongestive heart failurePulmonary hypertension",
+        "Related to the increase in PSPGNew or worsening esophageal or ectopic varicesNew or worsening ascites and/or hepatic hydrothorax"
+      ],
+      [
+        "Follow-up",
+        "Doppler-US study in1–4 weeks3 months6 months and6 months thereafter",
+        "Contrast CT venogram or EUS in2–3 days prior to dischargeEndoscopic evaluation of gastric and esophageal varices in 1–2 monthsIf normal, further imaging and endoscopic follow-up according to existing guidance"
+      ]
+    ],
+    "row_count": 8,
+    "column_count": 3
+  },
+  {
+    "table_index": 5,
+    "headers": [],
+    "rows": [
+      [
+        "Preemptive TIPS (previously called “early TIPS”)",
+        "TIPS placed preemptively within 72 h of the hemorrhage, in patients with hemorrhage controlled with medical/endoscopic therapy at high risk of treatment failure"
+      ],
+      [
+        "Salvage TIPS",
+        "TIPS placed in patients with uncontrolled (ongoing) bleeding despite medical and endoscopic therapy"
+      ],
+      [
+        "Rescue TIPS",
+        "TIPS placed for early (within 5 days) recurrence of variceal hemorrhage"
+      ],
+      [
+        "TIPS for secondary prevention of variceal hemorrhage (“elective TIPS”)",
+        "TIPS placed in patients who have recovered from acute variceal hemorrhage (more than 72 h after the index bleed)"
+      ]
+    ],
+    "row_count": 4,
+    "column_count": 2
+  },
+  {
+    "table_index": 6,
+    "headers": [],
+    "rows": [
+      [
+        "1. Determining the best strategy for TIPS for variceal hemorrhage, including the optimal intraprocedural decrease in portal pressure gradient (based on source of bleed) and the best way to assess this gradient, including the internal zero (IVC vs. right atrium) and the timing of post-TIPS measurement"
+      ],
+      [
+        "2. Assessing whether initial TIPS placement using a small (8 mm) diameter stent, independent of post-TIPS PSPG, will decrease post-TIPS complications while maintaining efficacy"
+      ],
+      [
+        "3. Determining the outcomes of TIPS and portomesenteric thrombectomy versus anticoagulation in the treatment of variceal bleeding of patients with portomesenteric thrombosis"
+      ],
+      [
+        "4. Testing the role of nonselective beta-adrenergic blockers as adjuvant therapy for TIPS, which could allow similar decreases in portal pressure with less portal systemic shunting and less complications"
+      ],
+      [
+        "5. Determining the optimal technical approach to RTO"
+      ],
+      [
+        "6. Addressing if TIPS results and complications in the treatment of variceal hemorrhage depend on etiology. Specifically, addressing if the results of TIPS trials conducted mainly in patients with alcohol-associated cirrhosis and viral-related cirrhosis can be extrapolated to patients with NASH-related cirrhosis"
+      ],
+      [
+        "7. Updated large, randomized trials to clarify optimal patient selection for preemptive TIPS"
+      ],
+      [
+        "8. Optimal therapy for primary prophylaxis of gastrofundal varices. The comparator should be NSBBs (or no therapy in patients with contraindications). Potential treatments for assessment could include cyanoacrylate injection, new endoscopic therapies (such as endoscopic US guided coil placement), TIPS, and RTO"
+      ],
+      [
+        "9. Comparing efficacy, safety, and patient-related outcomes of TIPS versus RTO versus endoscopic therapy for the secondary prevention of gastric variceal hemorrhage in patients with a GRS"
+      ]
+    ],
+    "row_count": 9,
+    "column_count": 1
+  }
+]

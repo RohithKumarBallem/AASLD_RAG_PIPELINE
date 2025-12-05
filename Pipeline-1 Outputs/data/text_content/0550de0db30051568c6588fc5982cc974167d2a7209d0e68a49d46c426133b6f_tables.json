@@ -1,0 +1,1582 @@
+[
+  {
+    "table_index": 1,
+    "headers": [],
+    "rows": [
+      [
+        "End Note"
+      ],
+      [
+        "Procite"
+      ],
+      [
+        "Reference Manager"
+      ]
+    ],
+    "row_count": 3,
+    "column_count": 1
+  },
+  {
+    "table_index": 2,
+    "headers": [],
+    "rows": [
+      [
+        "Blood-based testing for fibrosis or steatosis in adults"
+      ],
+      [
+        "PICO 1",
+        "In adult patients with chronic liver disease, including hepatocellular (HCV, HIV-HCV, HBV, HCV/HBV, HIV/HBV, NAFLD, and ALD) or cholestatic (PSC and PBC) disorders, are blood-based biomarker panels accurate in staging hepatic fibrosis (F0-1 vs. F2-4, F0-2 vs. F3-4, and F0-3 vs. F4) using histopathology as the reference?"
+      ],
+      [
+        "PICO 2",
+        "In adult patients with chronic liver disease, including hepatocellular (HCV, HIV-HCV, HBV, HIV-HBV, NAFLD, and ALD) or cholestatic (PSC and PBC) disorders, is any blood-based biomarker panel superior to another blood-based biomarker panel in staging hepatic fibrosis (F0-1 vs. F2-4, F0-2 vs. F3-4, and F0-3 vs. F4) using histopathology as the reference?"
+      ],
+      [
+        "PICO 3",
+        "In adult patients with chronic liver disease, including hepatocellular (HCV, HIV-HCV, HBV, HIV-HBV, NAFLD, and ALD) or cholestatic (PSC and PBC) disorders, is the combination of two blood-based biomarker panels superior to a single one for staging fibrosis (F0-1 vs. F2-4, F0-2 vs. F3-4, and F0-3 vs. F4) using histopathology as the reference?"
+      ],
+      [
+        "PICO 4",
+        "In adult patients with chronic liver disease, including hepatocellular (HCV, HIV-HCV, HBV, HIV-HBV, NAFLD, and ALD) or cholestatic (PSC and PBC) disorders, do serial blood-based biomarker panels accurately predict the natural history of progression of fibrosis or regression of fibrosis in response to therapy relative to serial histopathology as the reference?"
+      ],
+      [
+        "PICO 5",
+        "In patients with NAFLD, are blood-based biomarker panels accurate in grading hepatic steatosis (S0 vs. S1-3, S0-1 vs. S2-3, and S0-2 vs. S3) using histopathology or MR-spectroscopy or MRI PDFF as the reference?"
+      ],
+      [
+        "Blood-based testing in children"
+      ],
+      [
+        "PICO 6",
+        "In pediatric chronic liver disease (HCV, HBV, BA, CFLD, and NAFLD/NASH), are blood-based biomarkers accurate in staging hepatic fibrosis (F0-1 vs. F2-4, F0-2 vs. F3-4, and F0-3 vs. F4) using histopathology as the reference?"
+      ]
+    ],
+    "row_count": 8,
+    "column_count": 1
+  },
+  {
+    "table_index": 3,
+    "headers": [],
+    "rows": [
+      [
+        "1. Rating the quality of evidence"
+      ],
+      [
+        "Study design:",
+        "Initial rating of quality of evidence:",
+        "Rate down when:",
+        "Rate up when:"
+      ],
+      [
+        "RCTObservational",
+        "HighModerateLowVery low",
+        "Risk of biasInconsistencyImprecisionIndirectnessPublication bias",
+        "Large effect size (e.g., RR=0.5)Very large effect (e.g., RR=0.2)Dose-response gradientAll plausible confounding would increase the association"
+      ],
+      [
+        "2. Determinants of strength of a recommendationQuality of evidenceBalance of benefits and harmsPatient values and preferencesResources and costs"
+      ],
+      [
+        "3. Implications of the strength of a recommendationStrongPopulation: Most people in this situation would want the recommended course of action, and only a small proportion would not.Health care workers: Most people should receive the recommended course of action.Policy makers: The recommendation can be adopted as policy in most situations.ConditionalPopulation: The majority of people in this situation would want the recommended course of action, but many would not.Health care workers: Be prepared to help patients make a decision that is consistent with their values using decision aids and shared decision-making.Policy makers: There is a need for substantial debate and involvement of stakeholders."
+      ]
+    ],
+    "row_count": 5,
+    "column_count": 1
+  },
+  {
+    "table_index": 4,
+    "headers": [
+      "a. Staging of Fibrosis Across Multiple Liver Diseases and Corresponding Classification Scores"
+    ],
+    "rows": [
+      [
+        "Scheuer/Batts-Ludwig (Viral and autoimmune hepatitis)14,15",
+        "No fibrosis",
+        "Enlarged, fibrotic portal tracts",
+        "Periportal or P-P septa but intact architecture",
+        "Fibrosis with architectural distortion but no obvious cirrhosis",
+        "Probable or definite cirrhosis"
+      ],
+      [
+        "Knodell (Viral and autoimmune hepatitis)16",
+        "No fibrosis",
+        "Fibrous portal expansion",
+        "N/A",
+        "Bridging fibrosis",
+        "Cirrhosis"
+      ],
+      [
+        "Ishak (Various etiologies)17",
+        "0: No fibrosis",
+        "1: Fibrous expansion of some portal areas, with or without short fibrous septa",
+        "2: Fibrous expansion of most portal areas, with or without short fibrous septa3: Fibrous expansion of most portal areas with occasional portal to portal bridging",
+        "4: Fibrous expansion of portal areas with marked bridging",
+        "6: Cirrhosis (probable or definite)"
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "5: Marked bridging (P-P and/or P-C) with occasional nodules (incomplete cirrhosis)",
+        ""
+      ],
+      [
+        "Meta-analysis of histologic data in viral hepatitis (METAVIR) (Various etiologies)18",
+        "No fibrosis",
+        "Stellate enlargement of portal tract but without septa formation",
+        "Enlargement of portal tract with rare septa formation",
+        "Numerous septa without cirrhosis",
+        "Cirrhosis"
+      ],
+      [
+        "Ludwig (PBC and PSC)19",
+        "N/A",
+        "N/A",
+        "N/A",
+        "Bridging fibrosis",
+        "Cirrhosis"
+      ],
+      [
+        "Alcohol-associated liver disease (alcohol hepatitis histological score)20",
+        "No fibrosis or portal fibrosis",
+        "Expansive periportal fibrosis",
+        "Bridging fibrosis",
+        "Cirrhosis",
+        ""
+      ],
+      [
+        "Brunt-Kleiner (NAFLD)21,22",
+        "No fibrosis",
+        "1°: Delicate perisinusoidal1B: Dense perisinusoidal1C: portal-only fibrosis",
+        "Perisinusoidal and portal/periportal fibrosis",
+        "Bridging fibrosis",
+        "Cirrhosis"
+      ],
+      [
+        "b. Assessment and Grading of Steatosis Based On the Percent of Hepatocytes Affected"
+      ],
+      [
+        "Degree of steatosis",
+        "",
+        ""
+      ],
+      [
+        "0 (Normal or minimal)",
+        "1 (Mild)",
+        "2 (Moderate)",
+        "3 (Severe)",
+        "",
+        ""
+      ],
+      [
+        "<5%",
+        "5%−33%",
+        "34%–66%",
+        ">66%",
+        "",
+        ""
+      ]
+    ],
+    "row_count": 12,
+    "column_count": 1
+  },
+  {
+    "table_index": 5,
+    "headers": [
+      "Diagnostic index",
+      "Calculation",
+      "Comments"
+    ],
+    "rows": [
+      [
+        "Sensitivity",
+        "TP/(TP + FN)",
+        "Not dependent on the prevalence of the condition in the population. High sensitivity helps rule out the disease (few FNs)."
+      ],
+      [
+        "Specificity",
+        "TN/(TN + FP)",
+        "Not dependent on the prevalence of the condition in the population. High specificity helps ruling in disease (few FPs)."
+      ],
+      [
+        "Accuracy",
+        "(TP + TN)/(P + N)",
+        ""
+      ],
+      [
+        "PPV",
+        "TP/(TP + FP)",
+        "The probability that a person with a positive test indeed has the disease or condition of interest Affected by the prevalence of the disease in the population."
+      ],
+      [
+        "NPV",
+        "TN/(TN + FN)",
+        "The probability that a person with a negative test does NOT have the disease or condition of interest. Affected by the prevalence of the disease in the population."
+      ],
+      [
+        "Positive LR",
+        "Sensitivity/(1-Specificity)ORTP/P",
+        "Positive LR greater than 10 suggests strong test to predict outcome."
+      ],
+      [
+        "Negative LR",
+        "(1-Sensitivity)/SpecificityORTN/N",
+        "Negative LR less than 0.1 suggests strong diagnostic evidence for not having the outcome."
+      ],
+      [
+        "DOR",
+        "Positive LR/Negative LR",
+        "The ratio of odds of positivity of those with disease relative to odds of positivity in those without disease. The higher the DOR, the better the test."
+      ],
+      [
+        "AUROC",
+        "Graph values of test performance from 0 (a perfectly inaccurate test) to 1 (a perfect test). Plots the diagnostic ability of a binary classifier system as its discrimination threshold is varied.",
+        "Summarizes the overall diagnostic accuracy of a test. In general, an AUROC of 0.5 suggests no discrimination (i.e., ability to diagnose patients with and without the disease or condition based on the test), 0.7 to 0.8 is considered acceptable, 0.8 to 0.9 is considered excellent, and more than 0.9 is considered outstanding."
+      ]
+    ],
+    "row_count": 9,
+    "column_count": 3
+  },
+  {
+    "table_index": 6,
+    "headers": [
+      "Blood-marker panel, year (reference)",
+      "Disease cohort",
+      "Clinical variables",
+      "Indirect markers",
+      "Direct markers",
+      "Model algorithm"
+    ],
+    "rows": [
+      [
+        "Simple blood-based NILDA with or without clinical data"
+      ],
+      [
+        "APRI, 200341",
+        "HCV",
+        "—",
+        "AST, platelets",
+        "—",
+        "[(AST level/ULN)/platelet count (109/L)]×100"
+      ],
+      [
+        "FIB-4, 200642",
+        "HIV-HCV",
+        "Age",
+        "AST, ALT, platelets",
+        "—",
+        "age (y)×AST (U/L)/platelet count (109/L)×√ALT (U/L)"
+      ],
+      [
+        "NFS, 200743",
+        "NAFLD",
+        "Age, BMI, IFG/diabetes",
+        "AST, ALT, platelets, albumin",
+        "—",
+        "-1.675+(0.037×age)+(0.094×BMI)+1.13×IFG/diabetes (yes=1, no=0)+0.99×(AST/ALT ratio)−(0.013×platelets)−(0.66×albumin)"
+      ],
+      [
+        "Fibroindex (2007)44",
+        "HCV",
+        "",
+        "AST, platelets, gamma globulin",
+        "",
+        "1.738−0.064(platelet [×104/mm3])+0/005(AST IU/L)+0.463(gamma globulin[g/Dl])"
+      ],
+      [
+        "King’s Score, 200945",
+        "HCV",
+        "Age",
+        "AST, INR, platelets",
+        "",
+        "Age×AST×INR/[platelet count (109/L)]"
+      ],
+      [
+        "Easy Liver Fibrosis Test (Elift), 201746",
+        "Mixed",
+        "Age, sex",
+        "GGT, AST, platelets, Prothrombin Index",
+        "—",
+        "Component weighted scores (0-4)"
+      ],
+      [
+        "Complex, proprietary blood-based NILDA"
+      ],
+      [
+        "FibroSureTM/FibroTest®, 200147",
+        "HCV",
+        "—",
+        "α2M, GGT, totalbilirubin, haptoglobin, ApoA-I1",
+        "—",
+        "Proprietary"
+      ],
+      [
+        "ELFTM, 200448",
+        "Mixed",
+        "Age",
+        "—",
+        "HA, PIIINP, TIMP-1",
+        "Proprietary"
+      ],
+      [
+        "FibroSpect IITM, 200449",
+        "HCV",
+        "—",
+        "α2M",
+        "HA, TIMP-1",
+        "Proprietary"
+      ],
+      [
+        "HepaScoreTM, 200550",
+        "HCV",
+        "Age, sex",
+        "Total bilirubin, α2M, GGT",
+        "HA",
+        "Proprietary"
+      ],
+      [
+        "FibroMeterTM, 200551",
+        "Mixed",
+        "Age",
+        "Platelets, Prothrombin Index, urea, AST, α2M",
+        "HA",
+        "Proprietary"
+      ]
+    ],
+    "row_count": 13,
+    "column_count": 6
+  },
+  {
+    "table_index": 7,
+    "headers": [
+      "Clinical condition",
+      "Tools affected",
+      "Comments"
+    ],
+    "rows": [
+      [
+        "Age",
+        "FIB-4NFSKing’seLiftELFTMHepascoreTMFibroMeterTM",
+        "In the age extremes (both very young and very old), may not perform as well."
+      ],
+      [
+        "Splenectomy",
+        "APRIFIB-4FibroindexFibroMeterTMNFS",
+        "Because these tools use platelets as a biomarker of portal hypertension, attenuated thrombocytopenia from splenectomy gives a falsely lower estimation."
+      ],
+      [
+        "Thrombocytopenia (not related to portal hypertension)",
+        "APRIFIB-4FibroindexFibroMeterTMNFS",
+        "Because these tools use platelets as a biomarker of portal hypertension, thrombocytopenia from other conditions gives a falsely higher estimation."
+      ],
+      [
+        "Active alcohol use53",
+        "FibroTestTMHepaScoreTM",
+        "Increases GGT, leading to falsely elevated estimation."
+      ],
+      [
+        "Elevated ALT and/or AST (inflammatory hepatitis)53–55",
+        "APRIFIB-4FibroindexFibroMeterTMNAFLD fibrosis score",
+        "Elevated aminotransferases occurring in relation to acute or acute-on-chronic hepatitis lead to falsely elevated estimation."
+      ],
+      [
+        "Chronic kidney disease56–58",
+        "FibroindexAPRIFIB-4FibroMeterTM",
+        "Elevated urea levels can result in falsely lower estimation.Hemodialysis patients tend to have lower ALT and AST levels, resulting in falsely lower estimation.Hemofiltration can result in lower stiffness in patients with baseline fluid overload."
+      ],
+      [
+        "Malnutrition",
+        "NAFLD fibrosis score",
+        "Albumin reduction that is disproportionate to liver dysfunction results in falsely elevated estimation."
+      ],
+      [
+        "Inflammatory condition",
+        "FibroTestTMFibroindexHepaScoreTMFibroMeterTM",
+        "Can result in increased α2-macroglobulin levels and falsely elevated Fibrotest, and increased α-globulin and falsely elevated Fibroindex."
+      ],
+      [
+        "Hemolysis",
+        "FibroTestTMHepascoreTM",
+        "Decreases haptoglobin levels and increases total bilirubin leading to falsely elevated estimation."
+      ],
+      [
+        "Gilbert syndrome and other cholestatic diseases",
+        "FibroTestTMHepascoreTM",
+        "Can result in increased total bilirubin and falsely elevated estimation."
+      ],
+      [
+        "Postprandial59",
+        "NFS",
+        "Liver stiffness increases up to 26% have been described for TE-LSM 2 h after a meal.A rise in postprandial glucose (>110 mg/Dl) falsely elevates NAFLD fibrosis score."
+      ],
+      [
+        "Gastrectomy60",
+        "FibrospectTMHepaScoreTMELFTM",
+        "Increases hyaluronic acid resulting in falsely elevated estimation."
+      ],
+      [
+        "Extra-hepatic fibrosing conditions61",
+        "FibroMeterTMFibrospectTMELFTM",
+        "Conditions such as interstitial lung disease can increase collagen turnover markers resulting in elevated estimation."
+      ],
+      [
+        "Acute sickle cell crisis62",
+        "FibroTestTM",
+        "Related to hemolysis (as aforementioned); Decreases haptoglobin levels and increases total bilirubin leading to falsely elevated estimation."
+      ]
+    ],
+    "row_count": 14,
+    "column_count": 3
+  },
+  {
+    "table_index": 8,
+    "headers": [
+      "Author, year (reference)",
+      "Number of patients (% F3-4)",
+      "AUROC F3-4",
+      "Sensitivity/specificity ≤1.455a",
+      "Sensitivity/specificity>0.676b",
+      "Number of indeterminates (%)",
+      "Comments and subgroups"
+    ],
+    "rows": [
+      [
+        "Angulo, 200743",
+        "480 (26)",
+        "0.88",
+        "0.82/0.77",
+        "0.51/0.98",
+        "114 (24)",
+        "LR+ 11-26 (high cutoff)"
+      ],
+      [
+        "",
+        "253 (29)",
+        "0.82",
+        "0.77/0.71",
+        "0.43/0.96",
+        "70 (28)",
+        "−LR 0.23–0.32 (low cutoff)"
+      ],
+      [
+        "Qureshi, 200865",
+        "331 (14)",
+        "N/A",
+        "0.96/N/A",
+        "N/A/0.84",
+        "154 (46)",
+        ""
+      ],
+      [
+        "Wong, 200866",
+        "162 (11)",
+        "0.64",
+        "0.39/0.81",
+        "0/0.99",
+        "32 (20)",
+        ""
+      ],
+      [
+        "Wong, 201067",
+        "228 (23)",
+        "0.75",
+        "0.73/0.69",
+        "0.18/0.96",
+        "N/A",
+        ""
+      ],
+      [
+        "McPherson, 201068",
+        "145 (19)",
+        "0.81",
+        "0.78/0.58",
+        "0.33/0.98",
+        "N/A",
+        ""
+      ],
+      [
+        "Ruffillo, 201169",
+        "138 (27)",
+        "0.68",
+        "0.23/N/A",
+        "N/A/1.0",
+        "42 (30)",
+        ""
+      ],
+      [
+        "Xun, 201270",
+        "154 (16)",
+        "0.65",
+        "0.37/0.86",
+        "0.08/1.0",
+        "25 (16)",
+        ""
+      ],
+      [
+        "Sumida, 201271",
+        "576 (11)",
+        "0.86",
+        "0.92/0.63",
+        "0.33/0.96",
+        "206 (36)",
+        ""
+      ],
+      [
+        "Cichoz-Lach, 201272",
+        "126 (21)",
+        "0.92",
+        "0.96/N/A",
+        "N/A/0.84",
+        "39 (31)",
+        ""
+      ],
+      [
+        "Yoneda, 201373",
+        "235 (16)",
+        "0.84",
+        "N/A",
+        "0.68/0.88",
+        "N/A",
+        "Normal ALT cohort"
+      ],
+      [
+        "Lee, 201374",
+        "107 (32)",
+        "0.88",
+        "0.82/0.77",
+        "N/A",
+        "N/A",
+        ""
+      ],
+      [
+        "Demir, 201375",
+        "Aqsw`daZ",
+        "0.96",
+        "0.75/0.93",
+        "0.19/1.0",
+        "16 (13)",
+        ""
+      ],
+      [
+        "Cui, 201576",
+        "102 (19)",
+        "0.82",
+        "0.84/0.69",
+        "0.21/0.96",
+        "N/A",
+        ""
+      ],
+      [
+        "Lykiardopoulos, 201677",
+        "158 (24)",
+        "0.79",
+        "0.44/N/A",
+        "N/A/0.37",
+        "84 (53)",
+        ""
+      ],
+      [
+        "Rath, 201678",
+        "60 (3)",
+        "0.47",
+        "0.05/N/A",
+        "N/A/1.0",
+        "8 (13)",
+        ""
+      ],
+      [
+        "Jun, 201779",
+        "328 (18)",
+        "0.64",
+        "0.53/0.67",
+        "0.09/0.98",
+        "N/A",
+        ""
+      ],
+      [
+        "McPherson, 201780",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Age (y) ≤35"
+      ],
+      [
+        "",
+        "74 (11)",
+        "0.52",
+        "0/0.91",
+        "0/1.0",
+        "N/A",
+        "36–45"
+      ],
+      [
+        "",
+        "96 (19)",
+        "0.86",
+        "0.78/0.80",
+        "0.22/1.0",
+        "",
+        "46–55"
+      ],
+      [
+        "",
+        "197 (22)",
+        "0.81",
+        "0.81/0.65",
+        "0.22/0.97",
+        "",
+        "56–64"
+      ],
+      [
+        "",
+        "191 (34)",
+        "0.83",
+        "0.95/0.44",
+        "0.31/1.0",
+        "",
+        "≥65"
+      ],
+      [
+        "",
+        "76 (40)",
+        "0.81",
+        "0.93/0.20",
+        "0.57/0.85",
+        "",
+        ""
+      ],
+      [
+        "Bertot, 201881",
+        "241 (31)",
+        "0.72",
+        "N/A",
+        "0.76/0.85",
+        "N/A",
+        ""
+      ],
+      [
+        "Patel, 201882",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Age (y)"
+      ],
+      [
+        "",
+        "115 (10)",
+        "0.72",
+        "0.09/0.35",
+        "0.45/0.98",
+        "N/A",
+        "<50 y"
+      ],
+      [
+        "",
+        "154 (34)",
+        "0.76",
+        "0.02/0.62",
+        "0.68/0.83",
+        "",
+        "50–64"
+      ],
+      [
+        "",
+        "60 (46)",
+        "0.71",
+        "0.04/0.84",
+        "0.74/0.68",
+        "",
+        "≥65"
+      ],
+      [
+        "Chan, 201983",
+        "753 (24)",
+        "0.69",
+        "N/A",
+        "0.16/0.99",
+        "215 (29)",
+        ""
+      ],
+      [
+        "Kaya, 201984",
+        "463 (17)",
+        "0.71",
+        "0.71/0.63",
+        "0.15/0.96",
+        "173 (37)",
+        ""
+      ],
+      [
+        "Yang, 201985",
+        "453 (28)",
+        "0.53",
+        "N/A",
+        "0.19/0.92",
+        "N/A",
+        ""
+      ],
+      [
+        "Anstee, 201986",
+        "2417 (80)",
+        "0.74",
+        "0.89/0.37",
+        "0.38/0.89",
+        "1208 (51)",
+        "Clinical trial cohort"
+      ],
+      [
+        "Petta, 201954",
+        "968 (28)",
+        "0.76",
+        "0.74/0.70",
+        "0.16/0.97",
+        "348 (36)",
+        ""
+      ],
+      [
+        "De Carli, 202087",
+        "246 (9)",
+        "N/A",
+        "N/A",
+        "0.12/0.96",
+        "N/A",
+        "Bariatric surgery cohort"
+      ],
+      [
+        "Bril, 202088",
+        "213 (17)",
+        "0.64",
+        "N/A",
+        "0.91/0.40",
+        "144 (68)",
+        ""
+      ],
+      [
+        "Alkayyali, 202089",
+        "166 (29)",
+        "0.73",
+        "0.75/0.47",
+        "0.25/0.93",
+        "79 (47)",
+        "DM"
+      ],
+      [
+        "",
+        "183 (10)",
+        "0.72",
+        "0.85/0.60",
+        "0/0.97",
+        "77 (42)",
+        "Non-DM"
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Age (y)"
+      ],
+      [
+        "Pitisuttithum, 202090",
+        "472 (6)",
+        "0.68",
+        "0.67/0.65",
+        "0.10/0.94",
+        "N/A",
+        "<60"
+      ],
+      [
+        "",
+        "131 (17)",
+        "0.65",
+        "0.74/0.41",
+        "0.26/0.86",
+        "N/A",
+        "≥60"
+      ]
+    ],
+    "row_count": 40,
+    "column_count": 7
+  },
+  {
+    "table_index": 9,
+    "headers": [
+      "Serum biomarker, year of study (reference)",
+      "Etiology and baseline fibrosis prevalence",
+      "Paired biopsy (n)",
+      "Sampling interval",
+      "Fibrosis change from baseline",
+      "Change in index biomarker scores with change in fibrosis stage",
+      "Comments"
+    ],
+    "rows": [
+      [
+        "PIIINP and HA, 2001148",
+        "HCV (F2-4=38% forn=105 NR)",
+        "239",
+        "16–26 mo",
+        "No significant change in Knodell/METAVIR stage",
+        "No change in fibrosis or serum markers",
+        "Data based on response to IFN-based therapy"
+      ],
+      [
+        "FibroTestTM, 2002149",
+        "HCV (F3=32%, F4=0%)",
+        "134",
+        "72 wk",
+        "Progression (n=28)No change (n=83)Regression (n=23)",
+        "Progression: 0.04No Change: −0.02Regression: −0.03",
+        "IFN-based therapy; Knodell score (no stage F2)"
+      ],
+      [
+        "FibroTestTM, 2003150",
+        "HCV (F2=17%, F3=6%, F4=6%)",
+        "352",
+        "72 wk",
+        "Progression (n=61)No change (n=193)Regression (n=98)",
+        "Progression:+1 stage=−0.06,+2=0.02, +3=−0.01No change: −0.07Regression:−1 stage=−0.09,−2=−0.15,−3=−0.25",
+        "IFN-based therapy;N=32 F4; FT decline significant in 17/32 ≥ 1 stage decrease. No change in FT forn=15/32 with F4 at follow-up"
+      ],
+      [
+        "HA, TIMP-1, PIIINP, YKL-40, 2010151",
+        "HCV (Ishak 4=30%)",
+        "209",
+        "24–48 mo",
+        "Progressionn=70 (34%)",
+        "Not provided",
+        "HALT-C IFN-based therapy. Baseline HA and platelets significant in multivariate model for fibrosis progression"
+      ],
+      [
+        "FibroTestTM, 2013152",
+        "HCV (F2=46%, F3=54%)",
+        "258",
+        "3.6–3.9 y",
+        "Progression (n=97)No change (n=111)Regression (50)",
+        "Progression: +1 stage=0.04, +2=0.07, +3=0.23No change=0.03Regression: −1 stage=0.01,−2=0.01,−3=−0.01",
+        "EPIC-3 IFN-based therapy. No association between FibroTest and differences in fibrosis stage"
+      ],
+      [
+        "FibroSURE®, 2014153",
+        "HCV (F2-4=48%)",
+        "133",
+        "72 wk",
+        "No changen=80 (60%)",
+        "Change in FT/FS was not associated with change in fibrosis stage",
+        "IFN-based therapy"
+      ],
+      [
+        "FibroTestTM, 2014154",
+        "HCV (Ishak 2=40%, 3=45%, 4=15%)",
+        "194",
+        "52 wk",
+        "Progressionn=34 (18%)",
+        "Not provided",
+        "HCV non-IFN Antifibrotic study; Pro-CIII associated with fibrosis progression in multivariate model"
+      ],
+      [
+        "FIB-4, APRI, Forns Index, 201595",
+        "HCV (F0-1=60%, F2=27%, F3-4=13%)",
+        "115",
+        "5.9 ± 1.8 y",
+        "Progression (n=5)No change (n=1 06)Regression (n=4)",
+        "Lower index scores for all markers at post-SVR biopsy",
+        "All patients with SVROptimal lower cutoffs associated with accuracy 71%-79% for F2-4, and 70%-83% for F3-4"
+      ],
+      [
+        "FibroTestTM, 2016155",
+        "HCV (Ishak 2=39%, 3=44%, 4=15%, 5=1%)",
+        "201",
+        "52 wk",
+        "Progression (n=42)No change (n=122)Regression (n=31)",
+        "Progression: +1 stage=−0.04, +2=0.00No change=−0.03Regression: −1 stage=0.02",
+        "HCV in non-IFN antifibrotic studyNo association with FibroTest index and changes in fibrosis stage"
+      ],
+      [
+        "FIB-4, APRI, King score, ELF®, 201696",
+        "HCV (F4=100%)",
+        "38",
+        "61 (48–104) months",
+        "Regression (n=23)No change (n=15)",
+        "Lower index scores for all markers at post-SVR biopsy.AUROC for post-SVR F4APRI=0.58, FIB-4=0.59, King score=0.59, ELF=0.63",
+        "All patients with SVRNo difference in scores between regressors and non-regressors at post-SVR biopsy (AUROC 0.52-0.75)"
+      ],
+      [
+        "ELF®, 2017156",
+        "HCV (Ishak 3=14%, 4=14%, 5/6=26%)",
+        "70",
+        "24 mo",
+        "Progression (n=21)No change (n=25)Regression (n=24)",
+        "ELF at baseline/12 months to predict 1-stage progression (AUROC 0.72) and regression (0.64)",
+        "IFN-based therapy"
+      ],
+      [
+        "FibroSURE®, APRI, 2006157",
+        "Mixed (HCV and HIV-HCV) (F2=28%, F3=7%, F4=3%)",
+        "119",
+        "4.2 (2.8–6) years",
+        "Progressionn=25 (21%)",
+        "FibroSure PPV 0.31 and APRI 0.375 for predicting F2-4 on second biopsy",
+        "IDU cohort; HIV-HCV=27%"
+      ],
+      [
+        "APRI, 2007158",
+        "HIV-HCV (Ishak 3=11%, 4=1%",
+        "174",
+        "2.9 y",
+        "Progression inn=41 (24%)",
+        "AST but not APRI associated with fibrosis progression",
+        ""
+      ],
+      [
+        "FibroTestTMForns Index, APRI, FIB-4, HepaScoreTM, FibroMeterTM, 2009159",
+        "HIV-HCV (F2=46%, F3=23%, F4=11%)",
+        "114",
+        "72 wk",
+        "Progression (n=37)No change (n=49)Regression (n=28)",
+        "Significant decline in all biomarker index scores with SVR, exceptHepaScore",
+        "Data based on IFN-based therapy response"
+      ],
+      [
+        "FIB-4, APRI, 2010160",
+        "HIV-HCV (Ishak 3=15%, 4=9%)",
+        "66",
+        "4.7 y",
+        "Progression (n=21)No change (n=26)Regression (19)",
+        "No difference in FIB-4 and APRI between progressors (Ishak ≥ 2) and no fibrosis change",
+        ""
+      ],
+      [
+        "FibroMeterTM, FibroTestTM, HepaScoreTM, 2012161",
+        "HCV and HIV-HCV (F3=25%, F4=27%)",
+        "101 (HCV n=62, HIV-HCV n=39)",
+        "96 wk",
+        "Progression (mean 0.2 METAVIR units)",
+        "Not provided",
+        "IFN-based therapyProgression in area of fibrosis, FibroMeter, and CirrhoMeter"
+      ],
+      [
+        "FIB-4, APRI, 2014162",
+        "HIV-HCV (F2=11%, F3=3%)",
+        "282",
+        "2.5 y",
+        "Progressionn=97 (34%)",
+        "Not provided",
+        "AST and ALT>2.5 ULN between biopsies associated with fibrosis progression in multivariate model"
+      ],
+      [
+        "FIB-4, APRI, FibroTestTM, 2015163",
+        "HIV-HCV (F0-F3)",
+        "38",
+        "3 y",
+        "Progression (n=10)No change (n=27)Regression (n=1)",
+        "Progression: FIB-4 + 0.75, APRI + 0.36, FT + 0.04No change/regressor:FIB-4: −0.06, APRI: −0.30, FT: −0.03",
+        "OnlyN=5 with HCV treatment; differences between progressors and non-progressors for APRI and FIB-4 (p=0.03); FT=not significant"
+      ],
+      [
+        "FibroTestTM, 2009164",
+        "HBV (F2-4=44%)",
+        "462",
+        "48 wk",
+        "Regression (0.16-0.30 mean METAVIR units)",
+        "Not provided",
+        "Antiviral therapy/placebo treatment; FibroTest improved in virologic responders with F2-4, and placebo"
+      ],
+      [
+        "APRI, FIB-4, 2016124",
+        "HBV (Ishak 3=23%,4=10%, 5-6=24%)",
+        "294",
+        "240 wk",
+        "Regression in F4-6 from 34% to 12%)",
+        "No correlation with regression",
+        "On antiviral therapy; 81%-89% baseline advanced fibrosis or cirrhosis missed by simple scores"
+      ],
+      [
+        "APRI, FIB-4, 2019165",
+        "HBV (median Ishak 3)",
+        "80",
+        "2.06 y to second biopsy",
+        "Regression 0.18 Ishak Units/year",
+        "Not provided",
+        "Multiple biopsies over 17 y, variable treatment, Greater relative decline FIB-4 (-17%) and APRI(−43%) in year 1"
+      ],
+      [
+        "APRI, FIB-4, NFS, BARD, 2010166",
+        "NAFLD (F3-4=4%)",
+        "52",
+        "36 mo",
+        "Progression (n=14)No change (n=25)Regression (n=13)",
+        "Progression:APRI=+0.003,FIB-4=+0.079,NFS=+0.06, BARD=0No change/ Regression: APRI=−0.029,FIB−4=−0.019,NFS=−0.017, BARD=0",
+        "Prospective study; No significant correlation between change in fibrosis stage and markers"
+      ],
+      [
+        "APRI, 2012167",
+        "NAFLD (Any fibrosis=45%)",
+        "78",
+        "Variable",
+        "Not providedAny fibrosisn=22 (31%)",
+        "BaselineAPRI=0.29After weight lossAPR1=0.29",
+        "Bariatric surgery cohort with morbid obesity. Variable biopsy interval after weight loss. No change in APRI"
+      ],
+      [
+        "APRI, FIB-4, NFS, 2017168",
+        "NAFLD (F3-4=10%)",
+        "261",
+        "52 wk",
+        "Progression (n=45)No change (n=165)Regression (n=51)",
+        "Progression: APRI=−0.16, FIB-4=−0.05, NFS=+0.02No change: APRI=−0.14, FIB-4=−0.08, NFS=−0.42Regression: APRI=−0.25, FIB-4=−0.23, NFS=−1.00",
+        "Lifestyle intervention study"
+      ],
+      [
+        "ELFTM, FibroTestTM, NFS, 2018169",
+        "NAFLD (NASH CRN F3=46%, F4=54%)",
+        "427",
+        "96 wk",
+        "F3 : Progression (n=41)Regression (n=40) ;F4: Regression (n=22)",
+        "No significant change in serum markers with fibrosis stage",
+        "Phase Iib study"
+      ],
+      [
+        "ELFTM, FibroTestTM/FibroSure®, 2018170",
+        "NAFLD (F2=35%, F3=65%)",
+        "72",
+        "24 wk",
+        "Progression (n=23)No change (n=34)Regression (n=23)",
+        "No change in serum markers across treatment groups",
+        "Phase II study for NAFLD stage F2-3"
+      ],
+      [
+        "APRI, FIB-4, NFS, 2019124",
+        "NAFLD (F3-4=26%)",
+        "292",
+        "2.6 y",
+        "Progression (n=92)No change (n=126)Regression (n=74)",
+        "Progression: APRI=+0.2, FIB-4=+0.5, NFS=+0.7No change: APRI=−0.2, FIB-4=+0.1, NFS=+0.4Regression: APRI=−0.3, FIB-4=0.0, NFS=+0.5",
+        "NASH CRN cohort. APRI, FIB-4, and NFS associated with progression, but not regression"
+      ],
+      [
+        "ELFTM, 2020171",
+        "NAFLD (F3=44%, F4=4%)",
+        "43",
+        "12 wk",
+        "Regression (n=14)",
+        "Decline in ELF(−7% vs. −3%) and Pro−CIII (−56% vs. −9%) for histologic responders vs. non-responders",
+        "Phase II study"
+      ],
+      [
+        "FIB-4, APRI, FibroSURE®, ELFTM2019, 2022172,173",
+        "NAFLD (F3=56%)",
+        "931",
+        "18 mo",
+        "Progression (n=130)No change (n=412)Regression (n=223)",
+        "AUROC 0.58-0.61 for 10% decrease in markers at month 18 to predict fibrosis regression",
+        "Phase III studyData provided by treatment groups indicate greater decline in markers with regression. Overall weak association between improvement in markers and fibrosis stage"
+      ],
+      [
+        "ELFTM, FibroTestTM, 2019174",
+        "NAFLD (F3=52%, F4=47%)",
+        "1527",
+        "48 wk",
+        "Regression (n=207)No histologic response (n=1324)",
+        "Response (regression): ELF=−0.2%; FT not providedNo response: ELF=1.3%; FT not provided",
+        "Pooled Phase III data. Data provided as fibrosis regression and no worsening NASH (histologic response)"
+      ],
+      [
+        "ELFTM, FibroTestTM/FibroSURE®, 2019114",
+        "PSC (Ishak 4-6=26%)",
+        "234",
+        "96 wk",
+        "Progression (n=80)No change (n=74)Regression (n=79)",
+        "Not provided",
+        "Phase II study. Baseline ELF associated with progression to cirrhosis"
+      ]
+    ],
+    "row_count": 31,
+    "column_count": 7
+  },
+  {
+    "table_index": 10,
+    "headers": [
+      "Algorithm",
+      "Formula or Components"
+    ],
+    "rows": [
+      [
+        "FLI",
+        "Log(0.953×ln TG)+0.139×BMI+0.718+ln(GGT)+0.053×WC−15.745×100"
+      ],
+      [
+        "HSI",
+        "8×ALT/AST+BMI+2 (if DM)+2 (if female)"
+      ],
+      [
+        "LAP",
+        "(WC [cm]−65)×TG (mmol/L) male individuals(WC [cm]−58)×TG (mmol/L) female individuals"
+      ],
+      [
+        "NLFS",
+        "−2.89+1.18×MS+0.45×DM+0.15×insulin+0.04×AST−0.94×AST/ALT"
+      ],
+      [
+        "ION",
+        "1.33×waist-to-hip ratio+0.03 TG (mg/dL)+0.18 ALT (U/L)+8.53 HOMA-IR−13.93 in male individuals0.02 TG (mg/dL)+0.24 ALT (U/L)+9.61 HOMA-IR−13.99 in female individuals"
+      ],
+      [
+        "SteatotestTM",
+        "ALT, A2M, ApoA1, haptoglobin, total bilirubin, GGT, total cholesterol, TG, glucose, age, gender, BMI"
+      ],
+      [
+        "TyG",
+        "Log(TG [mg/dL])×glucose (MG/dL)/2"
+      ],
+      [
+        "VAI",
+        "(WC/39.68+1.88 BMI)×(TG/1.03×1.31/HDL) for male individuals(WC/36.58+1.89 BMI)×(TG/0.81×1.52/HDL) for female individuals"
+      ],
+      [
+        "DSI",
+        "ALT, BMI, age, sex, triglyceride and glucose levels, diabetes, hypertension, and ethnicity"
+      ]
+    ],
+    "row_count": 9,
+    "column_count": 2
+  },
+  {
+    "table_index": 11,
+    "headers": [
+      "Test",
+      "Reference",
+      "N",
+      "Cutoffs (if provided)",
+      "Comparator",
+      "Sensitivity",
+      "Specificity",
+      "AUROC"
+    ],
+    "rows": [
+      [
+        "FLI",
+        "224",
+        "182",
+        "<30",
+        "LB",
+        "100",
+        "3",
+        "0.59"
+      ],
+      [
+        "",
+        "",
+        "",
+        "≥60",
+        "",
+        "97",
+        "13",
+        ""
+      ],
+      [
+        "",
+        "201",
+        "40",
+        "<30 or ≥60",
+        "MR",
+        "90",
+        "74",
+        "0.86"
+      ],
+      [
+        "",
+        "214",
+        "264",
+        "<30 or ≥60",
+        "LB",
+        "",
+        "",
+        "0.75"
+      ],
+      [
+        "",
+        "216",
+        "324",
+        ">60",
+        "LB",
+        "76",
+        "87",
+        "0.83"
+      ],
+      [
+        "",
+        "221",
+        "336",
+        ">30",
+        "MR",
+        "75",
+        "69",
+        "0.79"
+      ],
+      [
+        "",
+        "",
+        "",
+        ">60",
+        "",
+        "44",
+        "91",
+        ""
+      ],
+      [
+        "",
+        "217",
+        "250",
+        "≥79",
+        "LB",
+        "81",
+        "49",
+        "0.67"
+      ],
+      [
+        "",
+        "199",
+        "4458",
+        "<30",
+        "LB",
+        "80",
+        "",
+        ""
+      ],
+      [
+        "",
+        "222",
+        "135",
+        "",
+        "LB",
+        "",
+        "80",
+        "0.74"
+      ],
+      [
+        "HSI",
+        "224",
+        "182",
+        "<30-45",
+        "LB",
+        "88",
+        "10",
+        "0.41"
+      ],
+      [
+        "",
+        "",
+        "",
+        "≥36-67",
+        "",
+        "7",
+        "90.",
+        ""
+      ],
+      [
+        "",
+        "201",
+        "40",
+        "<30 or ≥36",
+        "MR",
+        "86",
+        "66",
+        "0.75"
+      ],
+      [
+        "",
+        "215",
+        "364",
+        "",
+        "LB",
+        "",
+        "",
+        "0.63"
+      ],
+      [
+        "",
+        "217",
+        "324",
+        ">41.6",
+        "LB",
+        "61",
+        "93",
+        "0.81"
+      ],
+      [
+        "",
+        "225",
+        "366",
+        "35.6",
+        "LB",
+        "61",
+        "63",
+        "0.66"
+      ],
+      [
+        "",
+        "209",
+        "10,724",
+        "",
+        "LB",
+        "78",
+        "69",
+        "0.77"
+      ],
+      [
+        "",
+        "222",
+        "135",
+        "",
+        "",
+        "",
+        "",
+        "0.71"
+      ],
+      [
+        "LAP",
+        "224",
+        "182",
+        "Continuous",
+        "LB",
+        "",
+        "",
+        "0.63"
+      ],
+      [
+        "",
+        "215",
+        "364",
+        "",
+        "LB",
+        "",
+        "",
+        "0.70"
+      ],
+      [
+        "",
+        "221",
+        "336",
+        "",
+        "MR",
+        "",
+        "",
+        "0.78"
+      ],
+      [
+        "NFLS",
+        "220",
+        "470",
+        "−0.640",
+        "MR",
+        "86",
+        "71",
+        "0.87"
+      ],
+      [
+        "",
+        "224",
+        "182",
+        "−06.40",
+        "LB",
+        "71",
+        "62",
+        "0.64"
+      ],
+      [
+        "",
+        "226",
+        "324",
+        ">0.16",
+        "LB",
+        "65",
+        "87",
+        "0.80"
+      ],
+      [
+        "ION",
+        "199",
+        "4458",
+        "<11",
+        "LB",
+        "81",
+        "56",
+        "0.77"
+      ],
+      [
+        "",
+        "",
+        "",
+        "≥22",
+        "",
+        "60",
+        "82",
+        ""
+      ],
+      [
+        "Steato-TestTM",
+        "220",
+        "310",
+        "≥0.3",
+        "LB",
+        "90",
+        "54",
+        "0.79"
+      ],
+      [
+        "",
+        "",
+        "",
+        "≥0.7",
+        "",
+        "46",
+        "88",
+        ""
+      ],
+      [
+        "",
+        "225",
+        "288",
+        "0.38",
+        "LB",
+        "86.9",
+        "50",
+        "0.65"
+      ],
+      [
+        "",
+        "",
+        "",
+        "0.69",
+        "",
+        "42",
+        "79",
+        "0.81"
+      ],
+      [
+        "",
+        "217",
+        "494",
+        "0.38",
+        "LB",
+        "89",
+        "44",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "0.69",
+        "",
+        "38",
+        "81",
+        "0.80"
+      ],
+      [
+        "",
+        "227",
+        "220",
+        "0.52",
+        "MR",
+        "73",
+        "72",
+        "0.73"
+      ],
+      [
+        "SteatoTest-2TM",
+        "225",
+        "2997",
+        "0.40",
+        "LB",
+        "79",
+        "50",
+        "0.77"
+      ],
+      [
+        "TyG",
+        "218",
+        "324",
+        ">8.38",
+        "LB",
+        "80",
+        "92",
+        "0.90"
+      ],
+      [
+        "",
+        "228",
+        "50",
+        "4.235",
+        "LB",
+        "94",
+        "69",
+        "0.86"
+      ],
+      [
+        "",
+        "229",
+        "340",
+        "4.515",
+        "LB",
+        "70",
+        "60",
+        "0.68"
+      ],
+      [
+        "VAI",
+        "218",
+        "324",
+        ">1.25",
+        "LB",
+        "79",
+        "92",
+        "0.92"
+      ]
+    ],
+    "row_count": 38,
+    "column_count": 8
+  },
+  {
+    "table_index": 12,
+    "headers": [],
+    "rows": [
+      [
+        "Comparative studies of proprietary and nonproprietary blood-based NILDA are needed in the primary care population, with lower expected prevalence of advanced fibrosis and with attention to cost-effectiveness to generalize the application of NILDA."
+      ],
+      [
+        "Studies on NILDA should include diverse populations and children."
+      ],
+      [
+        "All findings among patients with NAFLD in this guideline will need to be confirmed among patients with the new MASLD and SLD nomenclature."
+      ],
+      [
+        "Confirmation that novel markers such as PRO-C3, a serologic biomarker that detects formation of type III collagen from activated myofibroblasts, especially when combined with age, presence of T2DM, and platelet count, are superior to APRI, and FIB-4 in MASLD and NASH is needed."
+      ],
+      [
+        "Emerging data with newer biomarkers such as ELFTMmay improve the accuracy of blood-based NILDA in NAFLD and MASLD."
+      ],
+      [
+        "Comparative studies combining both blood-based and imaging-based tests synchronously and sequentially are needed to reflect clinical practice, with recognition of test utility by insurance and third-party payors."
+      ],
+      [
+        "Blood-based algorithms have the potential to help identify those with steatosis, but, to enhance clinical utility, they need to differentiate simple steatosis from MASLD and NASH."
+      ],
+      [
+        "Utilization of artificial intelligence and machine-learning tools should allow for incorporation of demographics and a wide array of clinical data to improve diagnosis and management of CLD."
+      ],
+      [
+        "Longitudinal studies of NILDA to assess the natural history of chronic liver diseases, clinical outcomes, and changes with therapy are needed."
+      ]
+    ],
+    "row_count": 9,
+    "column_count": 1
+  }
+]

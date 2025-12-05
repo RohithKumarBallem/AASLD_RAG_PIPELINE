@@ -1,0 +1,624 @@
+[
+  {
+    "table_index": 1,
+    "headers": [],
+    "rows": [
+      [
+        "End Note"
+      ],
+      [
+        "Procite"
+      ],
+      [
+        "Reference Manager"
+      ]
+    ],
+    "row_count": 3,
+    "column_count": 1
+  },
+  {
+    "table_index": 2,
+    "headers": [
+      "",
+      "Copper IUD",
+      "Hormonal (Progestin) IUD",
+      "CHCs (Pill, Patch, Ring)",
+      "Progesterone‐Only Pills",
+      "DMPA Injection",
+      "Subcutaneous Implant"
+    ],
+    "rows": [
+      [
+        "Strengths",
+        "Failure rate <1%, convenient, does not rely on adherence, no estrogen‐associated risks, effective at least 10 years",
+        "Failure rate <1%, convenient, does not rely on adherence, no estrogen‐associated risks, lightens menses, effective at least 3‐5 years",
+        "Regular bleeding, lightened menses",
+        "No estrogen‐associated risks",
+        "No estrogen‐associated risks, injections every 3 months",
+        "Failure rate <1%, convenient, does not rely on adherence, no estrogen‐associated risks, effective at least 3 years"
+      ],
+      [
+        "Limitations or concerns",
+        "Increased menstrual cramping and bleeding (less ideal if anemia or low platelets)",
+        "Irregular bleeding common",
+        "Typical failure rate 9%, contraindications as denoted subsequently, interacts with P450, associated with hypertension, VTE, and (less commonly) stroke and rare cholestatic liver injury",
+        "Typical failure rate 9%, requires strict daily timing, possible conversion of high‐dose progestins to small amount of estrogen (unlikely relevant with modern‐day, lower‐dose progestin preparations), irregular bleeding common",
+        "Typical failure rate 6%, irregular bleeding common, can decrease bone density (less favored for liver diseases associated with osteopenia/osteoporosis)",
+        "Irregular bleeding common"
+      ],
+      [
+        "CDC MEC safety categories/AASLD recommendations"
+      ],
+      [
+        "Cirrhosis",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Compensated",
+        "1/Acceptable",
+        "1/Acceptable",
+        "1/Acceptable",
+        "1/Acceptable",
+        "1/Acceptable, but less favored",
+        "1/Acceptable"
+      ],
+      [
+        "Decompensated",
+        "1/Acceptable",
+        "3/Acceptable",
+        "4/Unacceptable",
+        "3/Acceptable",
+        "3/Acceptable, but less favored",
+        "3/Acceptable"
+      ],
+      [
+        "BCS",
+        "2/Acceptable",
+        "2/Acceptable",
+        "4/Unacceptable",
+        "2/Acceptable",
+        "2/Acceptable",
+        "2/Acceptable"
+      ],
+      [
+        "HCAs",
+        "1/Acceptable",
+        "3/Acceptable",
+        "4/Unacceptable",
+        "3/Acceptable",
+        "3/Acceptable",
+        "3/Acceptable"
+      ],
+      [
+        "Posttransplant graft function",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Normal",
+        "2/Acceptable",
+        "2/Acceptable",
+        "2/Acceptable",
+        "2/Acceptable",
+        "2/Acceptable, but less favored",
+        "2/Acceptable"
+      ],
+      [
+        "Graft failure",
+        "3/Acceptable",
+        "3/Acceptable",
+        "4/Unacceptable",
+        "2/Acceptable",
+        "2/Acceptable, but less favored",
+        "2/Acceptable"
+      ]
+    ],
+    "row_count": 11,
+    "column_count": 7
+  },
+  {
+    "table_index": 3,
+    "headers": [
+      "Modality",
+      "Fetal Dose (mGy)",
+      "Maternal Dose (mSv)"
+    ],
+    "rows": [
+      [
+        "CT abdomen/pelvis (no contrast)",
+        "13‐25",
+        "3‐45"
+      ],
+      [
+        "Chest, two views",
+        "0.0005‐0.01",
+        "0.06‐0.29"
+      ],
+      [
+        "Abdominal radiography",
+        "0.1‐0.3",
+        "0.01‐1.1"
+      ],
+      [
+        "Double‐contrast barium enema",
+        "1.0‐20",
+        "2.0‐18.0"
+      ],
+      [
+        "Small‐bowel examination",
+        "7",
+        "3.0‐7.8"
+      ],
+      [
+        "Endoscopic retrograde cholangiopancreatiography*",
+        "0.1‐0.3",
+        "2‐6"
+      ]
+    ],
+    "row_count": 6,
+    "column_count": 3
+  },
+  {
+    "table_index": 4,
+    "headers": [
+      "Medication",
+      "Pregnancy",
+      "Lactation",
+      "Fertility",
+      "Historical FDA Classification"
+    ],
+    "rows": [
+      [
+        "Acamprosate",
+        "Animal data suggest risk of fetal abnormalities; human data are limited; decision about use involves careful consideration of risks of continued alcohol use versus medication exposure",
+        "Limited human data",
+        "No human data",
+        "C"
+      ],
+      [
+        "Careful consideration of risks of continued maternal alcohol use vs. medication exposure"
+      ],
+      [
+        "Acyclovir",
+        "Compatible",
+        "Compatible",
+        "Animal data demonstrated testicular atrophy and aspermatogenesis; human data do not demonstrate this",
+        "B"
+      ],
+      [
+        "Antihistamines (chlorpheniramine, diphenhydramine, hydroxyzine)",
+        "Compatible",
+        "Compatible in low doses",
+        "No human data",
+        "Chlorpheniramine: B"
+      ],
+      [
+        "High doses may be associated with sedation in infants or decreases in breast milk supply",
+        "Diphenhydramine: B"
+      ],
+      [
+        "Hydroxyzine is less preferred due to limited data reporting adverse reactions (mostly sedation) in infants",
+        "Hydroxyzine: C"
+      ],
+      [
+        "Beta‐blockers (carvedilol, nadolol, propranolol)",
+        "Carvedilol: no data",
+        "Carvedilol: no data",
+        "Carvedilol: Animal studies suggest protection from diabetes mellitus–induced testicular damage; no human data",
+        "Carvedilol: C"
+      ],
+      [
+        "Nadolol, propranolol: overall compatible despite reports of intrauterine growth restriction, neonatal respiratory depression, and infant hypoglycemia",
+        "Nadolol: less preferred due to extensive level of excretion into breast milk and its renal excretion",
+        "Nadolol: no adverse effects on fertility in animals; no human data",
+        "Nadolol: C"
+      ],
+      [
+        "Propranolol is preferred; shorter half‐life and less protein‐bound than nadolol",
+        "Propranolol: compatible; highly protein bound and excreted in milk in small amounts",
+        "Propranolol: associated with impotence in men; no data in women",
+        "Propranolol: C"
+      ],
+      [
+        "Cephalosporins (cefotaxime, ceftriaxone)",
+        "Compatible",
+        "Compatible",
+        "Cefotaxime: animal data showed no adverse effect on fertility; no human data available",
+        "B"
+      ],
+      [
+        "Ceftriaxone: animal data are mixed, showing decreased sperm concentration and motility in some studies and no effect on fertility in other studies; no human data available"
+      ],
+      [
+        "Cholestyramine",
+        "Compatible",
+        "Compatible",
+        "No human data",
+        "C"
+      ],
+      [
+        "High doses can lead to vitamin K deficiency and increased risk of fetal hemorrhage"
+      ],
+      [
+        "d‐penicillamine",
+        "Teratogenicity has been documented, but discontinuation in pregnancy may also have deleterious maternal effects",
+        "Limited data suggest that it is not detectable in human breast milk and that it is compatible with breastfeeding",
+        "No data",
+        "D"
+      ],
+      [
+        "May continue with dose adjustments made across pregnancy",
+        "Copper and zinc levels are reduced in the breast milk of women takingd‐penicillamine"
+      ],
+      [
+        "DAA agents for HCV (glecaprevir/pibrentasvir, ledipasvir/sofosbuvir, sofosbuvir/velpatasvir)",
+        "Glecaprevir/pibrentasvir, ledipasvir/sofosbuvir: no birth defects reported in animal data",
+        "Detected in rat milk",
+        "No effect on fertility in rats",
+        "Glecaprevir/pibrentasvir, sofosbuvi/velpatasvir: none assigned"
+      ],
+      [
+        "Increase in visceral malformations with exposure of velpatasvir alone in rabbits",
+        "No human data",
+        "No human data",
+        "Ledipasvir/sofosbuvir: B"
+      ],
+      [
+        "Disulfiram",
+        "Associated with fetal malformations",
+        "Avoid",
+        "No data",
+        "None assigned"
+      ],
+      [
+        "Decision about use involves careful consideration of risks of continued alcohol use versus medication exposure"
+      ],
+      [
+        "Entecavir",
+        "Avoid due to insufficient data",
+        "Avoid due to insufficient data",
+        "No human data",
+        "C"
+      ],
+      [
+        "Fluoroquinolones (ciprofloxacin, norfloxacin, ofloxacin)",
+        "Avoid due to toxic effects on developing cartilage in animal studies and reports of arthralgias and tendonitis in adolescents",
+        "Compatible with monitoring for infant GI infections (Clostridioides difficile, Candida) that have been reported with use in lactating women",
+        "Animal data are mixed, showing sperm DNA impairment and impaired sperm motility in some studies and no effect on fertility in other animal studies; limited human data available",
+        "C"
+      ],
+      [
+        "Heparin (low‐molecular‐weight heparin)",
+        "Compatible",
+        "Compatible",
+        "Animal studies indicated no effect on fertility; no human data",
+        "B"
+      ],
+      [
+        "Lamivudine",
+        "Compatible",
+        "Compatible",
+        "No adverse effect on fertility in animal studies; no human data",
+        "C"
+      ],
+      [
+        "Naltrexone",
+        "Compatible",
+        "Compatible",
+        "Limited data suggest possible restoration of ovulation in patients with ovulation disorders",
+        "C"
+      ],
+      [
+        "Obeticholic acid",
+        "Avoid due to lack of data.",
+        "Avoid due to lack of data.",
+        "No data",
+        "None assigned"
+      ],
+      [
+        "Octreotide",
+        "Careful consideration for use; advise use in setting of acute variceal bleed, as benefits outweigh risks",
+        "Limited human data suggest compatibility",
+        "No increased adverse effects on fertility in females; no human data in men",
+        "B"
+      ],
+      [
+        "Limited human data (reports of fetal growth restriction but no congenital malformations)",
+        "Poor excretion into breast milk due to its high molecular weight"
+      ],
+      [
+        "Pegylated interferon alpha",
+        "Human data report successful use of interferon alpha; animal data report abortifacient potential",
+        "Unlikely to pose risk due to low levels in milk and poor absorption by infant",
+        "Animal data suggest association with impaired fertility",
+        "C"
+      ],
+      [
+        "Use if potential benefit outweighs potential risk"
+      ],
+      [
+        "Ribavirin",
+        "Avoid due to teratogenicity and embryocidal effects observed in multiple animal studies",
+        "No data in lactating mothers treated for hepatitis C infection",
+        "Avoid use in women and men for 6 months before conception",
+        "X"
+      ],
+      [
+        "Rifampin",
+        "Compatible",
+        "Compatible",
+        "May decrease effectiveness of some oral contraceptives due to hepatic enzyme induction",
+        "C"
+      ],
+      [
+        "Due to induction of P450 hepatic enzymes, it may be associated with vitamin degradation and subsequent hemorrhage in neonates (prophylactic vitamin K has been recommended)",
+        "Detectable in breast milk at low levels",
+        "No other fertility data available"
+      ],
+      [
+        "S‐adenosylmethionine",
+        "Compatible",
+        "No data",
+        "Insufficient data",
+        "None assigned"
+      ],
+      [
+        "Single study reported increase in sperm motility"
+      ],
+      [
+        "Tenofovir (tenofovir disoproxil fumarate; TAF)",
+        "Tenofovir disoproxil fumarate: compatibleTAF: no human data",
+        "Tenofovir disoproxil fumarate: no contraindication for use",
+        "Tenofovir disoproxil fumarate: limited human data suggest no adverse effect on fertility in men",
+        "Tenofovir disoproxil fumarate: C"
+      ],
+      [
+        "TAF: no human data",
+        "TAF: no data",
+        "TAF: none assigned"
+      ],
+      [
+        "Terlipressin",
+        "Avoid: data demonstrate that it can cause uterine contractions and decreased uterine blood flow",
+        "No data: unknown if terlipressin is excreted into breast milk",
+        "No data",
+        "Currently not FDA approved"
+      ],
+      [
+        "Trientine",
+        "Compatible with dose adjustments made across pregnancy",
+        "Limited data suggest that it is not detectable in human milk and compatible with breastfeeding",
+        "No data",
+        "C"
+      ],
+      [
+        "Conflicting data on whether copper and zinc levels are reduced in the breast milk of women taking trientine"
+      ],
+      [
+        "UDCA",
+        "Compatible",
+        "Compatible",
+        "Limited animal data suggest no adverse effects on fertility",
+        "B"
+      ],
+      [
+        "Zinc",
+        "Compatible",
+        "Maternal zinc supplementation does not alter zinc concentrations in breast milk",
+        "No adverse effect on fertility in men",
+        "C"
+      ]
+    ],
+    "row_count": 41,
+    "column_count": 5
+  },
+  {
+    "table_index": 5,
+    "headers": [
+      "Medication",
+      "Pregnancy",
+      "Lactation",
+      "Fertility",
+      "Historical FDA Classification"
+    ],
+    "rows": [
+      [
+        "6‐MP, Azathioprine",
+        "Compatible",
+        "Compatible",
+        "6‐MP: normal ovarian function; mixed data in men, with reports of birth defects in children fathered by men taking 6‐MP and other data showing no increased rates of birth defects",
+        "D"
+      ],
+      [
+        "6‐MP: no increased risk of birth defects",
+        "Some reports of self‐limited neutropenia"
+      ],
+      [
+        "Azathioprine: associated with low birth weight and preterm birth"
+      ],
+      [
+        "Azathioprine: no increased likelihood of adverse effects on fertility in females and males"
+      ],
+      [
+        "CNIs (cyclosporine, tacrolimus)",
+        "Compatible",
+        "Compatible",
+        "No known risk to fertility in females and males",
+        "C"
+      ],
+      [
+        "Cyclosporine: reports of association with low birth weight"
+      ],
+      [
+        "Tacrolimus: reports of association with hypertension, preeclampsia, and preterm birth"
+      ],
+      [
+        "Glucocorticoids (budesonide, prednisone)",
+        "Compatible",
+        "Compatible",
+        "Budesonide: no effect on fertility in rats; no human data",
+        "C"
+      ],
+      [
+        "Prednisone: possible association with oral clefting",
+        "Prednisone: no increased likelihood of adverse pregnancy outcomes when used in males of reproductive potential"
+      ],
+      [
+        "Budesonide: may lower fetal exposure"
+      ],
+      [
+        "mTOR inhibitors (sirolimus, everolimus)",
+        "Not recommended due to limited human data",
+        "Not recommended due to limited human data",
+        "Sirolimus: reports of irregular ovulation and ovarian cysts; reports of decreased sperm counts and decreased male fertility",
+        "Sirolimus: C"
+      ],
+      [
+        "Everolimus: rare reports of reduced sperm count and decreased male fertility",
+        "Everolimus: not assigned"
+      ],
+      [
+        "MPA products (mycophenolate mofetil, mycophenolate sodium)",
+        "Contraindicated",
+        "No reported adverse events",
+        "No known risk to fertility in females and males",
+        "D"
+      ],
+      [
+        "High risk of miscarriage and birth defects",
+        "Use not advised, given the adverse outcomes observed in pregnancy",
+        "In women, discontinue use at least 6 weeks before conception"
+      ]
+    ],
+    "row_count": 14,
+    "column_count": 5
+  },
+  {
+    "table_index": 6,
+    "headers": [
+      "Baseline Pregnancy Weight Category",
+      "BMI Prepregnancy",
+      "Weight Gain During Pregnancy (lb)",
+      "Rate of Weight Gain During Second and Third Trimesters"
+    ],
+    "rows": [
+      [
+        "Underweight",
+        "<18.5",
+        "28‐40",
+        "1‐1.13"
+      ],
+      [
+        "Normal",
+        "18.5‐24.9",
+        "25‐35",
+        "0.8‐1"
+      ],
+      [
+        "Overweight",
+        "25‐28.9",
+        "15‐25",
+        "0.5‐0.7"
+      ],
+      [
+        "Obese",
+        "≥30",
+        "11‐20",
+        "0.4‐0.6"
+      ]
+    ],
+    "row_count": 4,
+    "column_count": 4
+  },
+  {
+    "table_index": 7,
+    "headers": [
+      "",
+      "Hyperemesis Gravidarum",
+      "ICP",
+      "HELLP",
+      "AFLP"
+    ],
+    "rows": [
+      [
+        "Trimester",
+        "First (rare second/third)",
+        "Second or third",
+        "Second or third",
+        "Third or postpartum"
+      ],
+      [
+        "Prevalence",
+        "0.35%‐2.0%",
+        "0.4%‐10%",
+        "0.2%‐0.6% (preeclampsia affects 3%‐5%)",
+        "0.005%‐0.010%"
+      ],
+      [
+        "Risk factors",
+        "Prior history",
+        "Multiparous, metabolic syndrome, HCV infection, personal or family history of ICP, ABCB11, ABCB4, and ATP8B1 mutations",
+        "Preexisting hypertension, DM, advanced maternal age, multiple gestations, previous history of preeclampsia",
+        "Primiparous, multiple gestations, male fetus"
+      ],
+      [
+        "Clinical findings",
+        "Vomiting with weight loss ≥5% of prepregnancy body weight, dehydration",
+        "Generalized pruritus, especially palms and soles, without rash",
+        "Abdominal pain, nausea/vomiting; commonly have preeclampsia",
+        "Abdominal pain, nausea/vomiting, jaundice, hypoglycemia"
+      ],
+      [
+        "If hepatic failure, will have encephalopathy"
+      ],
+      [
+        "Laboratory findings",
+        "Abnormal AST and ALT seen in ~ 50% but rarely >1,000 U/L and typically improve with hydration",
+        "AST and ALT 2‐30 times the ULN",
+        "AST and ALT typically >500 units/L",
+        "AST and ALT 300‐1,000 U/L"
+      ],
+      [
+        "Jaundice rare",
+        "Total bile acids >10 μmol/L",
+        "Platelets <50 L to 150 × 109/L Bilirubin <5 mg/dL",
+        "Low antithrombin III, elevated PT, low fibrinogen, elevated bilirubin, elevated LDH"
+      ],
+      [
+        "Ketonuria",
+        "Hemolysis (schistocytes, spherocytes, reticulocytes); hyperuricemia, markedly elevated LDH >600 units/L",
+        "Platelets <100,000 × 109/L"
+      ],
+      [
+        "Electrolyte abnormalities",
+        "If ALF, will have coagulopathy, hypoglycemia, hyperuricemia, and DIC"
+      ],
+      [
+        "Diagnosis",
+        "Clinical",
+        "Clinical plus elevated bile acids >10 μmol/L are sufficient for diagnosis",
+        "Clinical + maternal organ dysfunction, including renal, hepatic, neurologic, or hematologic complications, uteroplacental dysfunction, or fetal growth restriction",
+        "Clinical"
+      ],
+      [
+        "Upper endoscopy rarely indicated",
+        "Elevated AST and ALT are frequent but not necessary for diagnosis",
+        "Swansea criteria can be used (high sensitivity but low specificity if acute liver failure)"
+      ],
+      [
+        "US may exclude biliary causes if needed"
+      ]
+    ],
+    "row_count": 12,
+    "column_count": 5
+  }
+]

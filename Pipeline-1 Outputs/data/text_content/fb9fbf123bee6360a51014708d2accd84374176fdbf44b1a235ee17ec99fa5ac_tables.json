@@ -1,0 +1,200 @@
+[
+  {
+    "table_index": 1,
+    "headers": [],
+    "rows": [
+      [
+        "End Note"
+      ],
+      [
+        "Procite"
+      ],
+      [
+        "Reference Manager"
+      ]
+    ],
+    "row_count": 3,
+    "column_count": 1
+  },
+  {
+    "table_index": 2,
+    "headers": [],
+    "rows": [
+      [
+        "PSC",
+        "Chronic, cholestatic liver disease likely of autoimmune origin characterized by inflammation and fibrosis of intrahepatic and/or extrahepatic bile ducts, leading to the formation of bile duct strictures, and frequently associated with IBD"
+      ],
+      [
+        "Small‐duct PSC",
+        "Less common variant of PSC that is characterized by typical cholestatic and histological features of PSC but with normal bile ducts on cholangiography"
+      ],
+      [
+        "PSC–AIH overlap",
+        "Concurrent diagnostic features of PSC and clinical, biochemical, and histological features of AIH"
+      ],
+      [
+        "Secondary sclerosing cholangitis",
+        "Biliary strictures due to identifiable causes that can result in secondary biliary cirrhosis"
+      ],
+      [
+        "IgG4 sclerosing cholangitis",
+        "Biliary strictures due to elevated IgG4‐positive plasma cells in tissue and serum IgG4 elevation frequently associated with pancreatic involvement"
+      ],
+      [
+        "Dominant stricture",
+        "A biliary stricture on ERCP with a diameter of ≤1.5 mm in the common bile duct or of ≤1 mm in the hepatic duct"
+      ],
+      [
+        "High‐grade stricture",
+        "A biliary stricture on MRI with cholangiopancreatography with >75% reduction in the common bile duct or hepatic ducts"
+      ],
+      [
+        "Relevant stricture",
+        "Any biliary stricture of the common bile duct or hepatic ducts associated with signs or symptoms of obstructive cholestasis and/or bacterial cholangitis"
+      ]
+    ],
+    "row_count": 8,
+    "column_count": 2
+  },
+  {
+    "table_index": 3,
+    "headers": [],
+    "rows": [
+      [
+        "Infectious",
+        "HIV‐related cholangiopathy Recurrent pyogenic cholangitis Cholangitis lenta or subacute nonsuppurative cholangitis Parasitic cholangiopathy • Hydatid cyst • Echinococcosis • Clonorchiasis and opisthorchiasis • Ascariasis • Fascioliasis • Schistosomiasis"
+      ],
+      [
+        "Ischemic",
+        "Critically ill patients Hereditary hemorrhagic telangiectasis Intra‐arterial chemotherapy Hepatic artery thrombosis"
+      ],
+      [
+        "Malignant",
+        "Cholangiocarcinoma Diffuse intrahepatic metastasis Langerhans cell histiocytosis Lymphoma"
+      ],
+      [
+        "Autoimmune",
+        "Eosinophilic cholangitis Hepatic inflammatory pseudotumor IgG4‐associated cholangitis Mast cell cholangiopathy Sarcoidosis"
+      ],
+      [
+        "Anatomic",
+        "Choledocholithiasis Intrahepatic lithiasis Cystic fibrosis liver disease Surgical biliary trauma Anastomotic stricture Portal hypertensive biliopathy Recurrent pancreatitis Sickle cell cholangiopathy Choledochal cyst"
+      ],
+      [
+        "Drug‐induced",
+        "Immunotherapy with checkpoint inhibitorsPembrolizumabNivolumabAtezolizumab"
+      ]
+    ],
+    "row_count": 6,
+    "column_count": 2
+  },
+  {
+    "table_index": 4,
+    "headers": [
+      "",
+      "Models"
+    ],
+    "rows": [
+      [
+        "Variables",
+        "Age Bilirubin Albumin AST ALP Platelets PSC subtype (large‐duct or small‐duct)",
+        "Age Bilirubin Albumin ALP Platelets Presence of extrahepatic biliary disease History of variceal hemorrhage",
+        "Age Bilirubin Albumin AST ALP Platelets Hemoglobin Sodium Years since PSC diagnosis",
+        "Bilirubin Albumin Platelets GGT Cholangiography (large‐duct or small‐duct involvement)"
+      ],
+      [
+        "Endpoint",
+        "LT or liver‐related death by 15 years",
+        "Short term: death or LT by 2 years Long term: death or LT by 10 years",
+        "Hepatic decompensation (ascites, variceal hemorrhage, encephalopathy) by 5 years",
+        "Portal hypertensive complications, biliary complications, CCA, listing for LT, or death from liver disease by 5 years"
+      ],
+      [
+        "Risk thresholdsa",
+        "Lower risk: < 1.58 Higher risk: ≥ 1.58",
+        "Lower risk: < 1.46 Higher risk: ≥ 1.46",
+        "Lower risk: < 20% Higher risk: ≥ 20%",
+        "Lower risk: 0–5 Higher risk: 6–11"
+      ],
+      [
+        "Website",
+        "https://sorted.co/psc‐calculator/",
+        "http://www.uk‐psc.com/resources/the‐uk‐psc‐risk‐scores/",
+        "rtools.mayo.edu/PRESTO_calculator/",
+        "Scopeindex.net"
+      ]
+    ],
+    "row_count": 4,
+    "column_count": 2
+  },
+  {
+    "table_index": 5,
+    "headers": [
+      "Vitamin",
+      "Clinical symptoms",
+      "Recommend daily doses (children)",
+      "Recommend daily doses (adults)",
+      "Comments"
+    ],
+    "rows": [
+      [
+        "Vitamin A",
+        "Night blindness, xerophthalmia",
+        "5000–10,000 IU daily",
+        "1500–5000 IU daily",
+        "5000–100,000 IU daily × 2 weeks",
+        "1500–5000 IU daily",
+        "Frequent monitoring to avoid hypervitaminosis A"
+      ],
+      [
+        "Vitamin Dd",
+        "Osteomalacia,aosteoporosis,bRickets,ctetany in children",
+        "4000–8000 IU daily",
+        "400–2000 IU daily",
+        "Serum 25(OH)D < 12 ng/ml",
+        ""
+      ],
+      [
+        "50,000 IU weekly × 8 weeks",
+        "800 IU daily",
+        "May require higher doses or use of hydroxylated vitamin D metabolites"
+      ],
+      [
+        "Serum 25(OH)D 12–20 ng/ml"
+      ],
+      [
+        "800–1000 IU daily",
+        "800–1000 IU daily"
+      ],
+      [
+        "Serum 25(OH)D 20–30 ng/ml",
+        ""
+      ],
+      [
+        "600–800 IU daily",
+        "600–800 IU daily",
+        ""
+      ],
+      [
+        "Vitamin E",
+        "Neuropathy, ataxia, progressive neuromuscular disorder, hemolytic anemia",
+        "100–200 mg daily",
+        "15–25 mg daily",
+        "200–2000 mg daily",
+        "15 mg daily",
+        ""
+      ],
+      [
+        "Vitamin K",
+        "Hypoprothrombinemia, bone disease (impaired osteoblast function)",
+        "2–5 mg i.v. × 3 days",
+        "2–5 mg daily",
+        "2.5–10 mg daily",
+        "5–10 mg oral weekly to daily",
+        "Monitor by INR or plasma phylloquinone"
+      ]
+    ],
+    "row_count": 9,
+    "column_count": 5
+  }
+]

@@ -1,0 +1,426 @@
+[
+  {
+    "table_index": 1,
+    "headers": [],
+    "rows": [
+      [
+        "End Note"
+      ],
+      [
+        "Procite"
+      ],
+      [
+        "Reference Manager"
+      ]
+    ],
+    "row_count": 3,
+    "column_count": 1
+  },
+  {
+    "table_index": 2,
+    "headers": [
+      "Your Experience in the Past Year"
+    ],
+    "rows": [
+      [
+        "1.",
+        "Alcohol is often taken in larger amounts or over a longer period than intended.",
+        "The presence of at least 2 of these symptoms indicates an AUD:Mild:2‐3 symptomsModerate:4‐5 symptomsSevere:6 or more symptoms"
+      ],
+      [
+        "2.",
+        "There is a persistent desire or unsuccessful efforts to cut down or control alcohol use."
+      ],
+      [
+        "3.",
+        "A great deal of time is spent in activities necessary to obtain alcohol, use alcohol, or recover from its effects."
+      ],
+      [
+        "4.",
+        "Craving, or a strong desire or urge to use alcohol."
+      ],
+      [
+        "5.",
+        "Recurrent alcohol use resulting in a failure to fulfill major role obligations at work, school, or home."
+      ],
+      [
+        "6.",
+        "Continued alcohol use despite having persistent or recurrent social or interpersonal problems caused or exacerbated by the effects of alcohol."
+      ],
+      [
+        "7.",
+        "Important social, occupational, or recreational activities are given up or reduced because of alcohol use."
+      ],
+      [
+        "8.",
+        "Recurrent alcohol use in situations in which it is physically hazardous."
+      ],
+      [
+        "9.",
+        "Alcohol use is continued despite knowledge of having a persistent or recurrent physical or psychological problem that is likely to have been caused or exacerbated by alcohol."
+      ],
+      [
+        "10.",
+        "Tolerance, defined as either of the following:Need for markedly increased amounts of alcohol to achieve intoxication or desired effect; orMarkedly diminished effect with continued use of the same amount of alcohol."
+      ],
+      [
+        "11.",
+        "Withdrawal, as manifested by either of the following:The characteristic alcohol withdrawal syndrome; orAlcohol (or a closely related substance, such as a benzodiazepine) is taken to relieve or avoid withdrawal symptoms."
+      ]
+    ],
+    "row_count": 11,
+    "column_count": 1
+  },
+  {
+    "table_index": 3,
+    "headers": [
+      "Test",
+      "Source",
+      "Detection Time",
+      "Cutoff Values",
+      "Sensitivity",
+      "Specificity",
+      "PPV",
+      "NPV",
+      "Clinical Use"
+    ],
+    "rows": [
+      [
+        "CDT/%CDT*",
+        "Blood",
+        "2‐3 weeks",
+        "1.7%‐2.6%",
+        "21%‐50%",
+        "50%‐100%",
+        "64%‐100%",
+        "86%‐93%",
+        "Lower sensitivity and specificity"
+      ],
+      [
+        "EtG",
+        "Urine",
+        "3 days",
+        "500 ng/mL",
+        "76%‐89%",
+        "93%‐99%",
+        "81%‐90%",
+        "91%‐99%",
+        "False positives and greater patient awareness of testing"
+      ],
+      [
+        "EtG",
+        "Hair",
+        "Months",
+        "30 pg/mg",
+        "81%‐100%",
+        "83%‐98%",
+        "68%‐95%",
+        "86%‐100%",
+        "Costly, requires significant hair sample, limited availability"
+      ],
+      [
+        "EtS",
+        "Urine",
+        "3 days",
+        "75 ng/mL",
+        "82%",
+        "86%",
+        "70%",
+        "93%",
+        "Often used to confirm + EtG"
+      ],
+      [
+        "PEth",
+        "Blood",
+        "2‐3 weeks",
+        "20 ng/mL",
+        "97%‐100%",
+        "66%‐96%",
+        "85%",
+        "100%",
+        "More costly than urine EtG"
+      ]
+    ],
+    "row_count": 5,
+    "column_count": 9
+  },
+  {
+    "table_index": 4,
+    "headers": [
+      "",
+      "Sensitivity",
+      "Specificity",
+      "PPV",
+      "NPV"
+    ],
+    "rows": [
+      [
+        "Andresen‐Streichert42"
+      ],
+      [
+        "%CDT",
+        "21% (6‐45)",
+        "100% (96‐100)",
+        "100% (39‐100)",
+        "—"
+      ],
+      [
+        "Urine EtG",
+        "71% (41‐91)",
+        "98% (94‐100)",
+        "90% (58‐99)",
+        "95% (89‐98)"
+      ],
+      [
+        "Hair EtG",
+        "84% (54‐98)",
+        "92% (82‐97)",
+        "68% (41‐89)",
+        "96% (88‐99)"
+      ],
+      [
+        "PEth",
+        "100% (79‐100)",
+        "96% (91‐99)",
+        "85% (62‐96)",
+        "100% (96‐100)"
+      ],
+      [
+        "Staufer43"
+      ],
+      [
+        "%CDT",
+        "25%",
+        "98%",
+        "64%",
+        "93%"
+      ],
+      [
+        "Urine EtG",
+        "89%",
+        "99%",
+        "89%",
+        "99%"
+      ]
+    ],
+    "row_count": 8,
+    "column_count": 5
+  },
+  {
+    "table_index": 5,
+    "headers": [
+      "Medication",
+      "Dosing",
+      "Metabolism (M) and Excretion (E)",
+      "Mechanism of Action",
+      "ALD Considerations"
+    ],
+    "rows": [
+      [
+        "Naltrexone*",
+        "50 mg/d orally or 380 mg monthly sq",
+        "M: Hepatic",
+        "Opioid receptor antagonist",
+        "Not studied in patients with ALDHepatotoxicity concerns"
+      ],
+      [
+        "E: Mostly renal, fecal 2%‐3%"
+      ],
+      [
+        "Acamprosate*",
+        "666 mg tid",
+        "M: None",
+        "NMDA receptor antagonist",
+        "Not studied in patients with ALDNo reported instances of hepatotoxicity"
+      ],
+      [
+        "E: Renal"
+      ],
+      [
+        "Gabapentin",
+        "600‐1,800 mg/d",
+        "M: None",
+        "Modulates GABA activity through action at presynaptic calcium channels",
+        "Not studied in patients with ALDMonitor closely for renal dysfunction and worsening mental status/sedation"
+      ],
+      [
+        "E: Renal 75%, fecal 25%"
+      ],
+      [
+        "Baclofen",
+        "30‐60 mg/d",
+        "M: Hepatic, limited",
+        "GABA‐B receptor agonist",
+        "Single RCT in patients with ALD showed benefit"
+      ],
+      [
+        "E: Renal"
+      ],
+      [
+        "Topiramate",
+        "75‐400 mg/d",
+        "M: Not extensively metabolized",
+        "GABA action augmentation, glutamate antagonism",
+        "Not studied in patients with ALD"
+      ],
+      [
+        "E: Renal"
+      ]
+    ],
+    "row_count": 10,
+    "column_count": 5
+  },
+  {
+    "table_index": 6,
+    "headers": [],
+    "rows": [
+      [
+        "Implicated in increasing the risk of alcohol‐associated liver injuryAlcohol dose above threshold of 1 drink/day (women), 2 drinks/day (men)Pattern of consumption: daily drinking; drinking while fasting, binge drinkingSmoking cigarettesWomen compared with menGenetics*:PNPLA3, TM6SF2, MBOAT7, HSD17B13Increased BMIPresence of comorbid conditions: chronic viral hepatitis, hemochromatosis, NAFLD, NASH"
+      ],
+      [
+        "Implicated in ameliorating the risk of alcohol‐associated liver injuryCoffee consumption"
+      ],
+      [
+        "Equivocal data regarding effect on the risk of alcohol‐associated liver injuryType of alcohol consumedModerate alcohol use in patients with high BMI"
+      ]
+    ],
+    "row_count": 3,
+    "column_count": 1
+  },
+  {
+    "table_index": 7,
+    "headers": [],
+    "rows": [
+      [
+        "Symptoms"
+      ],
+      [
+        "Odor of alcohol on breath*"
+      ],
+      [
+        "NonspecificTirednessAbdominal painDay/night reversal (sleepy by day, wakeful at night)Peripheral neuropathyWeight gain (due to ascites)Weight loss (due to loss of proximal muscle mass)Confusion (as part of hepatic encephalopathy)Loss of sexual driveAmenorrhea"
+      ],
+      [
+        "SignsSkin: Spider angiomata, palmar erythema, leukonychia, ecchymosesEyes: Icteric conjunctivaeMusculoskeletal: Loss of proximal muscle mass, especially temporal wastingCardiovascular: Systemic hypotension; tachycardia suggests alcohol withdrawal syndrome*Abdominal: Ascites, hepatomegaly, splenomegaly, bruits, caput medusaReproductive: Gynecomastia, gonadal atrophy in menNeurological:◦Alcohol withdrawal syndrome*: Fine tremor, psychomotor agitation, transient hallucinations or illusions◦Hepatic encephalopathy: Coarse flapping tremor (asterixis), altered consciousness◦Wernicke‐Korsakoff syndromeHands: Dupuytren's contracture"
+      ]
+    ],
+    "row_count": 4,
+    "column_count": 1
+  },
+  {
+    "table_index": 8,
+    "headers": [
+      "",
+      "Bili",
+      "PT/INR",
+      "Cr/BUN",
+      "Age",
+      "Alb",
+      "WBC",
+      "Stratification",
+      "Clinical Use"
+    ],
+    "rows": [
+      [
+        "MDF",
+        "+",
+        "+",
+        "‐",
+        "‐",
+        "‐",
+        "‐",
+        "Severe: ≥32",
+        "Initiate corticosteroids"
+      ],
+      [
+        "MELD",
+        "+",
+        "+",
+        "+",
+        "‐",
+        "‐",
+        "‐",
+        "Severe: ≥21, but a continuous scale",
+        "Prognosis only"
+      ],
+      [
+        "ABIC",
+        "+",
+        "+",
+        "+",
+        "+",
+        "‐",
+        "‐",
+        "Low: <6.71",
+        "Prognosis only"
+      ],
+      [
+        "GAHS",
+        "+",
+        "+",
+        "+",
+        "+",
+        "‐",
+        "+",
+        "Poor prognosis: ≥9",
+        "Initiate corticosteroids if ≥9 and MDF ≥32"
+      ],
+      [
+        "Lille",
+        "+",
+        "+",
+        "+",
+        "+",
+        "+",
+        "‐",
+        "≥0.45: Nonresponse",
+        "Day 7 cessation or continuation of corticosteroids"
+      ],
+      [
+        "<0.45: Response"
+      ]
+    ],
+    "row_count": 6,
+    "column_count": 9
+  },
+  {
+    "table_index": 9,
+    "headers": [
+      "",
+      "Advantages",
+      "Disadvantages"
+    ],
+    "rows": [
+      [
+        "MDF",
+        "Decades of experience in AH",
+        "False positives can lead to excess corticosteroid treatment"
+      ],
+      [
+        "Key inclusion criterion in most AH trials"
+      ],
+      [
+        "MELD",
+        "Extensive experience in hepatology",
+        "Uncertain threshold for initiating corticosteroids"
+      ],
+      [
+        "ABIC",
+        "Three‐tiered stratification",
+        "Uncertain threshold for initiating corticosteroids and not verified outside of Spain"
+      ],
+      [
+        "GAHS",
+        "Improves specificity of patients with MDF ≥32 needing corticosteroids",
+        "Not verified outside of United Kingdom"
+      ],
+      [
+        "Lille",
+        "Allows early cessation of corticosteroids",
+        "Uncertain decision making with partial response (Lille 0.46‐0.56)"
+      ]
+    ],
+    "row_count": 6,
+    "column_count": 3
+  }
+]

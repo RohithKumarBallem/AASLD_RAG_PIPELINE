@@ -1,0 +1,582 @@
+[
+  {
+    "table_index": 1,
+    "headers": [],
+    "rows": [
+      [
+        "End Note"
+      ],
+      [
+        "Procite"
+      ],
+      [
+        "Reference Manager"
+      ]
+    ],
+    "row_count": 3,
+    "column_count": 1
+  },
+  {
+    "table_index": 2,
+    "headers": [],
+    "rows": [
+      [
+        "Recognition of the concept of compensated advanced chronic liver disease (cACLD), a shift away from the requirement of a histological or radiological diagnosis of cirrhosis for initial patient risk stratification"
+      ],
+      [
+        "Codification of methodology to use noninvasive assessments to identify clinically significant portal hypertension (CSPH)"
+      ],
+      [
+        "Endorsement of a change in paradigm with the recommendation of early utilization of nonselective beta-blocker therapy when CSPH is identified in order to decrease the risk of cirrhosis decompensation"
+      ],
+      [
+        "Updated guidance on the use blood and blood products during initial resuscitation of acute variceal hemorrhage"
+      ],
+      [
+        "Endorsement of preemptive TIPS in select patient subsets"
+      ],
+      [
+        "Guidance on the use of upper endoscopy prior to transesophageal echocardiography"
+      ]
+    ],
+    "row_count": 6,
+    "column_count": 1
+  },
+  {
+    "table_index": 3,
+    "headers": [
+      "Classification",
+      "Level",
+      "Examples"
+    ],
+    "rows": [
+      [
+        "Prehepatic",
+        "Portal vein and branches",
+        "Portal vein thrombosis"
+      ],
+      [
+        "Intrahepatic",
+        "Presinusoidal (portal triads)",
+        "Schistosomiasis, primary biliary cholangitis, sarcoidosis, portosinusoidal vascular disorder"
+      ],
+      [
+        "",
+        "Sinusoidal",
+        "Cirrhosis (all causes), alcohol-associated hepatitis"
+      ],
+      [
+        "",
+        "Postsinusoidal (central veins)",
+        "Sinusodial obstruction syndrome"
+      ],
+      [
+        "Posthepatic",
+        "Hepatic veins, inferior vena cava",
+        "Budd-Chiari syndrome, congestive hepatopathy (multiple causes including but not limited to pulmonary hypertension, heart failure, constrictive pericarditis)"
+      ]
+    ],
+    "row_count": 5,
+    "column_count": 3
+  },
+  {
+    "table_index": 4,
+    "headers": [
+      "Target",
+      "Treatments"
+    ],
+    "rows": [
+      [
+        "Cirrhosis",
+        ""
+      ],
+      [
+        "Etiological therapy",
+        "Antiviral therapy (HCV, HBV), immunosuppression (AIH), alcohol abstinence and relapse prevention therapy"
+      ],
+      [
+        "Healthy lifestyle",
+        "Alcohol elimination"
+      ],
+      [
+        "",
+        "Regular moderate aerobic exercise"
+      ],
+      [
+        "",
+        "Maintenance of body weight at body mass index 18–29 kg/m2"
+      ],
+      [
+        "",
+        "Adequate protein intake (>1 g/kg per day), avoidance of processed foods, avoidance of sugar and high-fructose corn syrup–sweetened food products, avoidance of salty foods, tobacco avoidance"
+      ],
+      [
+        "",
+        "High-protein nocturnal snack"
+      ],
+      [
+        "Increased hepatic vascular resistance",
+        "TIPS Carvedilol"
+      ],
+      [
+        "Activated HSC",
+        "Antifibrotic agents (experimental), anticoagulants"
+      ],
+      [
+        "LSEC dedifferentiation",
+        "Statins"
+      ],
+      [
+        "Hepatocyte injury",
+        "Antioxidants"
+      ],
+      [
+        "Splanchnic vasodilation",
+        "Nonselective beta-blockers and carvedilol"
+      ],
+      [
+        "",
+        "Terlipressin"
+      ],
+      [
+        "",
+        "Somatostatin and analogs"
+      ],
+      [
+        "Gut-liver axis",
+        "Nonselective beta-blockers and carvedilol"
+      ],
+      [
+        "",
+        "Fecal transplantation, probiotics, antibiotics"
+      ],
+      [
+        "Collaterals and varices",
+        "Nonselective beta-blockers and carvedilol"
+      ],
+      [
+        "",
+        "Antiangiogenics (experimental)"
+      ],
+      [
+        "",
+        "Endoscopic therapy"
+      ],
+      [
+        "",
+        "Collateral embolization, BRTO, PARTO,esophageal stents, balloon tamponade"
+      ]
+    ],
+    "row_count": 20,
+    "column_count": 2
+  },
+  {
+    "table_index": 5,
+    "headers": [
+      "Therapy",
+      "Mechanism of action",
+      "Starting dose",
+      "Titration",
+      "Maximal dose",
+      "Goal",
+      "Common adverse effects",
+      "Maintenance"
+    ],
+    "rows": [
+      [
+        "Propranolol",
+        "Decreased cardiac output; caused by decreased heart rate and contractility from beta-1 adrenergic blockade, plus",
+        "20–40 mg twice daily",
+        "Increase the dose every 2–3 d until treatment goal",
+        "Without ascites: 320 mg/day; with ascites: 160 mg/day",
+        "HR of 55–60 bpm if tolerated; SBP should be maintained ≥90 mm Hg",
+        "Fatigue, bradycardia, dyspnea, orthostasis, hypotension, constipation",
+        "Indefinitely or until TIPS or liver transplant. No indication for routine upper endoscopy"
+      ],
+      [
+        "Nadolol",
+        "Splanchnic arterial vasoconstriction; caused by beta-2 blockade leading to unopposed alfa-adrenergic vasoconstriction",
+        "20–40 mg at bedtime",
+        "",
+        "Without ascites: 160 mg/day; with ascites: 80 mg/day",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Carvedilol",
+        "Above plus decreased intrahepatic vascular resistance; caused by anti-alpha-adrenergic activity",
+        "6.25 mg once daily",
+        "Increase to 6.25 mg twice daily after 3 d",
+        "12.5 mg/day (higher doses could be considered for nonhepatic indications)",
+        "No HR goal; SBP should be maintained ≥90 mm Hg",
+        "",
+        ""
+      ]
+    ],
+    "row_count": 3,
+    "column_count": 8
+  },
+  {
+    "table_index": 6,
+    "headers": [
+      "Class",
+      "Agent",
+      "Ph",
+      "Duration",
+      "Key inclusion criterion",
+      "Outcome(s)",
+      "N",
+      "Country",
+      "NCT",
+      "Status"
+    ],
+    "rows": [
+      [
+        "Anticoagulant",
+        "Rivaroxaban",
+        "3",
+        "24 mo",
+        "Compensated cirrhosis with CSPH (clinical or HVPG)",
+        "Hepatic decompensation",
+        "160",
+        "Spain",
+        "NCT02643212 (CIRROXABAN)",
+        "Unknown"
+      ],
+      [
+        "",
+        "Rivaroxaban",
+        "1",
+        "12 hours",
+        "CTP A/B cirrhosis",
+        "Pharmacological",
+        "24",
+        "Switzerland",
+        "NCT04874428",
+        "Recruiting"
+      ],
+      [
+        "Anti-inflammatory",
+        "Belapectin",
+        "2/3",
+        "18 mo",
+        "NASH cirrhosis",
+        "New varices",
+        "1,010",
+        "United States",
+        "NCT04365868 (NAVIGATE)",
+        "Recruiting"
+      ],
+      [
+        "Microbiome",
+        "Rifaximin",
+        "3",
+        "60 d",
+        "Compensated cirrhosis with CSPH (HVPG)",
+        "Change in HVPG",
+        "60",
+        "Italy",
+        "NCT02508623 (ERASE)",
+        "Unknown"
+      ],
+      [
+        "Statin",
+        "Atorvastatin",
+        "4",
+        "18 mo",
+        "Compensated cirrhosis with CSPH (HVPG)",
+        "Death, LT, hospitalizations",
+        "162",
+        "Denmark",
+        "NCT04072601 (STATLiver)",
+        "Recruiting (16)"
+      ],
+      [
+        "",
+        "Rosuvastatin",
+        "2/3",
+        "2 mo",
+        "Carvedilol-treated CSPH, incomplete response",
+        "Change in HVPG",
+        "80",
+        "Brazil",
+        "NCT03720067",
+        "Recruiting"
+      ],
+      [
+        "",
+        "Simvastatin",
+        "3",
+        "24 mo",
+        "Compensated cirrhosis with CSPH (clinical)",
+        "Hepatic decompensation or HCC",
+        "500",
+        "United Statesa",
+        "NCT03654053 (SACRED)",
+        "Recruiting (14)"
+      ],
+      [
+        "",
+        "Simvastatin ± rifaximin",
+        "3",
+        "12 mo",
+        "Decompensated cirrhosis",
+        "Incidence of ACLF",
+        "240",
+        "Europe",
+        "NCT03780673 (LiverHOPE)",
+        "Recruiting (15)"
+      ],
+      [
+        "Unknown",
+        "Berberine",
+        "3",
+        "12 mo",
+        "HBV cirrhosis with VNT on carvedilol",
+        "Progression of varices",
+        "288",
+        "China",
+        "NCT04543643",
+        "Not yet recruiting"
+      ],
+      [
+        "Vasodilator",
+        "BI 685509",
+        "2",
+        "24 wk",
+        "Compensated cirrhosis with CSPH (HVPG)",
+        "Change in HVPG",
+        "150",
+        "TBD",
+        "NCT05161481",
+        "Not yet recruiting"
+      ]
+    ],
+    "row_count": 10,
+    "column_count": 10
+  },
+  {
+    "table_index": 7,
+    "headers": [],
+    "rows": [
+      [
+        "1. Consider the planned approach:",
+        "",
+        ""
+      ],
+      [
+        "Approach",
+        "Pros",
+        "Cons",
+        "Comments"
+      ],
+      [
+        "Transjugular",
+        "Fast, allows biopsy",
+        "Potential for arrythmia",
+        "Preferred at most centers"
+      ],
+      [
+        "Transfemoral",
+        "No risk of arrythmia",
+        "Not adequate to obtain biopsy",
+        ""
+      ],
+      [
+        "Antecubital",
+        "Less invasive",
+        "Potential for arrythmia, unable to biopsy",
+        "Rarely used"
+      ],
+      [
+        "2. Select scale range to be 0–40 or 0–50 mm Hg. Adjust 1 grid mark = 1 mm Hg whenever possible and select low recording speed (1–7.5 mm/s)."
+      ],
+      [
+        "3. Use precalibrated transducers connected to a monitoring system with printing capacity or digital format that can be saved. Put transducer level at midaxillary line."
+      ],
+      [
+        "4. Use balloon-tipped catheters of 10–12 mm balloon diameter."
+      ],
+      [
+        "5. Print calibration scale and zero level before any hemodynamic measurement."
+      ],
+      [
+        "6. Measurements should be obtained in a quiet ambience, asking the patient to breathe quietly and not to move or speak during measurements. Patients should not be breathing deeply/snoring during measurements to avoid respiratory artifacts."
+      ],
+      [
+        "7. Do not use deep sedation (avoid fentanyl and propofol). Midazolam at low dose (0.02 mg/kg) is acceptable."
+      ],
+      [
+        "8. FHVP should be measured with the tip of the catheter 2–4 cm inside the hepatic vein. WHVP (after balloon inflation) should be obtained at the same place, or more distally (if the vein is too large to be occluded by the balloon), after checking that there is no reflux of contrast around the balloon or through another hepatic vein. Rinse the catheter thoroughly before measurements."
+      ],
+      [
+        "9. Run pressure measurements for 15–20 s for FHVP and for at least 1 min for WHVP because it may take a long time to stabilize. WHVP should be read when stable, on the last 20–30 s."
+      ],
+      [
+        "10. Label each measurement. Discard measurements in which there are artifacts caused by moving, coughing, snoring, or speaking."
+      ],
+      [
+        "11. Run all measurements in triplicate. Sequential measurements should be within 2 mm Hg of the immediately prior measurement. Greater variability should prompt reassessment of technique."
+      ],
+      [
+        "12. In addition to WHVP and FHVP, obtain measurements of the FHVP with the tip of the catheter 1–2 cm from the hepatic vein outlet into the IVC. Obtain also the IVC pressure at the level of the hepatic vein outlet (close to the right atrium) and of the right atrial pressure. FHVP and IVC pressure should be almost identical; if the FHVP exceeds > 2 mm Hg the IVC, obtain a venography to rule out any obstruction."
+      ],
+      [
+        "Abbreviations:FHVP, free hepatic vein pressure; IVC, inferior vena cava; WHVP, wedged hepatic vein pressure."
+      ]
+    ],
+    "row_count": 17,
+    "column_count": 3
+  },
+  {
+    "table_index": 8,
+    "headers": [],
+    "rows": [
+      [
+        "Absolute contraindications"
+      ],
+      [
+        "Asthma"
+      ],
+      [
+        "2nd and 3rd degree atrioventricular block (in absence of implanted pacemaker)"
+      ],
+      [
+        "Sick sinus syndrome"
+      ],
+      [
+        "Extreme bradycardia (<50 bpm)"
+      ],
+      [
+        "Relative contraindications"
+      ],
+      [
+        "Psoriasis"
+      ],
+      [
+        "Peripheral arterial disease"
+      ],
+      [
+        "Chronic obstructive pulmonary disease"
+      ],
+      [
+        "Pulmonary artery hypertension (controversial)"
+      ],
+      [
+        "Insulin-dependent diabetes mellitus (interferes with symptoms of hypoglycemia)"
+      ],
+      [
+        "Raynaud syndrome"
+      ]
+    ],
+    "row_count": 12,
+    "column_count": 1
+  },
+  {
+    "table_index": 9,
+    "headers": [
+      "Agent",
+      "Dosing",
+      "Duration"
+    ],
+    "rows": [
+      [
+        "Octreotide",
+        "Initial i.v. bolus of 50 mcg and continue infusion at a rate of 25–50 mcg/hour151–153",
+        "2–5 d"
+      ],
+      [
+        "Somatostatin",
+        "Initial i.v. bolus of 250 mcg and continue infusion at a rate of 250–500 mcg/hour154,155",
+        "2–5 d"
+      ],
+      [
+        "Terlipressina",
+        "Initial 24–48 hours: 2 mg i.v. every 4–6 hours and then 1 mg i.v. every 4–6 hours154,156–158",
+        "2–5 d"
+      ]
+    ],
+    "row_count": 3,
+    "column_count": 3
+  },
+  {
+    "table_index": 10,
+    "headers": [
+      "Feature",
+      "Score"
+    ],
+    "rows": [
+      [
+        "Mucosal mosaic pattern"
+      ],
+      [
+        "Mild",
+        "1"
+      ],
+      [
+        "Severe",
+        "2"
+      ],
+      [
+        "Red markings"
+      ],
+      [
+        "Isolated",
+        "1"
+      ],
+      [
+        "Confluent",
+        "2"
+      ],
+      [
+        "Gastric antral vascular ectasia (GAVE)"
+      ],
+      [
+        "Absent",
+        "1"
+      ],
+      [
+        "Present",
+        "2"
+      ]
+    ],
+    "row_count": 9,
+    "column_count": 2
+  },
+  {
+    "table_index": 11,
+    "headers": [],
+    "rows": [
+      [
+        "(a) Prospective validation of the “rule of 5” for the noninvasive selection of candidates for early initiation of nonselective beta-blockers (NSBBs) to prevent clinical decompensation and avoid screening endoscopy"
+      ],
+      [
+        "(b) Systematic and cross-platform validation of cutpoints for magnetic resonance elastography, two-dimensional shear wave elastography, and point shear wave elastography for estimation of presence of clinically significant portal hypertension and high-risk varices"
+      ],
+      [
+        "(c) Identification and validation of noninvasive modalities to monitor 10%–20% changes in HVPG"
+      ],
+      [
+        "(d) Confirmation of clinical, Noninvasive Liver Disease Assessment (NILDA), and/or HVPG thresholds for clinical recompensation after which screening endoscopy or NSBB therapy is no longer required, allowing de-escalation of monitoring and treatment for portal hypertension"
+      ],
+      [
+        "(e) External validation of the PREDESCI trial in additional populations (patients with NASH)"
+      ],
+      [
+        "(f) Definition of patients with portal hypertension who might benefit from an earlier decision for TIPS (i.e., after first bleeding; before major operation)"
+      ],
+      [
+        "(g) Quantification of the benefit from nutritional intervention in patients with cirrhosis and sarcopenia and/or frailty for prevention of first or further decompensation and/or improvement in survival"
+      ],
+      [
+        "(h) Confirmation of the safety and effectiveness of statins in improving survival and/or preventing decompensation, further decompensation, and acute-on-chronic liver failure when used alone or coadministered with NSBBs, rifaximin, or other treatments"
+      ],
+      [
+        "(i) Larger prospective studies of self-expanding esophageal stents to confirm role and refine utilization in acute variceal hemorrhage"
+      ]
+    ],
+    "row_count": 9,
+    "column_count": 1
+  }
+]

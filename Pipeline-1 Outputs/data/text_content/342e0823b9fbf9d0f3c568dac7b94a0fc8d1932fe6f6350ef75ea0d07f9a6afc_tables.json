@@ -1,0 +1,333 @@
+[
+  {
+    "table_index": 1,
+    "headers": [],
+    "rows": [
+      [
+        "End Note"
+      ],
+      [
+        "Procite"
+      ],
+      [
+        "Reference Manager"
+      ]
+    ],
+    "row_count": 3,
+    "column_count": 1
+  },
+  {
+    "table_index": 2,
+    "headers": [
+      "Construct",
+      "Theoretical Definitions",
+      "Operational Definitions"
+    ],
+    "rows": [
+      [
+        "Malnutrition",
+        "A clinical syndrome that results from deficiencies or excesses of nutrient intake, imbalance of essential nutrients, or impaired nutrient use(4)",
+        "An imbalance (deficiency or excess) of nutrients that causes measurable adverse effects on tissue/body form (body shape, size, composition) or function and/or clinical outcome(1)"
+      ],
+      [
+        "Frailty",
+        "A clinical state of decreased physiologic reserve and increased vulnerability to health stressors(2)",
+        "The phenotypic representation of impaired muscle contractile function"
+      ],
+      [
+        "Sarcopenia",
+        "A progressive and generalized skeletal muscle disorder associated with an increased likelihood of adverse outcomes including falls, fractures, disability, and mortality(3)",
+        "The phenotypic representation of loss of muscle mass"
+      ]
+    ],
+    "row_count": 3,
+    "column_count": 3
+  },
+  {
+    "table_index": 3,
+    "headers": [
+      "",
+      "Tool",
+      "Setting Studied",
+      "Administration Time",
+      "Equipment Needed",
+      "Component(s) of Frailty Measured",
+      "Details Regarding Administration"
+    ],
+    "rows": [
+      [
+        "",
+        "Clinical Frailty Scale(96,115)",
+        "Ambulatory inpatient",
+        "<1 minute",
+        "None",
+        "Global frailty",
+        "Rapid survey‐based instrument using clinician assessment on a scale of 1‐9 where 1 = very fit, 5 = mildly frail, and 9 = terminally ill"
+      ],
+      [
+        "ADLs(97,100,113)",
+        "Ambulatory inpatient",
+        "2‐3 minutes",
+        "None",
+        "Ability to conduct basic tasks to function within one’s home",
+        "Patient or caregiver assesses difficulty or dependence with six activities that are essential to function within one’s home (e.g., basic hygiene, eating, ambulation)"
+      ],
+      [
+        "KPS(88,89,116,117)",
+        "Ambulatory inpatient",
+        "<1 minute",
+        "None",
+        "Ability to carry out normal ADLs",
+        "Patient, caregiver, or clinician assesses functional limitations ranging from 100 (normal, no complaints, no evidence of disease) to 50 (requires considerable assistance and frequent medical care) to 10 (moribund, fatal processes progressing rapidly)."
+      ],
+      [
+        "Lansky Play‐Performance Scale(94)",
+        "Ambulatory inpatient",
+        "<1 minute",
+        "None",
+        "Usual play activity in children",
+        "Studied in children aged 1‐17 years listed for liver transplant. Similar to KPS scale ranging from 100 (fully active, normal) to 50 (lying around much of the day, no active playing but participates in all quiet play and activities) to 10 (does not play)"
+      ],
+      [
+        "Eastern Cooperative Oncology Group(103,104,118‐121)",
+        "Ambulatory",
+        "<1 minute",
+        "None",
+        "Ability to carry out normal ADLs",
+        "Patient, caregiver, or clinician assesses functional limitations ranging 0‐5, where 0 = asymptomatic, 2 = < 50% in bed during the day, and 4 = bedbound."
+      ],
+      [
+        "Fried Frailty Instrument(75,106)",
+        "Ambulatory",
+        "5‐10 minutes",
+        "Hand dynamometer,stopwatch,tape measure",
+        "Physical frailty",
+        "Consists of five domains: (1) weight loss (question), (2) exhaustion (question), (3) slowness (short gait speed), (4) weakness (hand grip strength), and (5) low physical activity level (questionnaire)"
+      ],
+      [
+        "Modified Fried Frailty Instrument(93)",
+        "Ambulatory",
+        "60 minutes",
+        "Hand dynamometer,stopwatch,tape measure",
+        "Physical frailty",
+        "Developed for children with chronic liver disease aged 5‐17 years. Consists of five domains: (1) weight loss (triceps skinfold thickness), (2) exhaustion (questionnaire), (3) slowness (gait speed), (4) weakness (grip strength), and (5) low physical activity (questionnaire)"
+      ],
+      [
+        "Hand grip strength(122,123)",
+        "Ambulatory",
+        "2‐3 minutes",
+        "Hand dynamometer",
+        "Physical frailty",
+        "The patient is asked to grip a dynamometer using the dominant hand with their best effort. The test is repeated 3 times, and the values are averaged."
+      ],
+      [
+        "Short gait speed(105)",
+        "Ambulatory",
+        "~1 minute",
+        "stopwatch, tape measure",
+        "Functional mobility",
+        "One of the components of the Short Physical Performance Battery"
+      ],
+      [
+        "6‐minute walk test(107)",
+        "Ambulatory",
+        "6 minutes",
+        "Stopwatch, tape measure",
+        "Submaximal aerobic capacity and endurance",
+        "Distance walked on a flat surface at usual walking speed within 6 minutes"
+      ],
+      [
+        "Short Physical Performance Battery(75)",
+        "Ambulatory",
+        "~3 minutes",
+        "Stopwatch,tape measure, chair",
+        "Lower extremity physical function",
+        "Consists of three components: (1) 8‐foot gait speed, (2) timed chair stands (5 times), and (3) balance testing three positions (feet together, semitandem, tandem) for 10 seconds each"
+      ],
+      [
+        "Liver Frailty Index(54,90‐92,124‐127)",
+        "Ambulatory inpatient",
+        "~3 minutes",
+        "Stopwatch, hand dynamometer, chair",
+        "Physical frailty",
+        "Cirrhosis‐specific tool consisting of grip strength, chair stands, and balance testing. Changes in Liver Frailty Index are associated with outcomes."
+      ],
+      [
+        "Cardiopulmonary exercise test(102,108,128)",
+        "Ambulatory",
+        "60 minutes",
+        "Cardiopulmonary stress diagnostic system",
+        "Maximal aerobic capacity",
+        "Noninvasive test of functional capacity through measurement of gas exchange at rest and during exercise to evaluate both submaximal and peak exercise responses"
+      ]
+    ],
+    "row_count": 13,
+    "column_count": 7
+  },
+  {
+    "table_index": 4,
+    "headers": [
+      "Method",
+      "Equipment Needed",
+      "Advantages",
+      "Disadvantages",
+      "Outcomes Studied",
+      "Summary Notes"
+    ],
+    "rows": [
+      [
+        "Anthropometrics(142,171)(MAMC, triceps skinfold thickness)",
+        "Tape measure, skinfold thickness, calipers",
+        "Safe, rapid, bedside tool, accessible, minimal training, repeatable",
+        "Low reproducibility; affected by fluid overload, adipose tissue loss; weak correlation with cross‐sectional imaging",
+        "Concordance between DEXA and CT, post–liver transplant morbidity and mortality",
+        "Practical for large patient populations but poor accuracy and precision; interpret with caution"
+      ],
+      [
+        "Anthropometrics (pediatric)(150)",
+        "Comparison between MAMC and CT"
+      ],
+      [
+        "BIA(135‐139)",
+        "BIA device",
+        "Safe, rapid, accessible, minimal to moderate training, repeatable",
+        "Strict parameters around nutritional intake and exercise before the test, positioning challenging in patients with obesity",
+        "Hepatic decompensation, pretransplant mortality",
+        "Fluid retention may impact the reliability of lean body mass estimates; data using phase angle show good reliability even in patients with fluid retention"
+      ],
+      [
+        "Ultrasound(165,172,173)",
+        "Ultrasound device",
+        "Safe, rapid, accessible, repeatable",
+        "Operator‐dependent, challenging in patients with obesity, lack of normative data",
+        "Ultrasound of psoas compared with CT‐based SMI, hospitalizations and mortality, severity of liver disease",
+        "More data are needed to standardize technique; able to provide echogenicity data for tissue integrity"
+      ],
+      [
+        "MRI(134,174)",
+        "MRI machine, image analysis software",
+        "Accurate, no radiation, measures muscle quantity and quality",
+        "Costly, limited availability",
+        "Validated against CT imaging, acute‐on‐chronic liver failure and mortality",
+        "Muscle mass has been defined by fat‐free muscle area"
+      ],
+      [
+        "DEXA(142,144,145,158,175)",
+        "DEXA scanner",
+        "Safe, rapid",
+        "Radiation exposure (low),edema can limit accuracy",
+        "Mortality",
+        "Low concordance between DEXA and CT in patients with cirrhosisDEXA appendicular mass improves accuracy compared with CT"
+      ],
+      [
+        "CT(131,154,157,159,160,166,169,176,177)",
+        "CT scanner, image analysis software",
+        "Accurate, rapid, measures muscle quantity and quality, requires a high level of training to interpret",
+        "Radiation exposure, not available at bedside, varying cut‐points/sites of measurement, not easily repeatable",
+        "Waitlist mortality, posttransplant mortality, decompensation, acute care use, quality of life",
+        "Has the most evidence to support its use but has challenges with radiation exposure and repeatabilityMuscle mass measures that have been studied:Total psoas areaPsoas muscle indexSMITotal skeletal muscle attenuation"
+      ],
+      [
+        "CT (pediatric)(150‐152,155,156,178)",
+        "Comparison between MAMC and CT, comparison with healthy children, motor delay, infections, hospitalizations"
+      ]
+    ],
+    "row_count": 8,
+    "column_count": 6
+  },
+  {
+    "table_index": 5,
+    "headers": [
+      "",
+      "",
+      "Symptoms of Deficiency",
+      "Repletion",
+      "Comments/Monitoring"
+    ],
+    "rows": [
+      [
+        "Fat‐soluble vitamins",
+        "Vitamin A",
+        "Ocular changes (e.g., xerophthalmia, night blindness)Skin changes (e.g., hyperkeratosis, phrynoderma, poor wound healing)Growth retardation",
+        "Vitamin A 2,000‐200,000 IU/day PO according to deficiency syndrome and severity for 4‐8 weeks(255,256)",
+        "In patients not responding to vitamin A replacement, consider replacing zinc as well(257,258)Monitor levels with supplementation as there is risk of significant toxicity (>120 μg/dL)"
+      ],
+      [
+        "Vitamin D",
+        "Bone pain, muscle weakness, osteomalacia, anorexia, hair loss, poor wound healingHypocalcemia, hypophosphatemia",
+        "Repletion: 50,000 IU/week vitamin D2or D3for 8 weeks followed by maintenance of 1,500‐2,000 IU/day(259)",
+        "Therapeutic target 25‐OH vitamin D > 30 ng/mLIn children, supplementation with vitamin D3is more effective than vitamin D2because greater water solubility allows better absorption(260)Give with calcium in those with low bone mineral density"
+      ],
+      [
+        "Vitamin E",
+        "Hemolytic anemiaNeurologic deficits (e.g., ataxia, peripheral neuropathy)Muscle pain",
+        "α‐Tocopherol acetate 400‐800 IU/day PO",
+        "Deficiency is much less common than vitamins A and DHigh doses antagonize vitamin A and adversely affect wound healing and platelet function"
+      ],
+      [
+        "Vitamin K",
+        "Bleeding, petechiae, purpura, ecchymosisProlongation of international normalized ratio",
+        "Phytonadione 1‐10 mg PO, s.c., or i.v.",
+        "Not stored, so deficiencies occur rapidlyRoute and dose of replacement regimen vary by clinical setting"
+      ],
+      [
+        "Water‐soluble vitamins",
+        "Thiamine,vitamin B1",
+        "Dry/wet beriberiWernicke encephalopathy/Korsakoff syndromeMuscle weakness",
+        "Asymptomatic: thiamine 100 mg/daySuspected Wernicke encephalopathy: thiamine 500 mg i.v. 3×/day on days 1 and 2, then 250 mg i.v. 3×/day on days 3‐5",
+        "Thiamine measurement is not widely availableDose and route according to deficiency syndrome and severity"
+      ],
+      [
+        "Niacin, vitamin B3",
+        "Pellagra: dry skin and bright red tongue, gastrointestinal disturbanceNeurological symptoms; apathy, fatigue headache, memory loss, abnormal behavior",
+        "300‐1,000 mg/day PO for deficiency states",
+        "Blood levels are unreliable measures of deficiencyHepatotoxicity possible from excess dosage"
+      ],
+      [
+        "Pyridoxine,vitamin B6",
+        "Paresthesia, seizuresOral changes (e.g., glossitis, ulcerations)",
+        "Vitamin B6100 mg PO per day",
+        "Isolated deficiency uncommonParallel measurement of B12recommendedHigh doses may reduce zinc absorption"
+      ],
+      [
+        "Folic acid,vitamin B9",
+        "Muscle weaknessOral changes (e.g., glossitis, ulcerations)Macrocytic anemia",
+        "Folate 1‐5 mg PO per day",
+        "High doses may reduce zinc absorption"
+      ],
+      [
+        "Cobalamin,vitamin B12",
+        "Oral changes (e.g., glossitis)Muscle weaknessNeurologic (e.g., peripheral neuropathy, gait disturbance, cognitive impairment)HyperpigmentationMacrocytic/pernicious anemia",
+        "Vitamin B121,000 µg i.m. monthly or 1,000‐2,000 µg PO per day",
+        "Patients with low gastric acid secretion or after ileal secretion are at high risk for deficiency, and high doses may be required"
+      ],
+      [
+        "Ascorbic acid,vitamin C",
+        "Perifollicular petechiae, keratosis, ecchymosisImpaired wound healingOral changes: gingivitis, glossitisanemia",
+        "Vitamin C 500‐1,000 mg PO per day",
+        "Requirements are increased in critical illness"
+      ],
+      [
+        "Trace elements",
+        "Zinc",
+        "Rash, alopeciaPoor wound healingMyopathyAltered smell and tastePossible contribution to HE",
+        "30‐50 mg elemental zinc PO per day(258)",
+        "Replacing zinc may result in normalization of vitamin A metabolism(257)High doses may result in copper deficiencyBlood levels are only a crude index of whole‐body zinc status"
+      ],
+      [
+        "Selenium",
+        "CardiomyopathyMyositis and crampsSkin changes: alopecia, dry skin, erythema",
+        "50‐100 µg/day PO",
+        "Deficiency is relatively rare"
+      ],
+      [
+        "Copper",
+        "Bone marrow suppression: microcytic anemia, leukopenia, pancytopeniaHypercholesterolemiaDelayed wound healingNeurologic changes: neuropathies, ataxia",
+        "2‐4 mg i.v. for 6 days, followed by 3‐8 mg per day PO until level normalization or symptom resolution(261)",
+        "Blood copper level is a screening test for deficiencySerum ceruloplasmin concentrationUsed to guide repletion strategies: confounded by inflammation(261)Bariatric bypass surgery a risk factor for deficiency"
+      ]
+    ],
+    "row_count": 13,
+    "column_count": 5
+  }
+]

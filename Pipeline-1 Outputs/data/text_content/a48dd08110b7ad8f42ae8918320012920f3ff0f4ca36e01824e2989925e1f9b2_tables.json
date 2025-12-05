@@ -1,0 +1,958 @@
+[
+  {
+    "table_index": 1,
+    "headers": [],
+    "rows": [
+      [
+        "End Note"
+      ],
+      [
+        "Procite"
+      ],
+      [
+        "Reference Manager"
+      ]
+    ],
+    "row_count": 3,
+    "column_count": 1
+  },
+  {
+    "table_index": 2,
+    "headers": [
+      "Mechanistic classification",
+      "Direct hepatotoxicity",
+      "Idiosyncratic hepatotoxicity",
+      "Indirect hepatotoxicity"
+    ],
+    "rows": [
+      [
+        "Incidence",
+        "Common",
+        "Rare",
+        "Intermediate"
+      ],
+      [
+        "Dose relatedness",
+        "Yes",
+        "No",
+        "No"
+      ],
+      [
+        "Predictable",
+        "Yes",
+        "No",
+        "Partially"
+      ],
+      [
+        "Reproduced in animal models",
+        "Yes",
+        "No",
+        "Not usually"
+      ],
+      [
+        "Latency",
+        "Rapid (days)",
+        "Variable (days to years)",
+        "Delayed (months)"
+      ],
+      [
+        "Phenotypes of injury",
+        "Serum AST, ALT, or ALP elevations, hepatic necrosis, acute fatty liver, nodular regeneration",
+        "Mixed or cholestatic hepatitis, bland cholestasis, chronic hepatitis",
+        "Immune‐mediated hepatitis, fatty liver, chronic hepatitis"
+      ],
+      [
+        "Examples",
+        "Acetaminophen, niacin, intravenous methotrexate",
+        "Amoxicillin‐clavulanate, cephalosporins, isoniazid, nitrofurantoin",
+        "Immune checkpoint inhibitors, anti‐CD20 monoclonal Ab, protein kinase inhibitors"
+      ],
+      [
+        "Touted mechanism of injury",
+        "Intrinsic hepatotoxicity that is dose‐dependent",
+        "Idiosyncratic host metabolic or immune reaction",
+        "Indirect effect on liver or host immunity"
+      ]
+    ],
+    "row_count": 8,
+    "column_count": 4
+  },
+  {
+    "table_index": 3,
+    "headers": [
+      "Country",
+      "United States/DILIN, n = 899",
+      "Spain, n = 843",
+      "Iceland, n = 96",
+      "Latin America, n = 311",
+      "China, n = 25, 927",
+      "India, n = 313/1288"
+    ],
+    "rows": [
+      [
+        "Study design",
+        "Prospective registry30",
+        "Prospective registry29",
+        "Prospective, population‐based9",
+        "Prospective registry18",
+        "Retrospective case series22",
+        "Prospective case series21,31"
+      ],
+      [
+        "Publication year",
+        "2015",
+        "2021",
+        "2013",
+        "2019",
+        "2019",
+        "2010/2021"
+      ],
+      [
+        "Age distribution, years",
+        "49 ± 17",
+        "54 (11–91)",
+        "55¥(16–91)",
+        "50 (11–91)",
+        "43% (40–59 years)",
+        "39 (12–84)/43 (1–86)"
+      ],
+      [
+        "% Female",
+        "59",
+        "48",
+        "56",
+        "61",
+        "49",
+        "42/48.6"
+      ],
+      [
+        "% Liver‐ and non‐liver‐related fatality",
+        "Liver‐related: 3.0; non‐liver‐related: 3.2",
+        "Liver‐related: 2.1; non‐liver‐related: 1.7",
+        "Overall fatality: 1",
+        "Overall fatality: 4.9",
+        "Liver‐related: 0.28a; non‐liver‐related: 0.11a",
+        "Overall fatality: 17.3/12.3"
+      ],
+      [
+        "% Liver transplant",
+        "3.7",
+        "1.5",
+        "0",
+        "0",
+        "0.01",
+        "0"
+      ],
+      [
+        "Top 3 implicated drug classes",
+        "Antimicrobials, HDS, cardiovascular agents",
+        "Anti‐infectives, CNS drugs, musculoskeletal drugs (including NSAID)",
+        "Antibiotics, immuno‐suppressants, psychotropic drugs",
+        "Antibiotics,bNSAIDs,bantitubercularb",
+        "TCM or HDS, antitubercular, antineoplastic or immune modulators",
+        "Antitubercular, HDS, antiepileptics"
+      ],
+      [
+        "Top 10 implicated agents",
+        "HDS, amoxicillin/clavulanate, isoniazid, nitrofurantoin, trimethoprim‐sulfamethoxazole, minocycline, cefazolin, azithromycin, ciprofloxacin, levofloxacin",
+        "Amoxicillin/clavulanate, antitubercular, HDS, ibuprofen, anabolic androgenic steroids, flutamide, isoniazid, atorvastatin, diclofenac, ticlopidine",
+        "Amoxicillin/clavulanate, diclofenac, infliximab, nitrofurantoin, isotretinoin, atorvastatin, doxycycline, azathioprine",
+        "Amoxicillin/clavulanate, nitrofurantoin, diclofenac, RIP + INH + PIZ, nimesulide, ibuprofen, cyproterone, carbamazepine, methyldopa, atorvastatin",
+        "Natural medicine, rifampicin, TCM, isoniazid, pyrazinamide, He Shou Wu, methimazole, propylthiouracil, atorvastatin, methotrexate",
+        "Antitubercular, phenytoin, dapsone, olanzapine, carbamazepine, cotrimoxazole, NSAIDs, atorvastatin, leflunomide, ayurvedic"
+      ]
+    ],
+    "row_count": 8,
+    "column_count": 7
+  },
+  {
+    "table_index": 4,
+    "headers": [
+      "Drug",
+      "HLA group",
+      "Genetic variants",
+      "OR",
+      "MAF in controlsa"
+    ],
+    "rows": [
+      [
+        "Multiple drugs58,61",
+        "Non‐HLA",
+        "PTPN22 (rs2476601)",
+        "1.4",
+        "0.08"
+      ],
+      [
+        "rs72631567 (Chromosome 2)",
+        "2.0",
+        "0.03"
+      ],
+      [
+        "Mixed/cholestatic",
+        "HLA‐I",
+        "A*33:01/rs114577328g",
+        "5.0",
+        "0.01"
+      ],
+      [
+        "",
+        "A*33:01/B*14:02/C*08:02.",
+        "5.6",
+        "0.009"
+      ],
+      [
+        "Hepatocellular",
+        "Non‐HLA",
+        "rs28521457 (chromosome 4/LRBA)",
+        "2.1",
+        "0.04"
+      ],
+      [
+        "Amoxicillin‐clavulanate62,63",
+        "HLA‐I",
+        "A*02:01 (rs2523822)",
+        "2.3",
+        "0.28/0.28b"
+      ],
+      [
+        "",
+        "A*30:02",
+        "6.7 (HC)",
+        "0.029"
+      ],
+      [
+        "",
+        "B*18:01",
+        "2.9 (HC)",
+        "0.096"
+      ],
+      [
+        "HLA‐II",
+        "DRB1*15:01/DQB1*06:02 (rs3135388)",
+        "2.8",
+        "0.14/0.05b"
+      ],
+      [
+        "",
+        "rs9274407",
+        "3.1",
+        "0.15/0.081b"
+      ],
+      [
+        "",
+        "rs9267992",
+        "3.1",
+        "0.14/0.063b"
+      ],
+      [
+        "Non‐HLA",
+        "PTPN22 (rs2476601)",
+        "1.6",
+        "0.08"
+      ],
+      [
+        "Flucloxacillin64,65",
+        "HLA‐I",
+        "B*57:01",
+        "36.6",
+        "0.04"
+      ],
+      [
+        "",
+        "B*57:03",
+        "79.2",
+        "0.0003"
+      ],
+      [
+        "Minocycline66",
+        "HLA‐I",
+        "HLA‐B*35:02",
+        "29.6",
+        "0.006"
+      ],
+      [
+        "Trimethoprim‐sulfamethoxazole67",
+        "HLA‐I",
+        "A*34:02 (EUR)",
+        "47.5",
+        "0.001"
+      ],
+      [
+        "",
+        "B*14:01 (EUR)",
+        "9.2",
+        "0.009"
+      ],
+      [
+        "",
+        "B*27:02 (EUR)",
+        "13.5",
+        "0.002"
+      ],
+      [
+        "",
+        "HLA‐B*35:01 (AA)",
+        "2.8d",
+        "0.087"
+      ],
+      [
+        "Isoniazid‐containing antitubercular treatments61,68",
+        "Non‐HLA",
+        "rs72631567 (Chromosome 2)",
+        "5.8",
+        "0.03"
+      ],
+      [
+        "",
+        "rs117491755 (ASTN2: EUR)",
+        "4.4",
+        "0.037"
+      ],
+      [
+        "",
+        "NAT2*6/*6, *6/*7, or *7/*7 (ultraslow) (EUR/IND)",
+        "2.0/1.8",
+        "0.10/0.19"
+      ],
+      [
+        "HLA‐I",
+        "C*12:02 (EUR)",
+        "6.4",
+        "0.006"
+      ],
+      [
+        "",
+        "B*52:01 (EUR)",
+        "6.4",
+        "0.007"
+      ],
+      [
+        "",
+        "B*52:01‐C*12:02 (EUR/IND)",
+        "6.7/1.8",
+        "0.01/0.07"
+      ],
+      [
+        "HLA‐II",
+        "DQA1*03:01(IND)",
+        "2.6",
+        "0.06"
+      ],
+      [
+        "Terbinafine69",
+        "HLA‐I",
+        "A*33:01/rs114577328g",
+        "40.5",
+        "0.01–0.03"
+      ],
+      [
+        "",
+        "A*33:01/B*14:02/C*08:02",
+        "49.2",
+        "0.009"
+      ],
+      [
+        "Valproate70",
+        "Non‐HLA",
+        "Mitochondrial DNA polymerase γ (POLG)",
+        "23.6e",
+        ""
+      ],
+      [
+        "",
+        "p.Q1236H",
+        "",
+        "≤ 0.086"
+      ],
+      [
+        "",
+        "p.E1143G",
+        "",
+        "≤ 0.04"
+      ],
+      [
+        "Allopurinol71",
+        "HLA‐I",
+        "HLA‐A*34:02 (AA)",
+        "8.0/4.5f",
+        "0.033/0.057c"
+      ],
+      [
+        "",
+        "HLA‐B*53:01 (AA)",
+        "4.1/2.5f",
+        "0.120/0.184c"
+      ],
+      [
+        "",
+        "HLA‐B*58:01 (AA)",
+        "5.6/13.3f",
+        "0.046/0.020c"
+      ],
+      [
+        "Green tea72",
+        "HLA‐I",
+        "B*35:01",
+        "6.8",
+        "0.06"
+      ],
+      [
+        "",
+        "C*04:01",
+        "3.7",
+        "0.12"
+      ],
+      [
+        "Polygonum multiflorum73",
+        "HLA‐I",
+        "B*35:01",
+        "30.4",
+        "0.027"
+      ]
+    ],
+    "row_count": 37,
+    "column_count": 5
+  },
+  {
+    "table_index": 5,
+    "headers": [
+      "Clinical phenotype",
+      "Histological phenotype"
+    ],
+    "rows": [
+      [
+        "Hepatocellular",
+        "Acute hepatitis",
+        "Spotty necrosis, apoptosis, lobular inflammation, with or without portal inflammation and interface hepatitis",
+        "Phenytoin, dapsone, para‐aminosalicylate, isoniazid, sulfonamides"
+      ],
+      [
+        "Panlobular hepatitis",
+        "Spotty or focal necrosis, acidophil bodies scattered throughout the lobule, hepatocytes with degenerative changes and lytic necrosis, lymphocytic infiltrates",
+        "Immune checkpoint inhibitors (e.g., ipilimumab, nivolumab)"
+      ],
+      [
+        "Zonal or nonzonal (confluent) necrosis",
+        "Coagulative necrosis in zone 3 or panlobular involvement with either submassive or massive necrosis",
+        "Acetaminophen, halothane, CCL4, cocaine, ferrous sulfate"
+      ],
+      [
+        "Granulomatous hepatitis",
+        "Noncaseating granulomas accompanied by significant inflammation; fibrin‐ring granulomas",
+        "Sulfonamides, sulfonylurea, phenytoin, carbamazepine, quinidine, hydralazine, interferon‐α, etanercept, ipilimumab"
+      ],
+      [
+        "Chronic hepatitis",
+        "Similar to chronic viral hepatitis or autoimmune hepatitis with portal inflammation, interface hepatitis, fibrosis, or cirrhosis",
+        "Atorvastatin, HDS, methotrexate, vinyl chloride"
+      ],
+      [
+        "Drug‐induced AIH",
+        "More prominent portal neutrophils than plasma cells along with cholestasis concurrently with the typical AIH histology of portal inflammation, interface hepatitis, rosette formation",
+        "Nitrofurantoin, diclofenac, α‐methyldopa, hydralazine, minocycline, HMG‐CoA reductase inhibitors, TNF inhibitors"
+      ],
+      [
+        "Cholestatic",
+        "Acute cholestasis/bland cholestasis",
+        "Bile accumulation in hepatocytes and/or bile canaliculi with little or no inflammation or hepatocyte injury",
+        "Anabolic and oral contraceptives"
+      ],
+      [
+        "Chronic cholestasis",
+        "Bile accumulation, possibly bile duct loss/ductopenia, cholate stasis",
+        "Amoxicillin‐clavulanate, flucloxacillin, enalapril, antifungal terbinafine"
+      ],
+      [
+        "Acute cholestatic hepatitisMixed hepatocellular/cholestatic",
+        "Bile accumulation in hepatocytes and/or bile canaliculi with more prominent inflammation and hepatocyte injury",
+        "Antibiotics (erythromycin, amoxicillin‐clavulanate), ACE inhibitors, phenothiazine neuroleptics"
+      ],
+      [
+        "Sclerosing cholangitis",
+        "Bile duct injury with intraepithelial lymphocytic infiltration and periductal fibrosis",
+        "Nivolumab"
+      ],
+      [
+        "Fatty liver (drug‐induced steatosis, drug‐induced steatohepatitis)",
+        "Pure microvesicular",
+        "Numerous small droplets, foamy cytoplasm, hepatocyte nuclei retained in the center",
+        "Acetylsalicylic acid (Reye syndrome), valproic acid, glucocorticoids, aspirin, NSAIDS, tetracycline, NRTI, cocaine"
+      ],
+      [
+        "Macrovesicular",
+        "Medium‐sized or large‐sized fat droplets with hepatocyte nuclei displaced to the periphery",
+        "Glucocorticoids, methotrexate, NSAIDs, metoprolol, chlorinated hydrocarbons (e.g., CCL4and chloroform), 5‐fluorouracil, cisplatin, irinotecan, tamoxifen"
+      ],
+      [
+        "Mixed macrovesicular and microvesicular",
+        "Combination of small and large droplet",
+        "Amiodarone, valproic acid, methotrexate"
+      ],
+      [
+        "Steatohepatitis",
+        "Presence of ballooning, inflammation, Mallory‐Denk hyalines, and fibrosis, in a background of steatosis",
+        "Amiodarone, methotrexate, 5‐floururacil, cisplatin, irinotecan, tamoxifen"
+      ],
+      [
+        "Vascular",
+        "Sinusoidal obstruction syndrome",
+        "Sinusoidal congestion with hepatocyte necrosis, red blood cells trapped in Disse spaces, perisinusoidal fibrosis, fibrous obliteration of terminal hepatic venules; sloughing of endothelial cells",
+        "Busulfan, cyclophosphamide, plants containing pyrrolizidine alkaloids"
+      ],
+      [
+        "",
+        "NRH and OPV",
+        "Small (1 mm) hyperplastic nodules bordered by atrophic hepatocyte plates (NRH); may require a reticulin stain. OPV will show either dilated and herniated portal veins or sclerotic lumina",
+        "Arsenic, copper sulfate, azathioprine, methotrexate, 6‐mercaptopurine, oxaliplatin, didanosine, stavudine"
+      ],
+      [
+        "",
+        "Peliosis hepatis",
+        "Blood‐filled sinusoidal spaces",
+        "Androgens and oral contraceptives"
+      ],
+      [
+        "Chronic DILI",
+        "Fibrosis/cirrhosis",
+        "Progression of fibrosis similar to chronic viral hepatitis",
+        "Methotrexate, valproic acid, HDS, oral contraceptives, isoniazid, trimethoprim‐sulfamethoxazole, nitrofurantoin, methotrexate, diclofenac, fenofibrate, amoxicillin‐clavulanate"
+      ],
+      [
+        "Miscellaneous",
+        "Ground‐glass cytoplasm (induction hepatocytes), Lafora body‐like inclusions",
+        "Homogeneous light pink cytoplasmic inclusions with displacement of the nuclei",
+        "Barbiturates, phenytoin, polypharmacy; immunosuppressive agents, antibiotics"
+      ],
+      [
+        "Phospholipidosis",
+        "Enlarged, granular, or foamy cytoplasm; may require electron microscopy to check for lamellar bodies",
+        "Antibiotics, antipsychotic, antidepressants, antianginal, antimalarial, antiarrhythmic, cholesterol‐lowering agents; amiodarone"
+      ],
+      [
+        "Pigment deposition",
+        "Ceroid‐containing macrophages; lipofuscin",
+        "6‐mercaptopurine, phenothiazine, aminopyrine, phenacetin,"
+      ],
+      [
+        "Neoplastic",
+        "Hepatocellular adenoma",
+        "All subtypes possible; most common are inflammatory and HNF‐1‐alpha mutated",
+        "Oral contraceptives, anabolic and male hormone steroids, danazol"
+      ]
+    ],
+    "row_count": 22,
+    "column_count": 2
+  },
+  {
+    "table_index": 6,
+    "headers": [
+      "Data field",
+      "Updated RUCAM108score",
+      "CDS109score",
+      "RECAM113score"
+    ],
+    "rows": [
+      [
+        "1. Chronology (latency)",
+        "",
+        "",
+        ""
+      ],
+      [
+        "1a. Drug start to liver injury onseta",
+        "+1 to +2",
+        "+1 to +3",
+        "−6 to +4"
+      ],
+      [
+        "1b. Drug discontinuation to liver injury onseta",
+        "+1",
+        "−3 to +3",
+        "−6 to 0"
+      ],
+      [
+        "2. Dechallengeb",
+        "−2 to +3 hepatocellular; 0 to +2 cholestatic/mixed",
+        "0 to +3",
+        "−6 to +4"
+      ],
+      [
+        "3. Competing causes of liver injury",
+        "−3 to +2",
+        "−3 to +3",
+        "−6 to 0"
+      ],
+      [
+        "4. Rechallenge",
+        "0 to +3",
+        "+3",
+        "0 or + 6"
+      ],
+      [
+        "5. Track record of drug/HDS hepatotoxicity",
+        "0 to +2",
+        "−3 to +2",
+        "0 to +3"
+      ],
+      [
+        "Risk factors",
+        "0 to +1",
+        "N/A",
+        "N/Ac"
+      ],
+      [
+        "6. Concomitant medication",
+        "−3 to 0",
+        "N/A",
+        "N/Ad"
+      ],
+      [
+        "7. Extrahepatic manifestations",
+        "–",
+        "0 to +3",
+        "–"
+      ],
+      [
+        "Range of scores",
+        "−9 to +14",
+        "−6 to 17",
+        "−6 to +20"
+      ],
+      [
+        "DILI likelihood categories",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Definite",
+        "≥ 9",
+        "> 17",
+        "Highly likely/high probable ≥ 8"
+      ],
+      [
+        "Probable",
+        "6–8",
+        "14–17",
+        "4–7"
+      ],
+      [
+        "Possible",
+        "3–5",
+        "10–13",
+        "−3 to +3"
+      ],
+      [
+        "Unlikely",
+        "1–2",
+        "6–9",
+        "Unlikely/excluded, < −4"
+      ],
+      [
+        "Excluded",
+        "≤ 0",
+        "≤ 6"
+      ]
+    ],
+    "row_count": 17,
+    "column_count": 4
+  },
+  {
+    "table_index": 7,
+    "headers": [
+      "Causality score",
+      "Likelihood, %",
+      "Description"
+    ],
+    "rows": [
+      [
+        "1. Definite beyond any reasonable doubt",
+        "> 95",
+        ""
+      ],
+      [
+        "2 Highly likely",
+        "75–95",
+        "Clear and convincing data, but not definite"
+      ],
+      [
+        "3. Probable",
+        "50–74",
+        "Most data support causal relationship"
+      ],
+      [
+        "4. Possible",
+        "25–49",
+        "Most data suggest no causal relationship, but possibility remains"
+      ],
+      [
+        "5. Unlikely",
+        "< 25",
+        "Causal relationship very unlikely, with alternative etiology more likely"
+      ],
+      [
+        "6. Insufficient data",
+        "Determinable",
+        "Missing key data"
+      ]
+    ],
+    "row_count": 6,
+    "column_count": 3
+  },
+  {
+    "table_index": 8,
+    "headers": [
+      "Ingredient",
+      "Chemical structure",
+      "Common uses",
+      "Hepatotoxicity phenotype",
+      "Expected outcome"
+    ],
+    "rows": [
+      [
+        "Ashwagandha,135Withania somnifera",
+        "Steroidal lactone",
+        "Neuroprotection, anti‐inflammatory",
+        "Cholestatic or mixed",
+        "Recovery expected"
+      ],
+      [
+        "Green tea extract72,132",
+        "Catechin‐polyphenol",
+        "Weight loss",
+        "Hepatocellular",
+        "Most recover; liver failure, transplant, death reported"
+      ],
+      [
+        "Garcinia cambogia136",
+        "(−)‐hydroxycitric acid",
+        "Weight loss",
+        "Hepatocellular",
+        ""
+      ],
+      [
+        "Polygonum multiflorum73,137",
+        "Stilbenes and anthraquinones",
+        "Anti‐aging, intestinal function",
+        "Hepatocellular or mixed",
+        "Most recover; fatalities reported"
+      ],
+      [
+        "Chinese skullcap,Scutellaria baicalensis;Scutellaria lateriflora",
+        "Flavonoid",
+        "Anxiety, insomnia, neurological disorders",
+        "Hepatocellular",
+        "Recovery typical"
+      ],
+      [
+        "Kratom,138Mitragyna speciosa",
+        "Tetracyclic indole and pentacyclic oxindole alkaloids",
+        "Anxiety, opiate effect, or withdrawal",
+        "Mixed",
+        "Recovery typical"
+      ],
+      [
+        "Anabolic steroids139",
+        "Steroid backbone",
+        "Bodybuilding, performance enhancement",
+        "Cholestasis",
+        "Prolonged jaundice, full recovery"
+      ],
+      [
+        "Turmeric/curcumin140–142",
+        "Polyphenol",
+        "Anti‐inflammatory, weight loss, anticancer, cardiovascular disease",
+        "Hepatocellular",
+        "Recovery expected; one case of AIH reported"
+      ]
+    ],
+    "row_count": 8,
+    "column_count": 5
+  },
+  {
+    "table_index": 9,
+    "headers": [
+      "Model/parameter",
+      "Model components",
+      "Proposed thresholds for liver transplant/death",
+      "Comments"
+    ],
+    "rows": [
+      [
+        "MELD score143",
+        "Bilirubin, INR, and creatinine",
+        "AUROC = 0.83",
+        "Developed for cirrhosis patients"
+      ],
+      [
+        "Hy's law145",
+        "ALT > 3× ULN and bilirubin > 2.5 mg/dl",
+        "PPV = 8%–20%",
+        "ALP should be < 2× ULN; not applicable to mixed/cholestatic cases"
+      ],
+      [
+        "Modified Hy's law144",
+        "R‐value > 5 and bilirubin > 2.5 mg/dl",
+        "PPV = 12%; AUROC = 0.73",
+        ""
+      ],
+      [
+        "Charlson Comorbidity Index and labs146a",
+        "MELD score, albumin, Charlson > 2",
+        "AUROC = 0.89",
+        "Discovery and validation cohort used for 6‐month mortality"
+      ]
+    ],
+    "row_count": 4,
+    "column_count": 4
+  },
+  {
+    "table_index": 10,
+    "headers": [
+      "Intervention",
+      "Target population",
+      "Dosing",
+      "Comments"
+    ],
+    "rows": [
+      [
+        "General intervention",
+        "",
+        "",
+        ""
+      ],
+      [
+        "APAP analgesics",
+        "Mild to moderate pain",
+        "2 g maximum per day in divided doses",
+        "Consider short acting opiates if moderate to severe pain"
+      ],
+      [
+        "Antiemetics",
+        "Moderate nausea/vomiting",
+        "Per package insert",
+        ""
+      ],
+      [
+        "Ursodeoxycholic acid",
+        "Severe pruritus",
+        "10–15 mg/kg in divided doses",
+        "Prospective efficacy data lacking; likely safe"
+      ],
+      [
+        "Hospitalization",
+        "Dehydrated, coagulopathic, encephalopathic patients",
+        "NA",
+        "Transfer to transplant center if ALF"
+      ],
+      [
+        "N‐acetylcysteine",
+        "Hospitalized with ALF",
+        "See  for dosing; 72‐h duration in studies",
+        "Requires cardiac monitoring (i.v.); greatest benefit in early‐stage ALF"
+      ],
+      [
+        "Corticosteroids",
+        "Severe hypersensitivity reactions; DRESS; checkpoint inhibitor with ALT > 5× ULN; histology showing AIH‐like features",
+        "1 mg/kg per day of methylprednisolone equivalents for ICI cases; 40–60 mg of prednisone for others",
+        "Optimal dose and duration not established but frequently can be tapered in 1–3 months"
+      ],
+      [
+        "Drug‐specific interventions",
+        "",
+        "",
+        ""
+      ],
+      [
+        "l‐carnitine",
+        "Valproate with hyperammonemia (hospitalized children)",
+        "100 mg/kg load followed by 50 mg/kg every 8 h",
+        "Short‐term use"
+      ],
+      [
+        "Cholestyramine",
+        "Leflunomide cases with persistent cholestasis",
+        "1 packet every 6–8 h for 14 days",
+        "Taper once cholestasis/pruritus resolves; give separately from other medications"
+      ],
+      [
+        "Penicillin (i.v.)/silymarin and dialysis",
+        "Amanita mushroom toxicity",
+        "Hospitalized patients or ALF",
+        "Short‐term use to remove enterohepatic toxin"
+      ],
+      [
+        "Defibrotide (i.v.)",
+        "Hematopoietic cell transplant recipients with severe sinusoidal obstruction syndrome",
+        "6.25 mg/kg every 6 h for > 21 days up to a maximum of 60 days",
+        "Shown to improve survival in children and adults compared with historical controls"
+      ]
+    ],
+    "row_count": 12,
+    "column_count": 4
+  },
+  {
+    "table_index": 11,
+    "headers": [
+      "Recommendation",
+      "Intentional overdose",
+      "Unintentional overdose"
+    ],
+    "rows": [
+      [
+        "Diagnostic approach",
+        "",
+        ""
+      ],
+      [
+        "Time of ingestion",
+        "Single time point",
+        "Several days of repeated use"
+      ],
+      [
+        "Dose",
+        "Supratherapeutic (typically > 4 g over 24 h)",
+        "Repeated therapeutic (up to 4 g per day) or supratherapeutic dosing"
+      ],
+      [
+        "Presence of coingestants",
+        "Diphenhydramine and other sedatives can lead to central nervous system depression",
+        "Opioids often used in combination"
+      ],
+      [
+        "Liver injury parameters",
+        "From time of ingestion: 24–72 h: rapid rise in ALT to > 1000 IU/L associated with variable rise in INR; total bilirubin is typically < 10 mg/dl. 72–96 h: Biochemical elevations peak, and can progress to acute liver failure or rapid and full recovery",
+        "Presentation is often delayed, but still see rapid rise in ALT to > 1000 IU/L, associated with rise in INR. Comorbid conditions, such as alcohol use, can affect total bilirubin levels. Eventually, liver injury can progress to acute liver failure or recovery"
+      ],
+      [
+        "Serum APAP level",
+        "Use modified Rumack‐Matthew nomogram to estimate risk of hepatotoxicity",
+        "Often undetectable at initial presentation. APAP‐protein adducts useful but assay not commercially available"
+      ],
+      [
+        "Excluding other causes of acute liver injury",
+        "Review clinical history to exclude risk factors for hepatic ischemia and perform tests for acute viral hepatitis"
+      ],
+      [
+        "Management",
+        "",
+        ""
+      ],
+      [
+        "GI decontamination",
+        "Activated charcoal (1 g/kg, max dose 50 g) if within 4 h of ingestion. Gastric lavage also used in some cases175",
+        "Usually not helpful nor recommended"
+      ],
+      [
+        "N‐acetylcysteine",
+        "Oral dosing: 140 mg/kg load followed by 70 mg/kg every 4 h; antiemetics as needed. Intravenous dosing176: preferred if intolerant of oral intake/ileus or pregnant; telemetry monitoring recommended 150 mg/kg load over 15–60 min, followed by 50 mg/kg (12.5 mg/kg/h) over the next 4 h then 100 mg/kg (6.25 mg/kg/h) over 16 h thereafter (total 300 mg/kg over 24 h). For those with evidence of liver injury, treatment is extended at 6.25 mg/kg/h until ALT is decreasing and INR is < 2"
+      ],
+      [
+        "Evidence of acute liver failure (coagulopathy and encephalopathy)",
+        "Close monitoring in intensive care unit and consider prompt referral to a liver transplant center"
+      ]
+    ],
+    "row_count": 11,
+    "column_count": 3
+  }
+]

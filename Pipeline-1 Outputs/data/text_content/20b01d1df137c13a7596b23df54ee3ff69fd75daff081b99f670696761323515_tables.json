@@ -1,0 +1,473 @@
+[
+  {
+    "table_index": 1,
+    "headers": [],
+    "rows": [
+      [
+        "End Note"
+      ],
+      [
+        "Procite"
+      ],
+      [
+        "Reference Manager"
+      ]
+    ],
+    "row_count": 3,
+    "column_count": 1
+  },
+  {
+    "table_index": 2,
+    "headers": [],
+    "rows": [
+      [
+        "Because this guidance represents an update covering nearly a decade, numerous changes are made. Instead of enumerating the individual changes, the following list represents noticeable revisions:Table  includes specific directions on the diagnostic evaluation of ascites by clinical setting and clinical course.Tables  and  highlight specific definitions and characteristic of ascites.Figure3provides updated information on management of ascites, including the use of albumin in ascites.More specific definitions of hyponatremia and management are included.Updated guidance on LT for patients with HH (Table ) and for potential candidates of simultaneous liver‐kidney transplantationTable  has expanded and updated description of antibiotics for infections in patients with cirrhosis.The AKI section is substantially expanded and updated (Fig.4; Tables ).The pediatric section is new."
+      ]
+    ],
+    "row_count": 1,
+    "column_count": 1
+  },
+  {
+    "table_index": 3,
+    "headers": [],
+    "rows": [
+      [
+        "Medical history: Risk factors for chronic liver disease (alcohol, metabolic, viral hepatitis, family history of liver disease), heart disease, hematologic disorder (thrombosis, excessive bleeding), thyroid disease, autoimmune disorder, malignancy, pancreatitis, travel history, and risk factors for tuberculous"
+      ],
+      [
+        "Physical examination: Shifting abdominal dullness, abdominal masses or tenderness or guarding, umbilical/inguinal hernias, evidence of HH (decreased breath sounds or thoracic dullness to percussion), stigmata of chronic liver disease (splenomegaly, spider angioma, palmar erythema, or abdominal wall collaterals), signs of heart failure or constrictive pericarditis (jugular venous distension, pulmonary congestion, pericardial rub), signs of malignancy or infection (lymphadenopathy), signs of malnutrition (sarcopenia), signs of thyroid disease"
+      ],
+      [
+        "Abdominal ultrasonography with Doppler"
+      ],
+      [
+        "Complete blood count"
+      ],
+      [
+        "Liver function tests (INR, serum total bilirubin, serum albumin)"
+      ],
+      [
+        "Renal function tests (serum creatinine, BUN)"
+      ],
+      [
+        "Serum and urine electrolytes (Na, K) and urine analysis with spot urine protein"
+      ],
+      [
+        "Ascitic fluid analysis (see Table  and Fig.2): SAAG, total protein concentration, polymorphonuclear leukocyte count, and culture"
+      ]
+    ],
+    "row_count": 8,
+    "column_count": 1
+  },
+  {
+    "table_index": 4,
+    "headers": [
+      "What to Test",
+      "First Episode of Ascites",
+      "Recurrent Ascites"
+    ],
+    "rows": [
+      [
+        "SAAG",
+        "Yes",
+        "Yes",
+        "No",
+        "No"
+      ],
+      [
+        "PMN count",
+        "Yes",
+        "Yes",
+        "Yes",
+        "Yes"
+      ],
+      [
+        "Culture",
+        "Yes",
+        "No",
+        "Yes",
+        "No"
+      ],
+      [
+        "Protein concentration",
+        "Yes",
+        "Yes",
+        "Only when a primary prophylaxis of SBP is clinically indicated or a secondary bacterial peritonitis is suspected",
+        "Only when a primary prophylaxis of SBP is clinically indicated"
+      ],
+      [
+        "Glucose concentration",
+        "Only when a secondary bacterial peritonitis is suspected",
+        "No",
+        "Only when a secondary bacterial peritonitis is suspected",
+        "No"
+      ],
+      [
+        "Lactate dehydrogenase",
+        "Only when a secondary bacterial peritonitis is suspected",
+        "No",
+        "Only when a secondary bacterial peritonitis is suspected",
+        "No"
+      ],
+      [
+        "Cytology",
+        "Only when causes of ascites other than cirrhosis are suspected",
+        "Only when causes of ascites other than cirrhosis are suspected",
+        "No",
+        "No"
+      ],
+      [
+        "Amylase concentration",
+        "Only when a pancreatic origin of ascites is suspected",
+        "Only when a pancreatic origin of ascites is suspected",
+        "No",
+        "No"
+      ]
+    ],
+    "row_count": 8,
+    "column_count": 3
+  },
+  {
+    "table_index": 5,
+    "headers": [
+      "SAAG ≥ 1.1 g/dL Reflects Portal Hypertension",
+      "SAAG < 1.1 g/dL Excludes Portal Hypertension"
+    ],
+    "rows": [
+      [
+        "Ascites in cirrhosis",
+        "Peritoneal carcinomatosis"
+      ],
+      [
+        "Ascites related to massive liver metastasis",
+        "Tuberculosis peritonitis"
+      ],
+      [
+        "Ascites related to liver involvement in right heart failure",
+        "Other clinical conditions"
+      ]
+    ],
+    "row_count": 3,
+    "column_count": 2
+  },
+  {
+    "table_index": 6,
+    "headers": [
+      "According to Amount of Fluid Accumulation",
+      "According to the Response to Treatment"
+    ],
+    "rows": [
+      [
+        "Grade 1. Mild ascites",
+        "Only detected by ultrasound",
+        "Responsive ascites",
+        "Ascites that can be fully mobilized or limited to grade 1 with diuretic therapy associated or not to moderate dietary sodium restriction"
+      ],
+      [
+        "Grade 2. Moderate ascites",
+        "Moderate symmetric distension of abdomen",
+        "Recurrent ascites",
+        "Ascites that recurs on at least 3 occasions within a 12‐month period despite dietary sodium restriction and adequate diuretic dosage"
+      ],
+      [
+        "Grade 3. Large or gross ascites",
+        "Marked distension of the abdomen",
+        "Refractory Ascites",
+        "Ascites that cannot be mobilized or the early recurrence of which (i.e., after LVP) cannot be satisfactorily prevented by medical therapy"
+      ]
+    ],
+    "row_count": 3,
+    "column_count": 2
+  },
+  {
+    "table_index": 7,
+    "headers": [],
+    "rows": [
+      [
+        "AKI (rise of at least 0.3 mg/dL in 48 hours): mostly related to loop diuretics, as these patients are highly vulnerable to rapid reduction of extracellular fluid volume due to their hemodynamic status"
+      ],
+      [
+        "Hyponatremia (<135 mmol/min): more common with loop diuretics, as they inhibit Na‐K‐Cl transporter and, therefore, solute‐free water generation"
+      ],
+      [
+        "Hypokalemia (serum potassium <3.5 mmol/L): more common with loop diuretics"
+      ],
+      [
+        "Hyperkalemia (serum potassium >5.5 mmol/L): more common with aldosterone antagonists, especially if concomitant impaired renal perfusion; also with use of angiotensin‐converting enzyme inhibitors"
+      ],
+      [
+        "Hepatic encephalopathy:more common with other diuretic‐induced side effects (i.e., hyponatremia, reduction of extracellular volume)"
+      ],
+      [
+        "Gynecomastia:often painful, more common with aldosterone antagonist; more common with spironolactone than with eplerenone or amiloride*"
+      ],
+      [
+        "Muscle cramps:can lead to impairment of quality of life and mobility"
+      ]
+    ],
+    "row_count": 7,
+    "column_count": 1
+  },
+  {
+    "table_index": 8,
+    "headers": [],
+    "rows": [
+      [
+        "Diuretic‐resistant ascitesAscites that cannot be mobilizedEarly recurrence of which cannot be preventedBecause of the lack of response to dietary sodium restriction and maximal doses of diuretics"
+      ],
+      [
+        "Diuretic‐intractable ascitesAscites that cannot be mobilizedEarly recurrence that cannot be preventedBecause of the development of diuretic‐induced complications* that precludes the use of effective doses of diuretics"
+      ],
+      [
+        "Fails sodium restriction88 mmol or 2,000 mg/day"
+      ],
+      [
+        "Fails maximum doses of diureticsSpironolactone 400 mg/day or amiloride 30 mg/dayFurosemide 160 mg/dayBoth for at least 1 week"
+      ],
+      [
+        "Lack of treatment responseMean weight loss of <0.8 Kg over 4 daysUrinary sodium less than sodium intake"
+      ],
+      [
+        "Early recurrence of ascitesReappearance of grade 2 or grade 3 ascites within 4 weeks of initial mobilization"
+      ],
+      [
+        "*Diuretic‐induced complicationsRenal impairment: increase in serum creatinine by >100% to a value >2.0 mg/dLHyponatremia with a decrease of >10 mmol/L or an absolute value of <125 mmol/LHypo‐ or hyperkalemia of <3 mmol/L or >6 mmol/LHepatic encephalopathy"
+      ]
+    ],
+    "row_count": 7,
+    "column_count": 1
+  },
+  {
+    "table_index": 9,
+    "headers": [],
+    "rows": [
+      [
+        "Adult candidates for LT with chronic, recurrent, confirmed HH could be considered on an individual basis for a MELD exception provided that infectious and malignant causes have been ruled out. Documentation submitted for case review should include the following:At least 1 thoracentesis >1 L weekly in last 4 weeks; report date and volume of each thoracentesisPleural fluid is transudative by pleural albumin‐serum albumin gradient of at least 1.1 and by cell count.No evidence of heart failure; provide objective evidence excluding heart failurePleural fluid culture negative on 2 separate occasionsPleural fluid cytology is benign on 2 separate occasionsThere is contraindication to TIPS; specify specific contraindicationDiuretic refractory"
+      ]
+    ],
+    "row_count": 1,
+    "column_count": 1
+  },
+  {
+    "table_index": 10,
+    "headers": [],
+    "rows": [
+      [
+        "Recommended antibiotics in hospitalized patients with cirrhosis and infection"
+      ],
+      [
+        "(1) Spontaneous infections (peritonitis, bacteremia, empyema)"
+      ],
+      [
+        "Community acquired",
+        "Nosocomial"
+      ],
+      [
+        "Third‐generation cephalosporin",
+        "Piperacillin/tazobactam ANDDaptomycin (if known VRE in past or evidence of GI colonization) ORMeropenem if known to harbor MDR gram‐negative organisms"
+      ],
+      [
+        "(2) Pyelonephritis(273)"
+      ],
+      [
+        "Uncomplicated pyelonephritis",
+        "Severe pyelonephritis"
+      ],
+      [
+        "Fluoroquinolone (ciprofloxacin or levofloxacin)",
+        "Third‐generation cephalosporin complications (e.g., ceftriaxone)If recent with recent antibiotic exposure:Piperacillin/tazobactam ORCarbapenem"
+      ],
+      [
+        "(3) Pneumonia(274,275)"
+      ],
+      [
+        "Community acquired",
+        "Hospital acquired (not ventilator associated)"
+      ],
+      [
+        "(1) Nonsevereβ‐lactam + macrolide OR respiratory fluoroquinolone(2) Severeβ‐lactam + macrolide or β‐lactam + fluroquinoloneVancomycin can be added if patient has prior respiratory isolation of MRSA",
+        "(1) Nonsevere (not septic, not intubated):One of the following:Piperacillin/tazobactam orCefepime orLevofloxacinVancomycin can be added if MRSA culture or screening or prior antibiotics in last 90 days(2) Severe (presence of sepsis or requiring intubation):One of the following:Piperacillin/tazobactam orCefepime orMeropenem and levofloxacinVancomycin can be added if MRSA culture or screening or prior antibiotics in last 90 daysPseudomonascoverage: if there is prior respiratory isolation ofPseudomonasor recent use of parenteral antibiotics or hospitalization"
+      ],
+      [
+        "(4) Cellulitis(276)",
+        ""
+      ],
+      [
+        "Moderate (with systemic signs of infection)",
+        "Severe (failed antibiotics, presence of sepsis)"
+      ],
+      [
+        "Penicillin or ceftriaxone or cefazolin or clindamycin",
+        "Vancomycin plus piperacillin/tazobactam"
+      ]
+    ],
+    "row_count": 13,
+    "column_count": 1
+  },
+  {
+    "table_index": 11,
+    "headers": [
+      "AKI Stage",
+      "Description"
+    ],
+    "rows": [
+      [
+        "Stage 1*",
+        "Increase of creatinine ≥0.3 mg/dL up to 2‐fold of baseline"
+      ],
+      [
+        "Stage 2",
+        "Increase in creatinine between 2‐fold and 3‐fold of baseline"
+      ],
+      [
+        "Stage 3",
+        "Increase in creatinine >3‐fold of baseline or creatinine >4 mg/dL (353.6 µmol/L) with an acute increase ≥0.3 mg/dL (26.5 µmol/L) or initiation of RRT"
+      ]
+    ],
+    "row_count": 3,
+    "column_count": 2
+  },
+  {
+    "table_index": 12,
+    "headers": [
+      "Diagnosis of HRS‐AKI*"
+    ],
+    "rows": [
+      [
+        "Cirrhosis with ascites"
+      ],
+      [
+        "Diagnosis of AKI according to International Club of Ascites‐Acute Kidney Injury†criteria"
+      ],
+      [
+        "No response after 2 consecutive days of diuretic withdrawal and plasma volume expansion with albumin infusion (1 g/kg body weight per day)"
+      ],
+      [
+        "Absence of shock"
+      ],
+      [
+        "No current or recent use of nephrotoxic drugs (NSAIDs, aminoglycosides, or iodinated contrast media)"
+      ],
+      [
+        "No signs of structural kidney injury, as indicated by proteinuria (>500 mg per day), microhematuria (>50 red blood cells per high‐power field), and/or abnormal renal ultrasonography"
+      ]
+    ],
+    "row_count": 6,
+    "column_count": 1
+  },
+  {
+    "table_index": 13,
+    "headers": [
+      "Author, Year",
+      "Patients Included",
+      "Day of Urine Collection",
+      "AUROC ATN vs. Other",
+      "Cutoff Value",
+      "Sn/Sp (%)"
+    ],
+    "rows": [
+      [
+        "Fagundes et al., 2012(18)",
+        "84",
+        "33",
+        "11",
+        "AKI diagnosis",
+        "NA",
+        "194 µg/g",
+        "91/82"
+      ],
+      [
+        "Verna et al., 2012(227)",
+        "52",
+        "20",
+        "15",
+        "AKI diagnosis",
+        "0.86",
+        "110 ng/mL",
+        "88/85"
+      ],
+      [
+        "Belcher et al., 2014(17)",
+        "76",
+        "16",
+        "39",
+        "Median 2 days after AKI diagnosis",
+        "0.78",
+        "365 ng/mL",
+        "NA"
+      ],
+      [
+        "Ariza et al., 2015(228)",
+        "39",
+        "12",
+        "15",
+        "AKI diagnosis ±1 day",
+        "0.95",
+        "294 µg/g",
+        "92/89"
+      ],
+      [
+        "Huelin et al., 2019(216)",
+        "320",
+        "93",
+        "39",
+        "AKI diagnosis and day 3*",
+        "0.87",
+        "220 µg/g",
+        "88/85"
+      ]
+    ],
+    "row_count": 5,
+    "column_count": 6
+  },
+  {
+    "table_index": 14,
+    "headers": [
+      "Eligibility Criteria for SLK"
+    ],
+    "rows": [
+      [
+        "1. AKI ≥6 consecutive weeks with one or a combination of both (weekly documentation)DialysiseGFR/CrCl ≤25 mL/min2. CKD with GFR ≤60 mL/min for >90 days with one of the following:End‐stage renal diseaseeGFR/CrCl ≤30 mL/min at the time or after registration on kidney waiting list3. Metabolic diseases4. Safety net:Any patient who is registered on the kidney waitlist between 60 and 365 days after LT and is either on chronic hemodialysis or has an eGFR <20 mL/min will qualify for increased priority"
+      ]
+    ],
+    "row_count": 1,
+    "column_count": 1
+  },
+  {
+    "table_index": 15,
+    "headers": [
+      "Key Areas of Uncertainty and for Future Research"
+    ],
+    "rows": [
+      [
+        "Multidisciplinary care for patients with cirrhosis and ascites: As ascites is the most common decompensation‐defining complication, patients with hepatic decompensation may be best served by a team of health care providers consisting of physicians, advanced practitioners, nurses, medical assistants, dieticians, social workers, and psychologists. The best practice for a multidisciplinary program needs to be defined."
+      ],
+      [
+        "Optimal use of albumin: It was pointed out that albumin is more than a protein that generates the oncotic pressure. It is used for diverse indications in patients with cirrhotic ascites. There are many issues to be defined with high‐quality studies, including the benefits of long‐term infusion in patients with ascites, including RA, optimal dosing in various settings such as LVP, SBP, and so on."
+      ],
+      [
+        "Selection of candidates and timing for TIPS in patients with RA: The MELD score was developed initially to define patients who are too ill to receive TIPS. The other end of the spectrum is not well defined, namely whether the early deployment of TIPS may improve outcomes in patients with RA"
+      ],
+      [
+        "Role of vaptans in patients with cirrhosis: Although the arginine vasopressin antagonists are approved for hyponatremia, their aquaretic property may be useful in patients with ascites, including grade 3 and RA."
+      ],
+      [
+        "Window for NSBBs: Beta‐blockers are firmly established as a standard of care for patients with portal hypertension. Whether and when NSBBs may become harmful in patients with ascites and related complications needs to be clearly defined."
+      ],
+      [
+        "Spontaneous infection by MDROs: Spontaneous infections in patients with cirrhosis are increasingly caused by MDROs. Early, accurate microbial diagnosis, perhaps using molecular diagnostic tools, guiding antimicrobial therapy may help antibiotic stewardship."
+      ],
+      [
+        "Biomarkers for renal injury and recovery: In patients with HRS and AKI, predictive biomarkers to guide vasopressor therapy may streamline management. For patients undergoing LT, biomarkers to predict renal recovery will help select candidates for simultaneous liver‐kidney transplantation and inform postoperative management."
+      ],
+      [
+        "Liver allocation after vasoconstrictor therapy: Anticipating more widespread use of vasoconstrictor therapy in the United States in the near future, mortality risk in patients who recover their renal function from HRS‐AKI needs to be accurately captured by the organ allocation system."
+      ],
+      [
+        "Pediatric patients with ascites: Given the low prevalence of cirrhosis and ascites in children, it is inevitable that large‐scale high‐quality data are difficult to generate. Nonetheless, we advocate for more support for research in children with cirrhosis and ascites."
+      ]
+    ],
+    "row_count": 9,
+    "column_count": 1
+  }
+]

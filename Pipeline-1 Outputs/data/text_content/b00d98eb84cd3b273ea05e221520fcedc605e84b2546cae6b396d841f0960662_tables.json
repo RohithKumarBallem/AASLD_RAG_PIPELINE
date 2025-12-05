@@ -1,0 +1,87 @@
+[
+  {
+    "table_index": 1,
+    "headers": [],
+    "rows": [
+      [
+        "End Note"
+      ],
+      [
+        "Procite"
+      ],
+      [
+        "Reference Manager"
+      ]
+    ],
+    "row_count": 3,
+    "column_count": 1
+  },
+  {
+    "table_index": 2,
+    "headers": [
+      "Arranged by year",
+      "Response criteria"
+    ],
+    "rows": [
+      [
+        "Rochester I78",
+        "ALP 2× ULN"
+      ],
+      [
+        "Barcelona60",
+        "Reduction in ALP 40% from baseline or normalization of ALP"
+      ],
+      [
+        "Paris I149",
+        "ALP 3× ULN; AST 2× ULN; and TB 1 mg/dL"
+      ],
+      [
+        "Rotterdam150",
+        "TB <1× ULN and albumin >1× LLN"
+      ],
+      [
+        "Toronto151",
+        "ALP 1.67× ULN"
+      ],
+      [
+        "Paris II152",
+        "ALP 1.5× ULN; AST 1.5× ULN; and TB 1 mg/dL"
+      ],
+      [
+        "Rochester II79",
+        "ALP 2× ULN"
+      ],
+      [
+        "Global77",
+        "ALP 2× ULN"
+      ]
+    ],
+    "row_count": 8,
+    "column_count": 2
+  },
+  {
+    "table_index": 3,
+    "headers": [
+      "Liver tests every 3‐6 months"
+    ],
+    "rows": [
+      [
+        "TSH annually"
+      ],
+      [
+        "Bone mineral densitometry every 2 years"
+      ],
+      [
+        "Vitamins A, D, E and prothrombin time annually if bilirubin >2.0"
+      ],
+      [
+        "Upper endoscopy every 1‐3 years if cirrhotic, Mayo risk score >4.1, or transient elastography shows a score ≥17 kPa*"
+      ],
+      [
+        "Ultrasound with or without alpha fetoprotein in patients with known or suspected cirrhosis†and men every 6 months"
+      ]
+    ],
+    "row_count": 5,
+    "column_count": 1
+  }
+]

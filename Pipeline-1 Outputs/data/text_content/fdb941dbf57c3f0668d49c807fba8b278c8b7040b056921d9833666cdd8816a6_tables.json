@@ -1,0 +1,556 @@
+[
+  {
+    "table_index": 1,
+    "headers": [],
+    "rows": [
+      [
+        "End Note"
+      ],
+      [
+        "Procite"
+      ],
+      [
+        "Reference Manager"
+      ]
+    ],
+    "row_count": 3,
+    "column_count": 1
+  },
+  {
+    "table_index": 2,
+    "headers": [],
+    "rows": [
+      [
+        "Question 1",
+        "In adult patients with chronic liver diseases, what is the diagnostic performance of noninvasive methods (blood and/or imaging) for predicting the degree of portal hypertension (based on HVPG)?"
+      ],
+      [
+        "Question 2",
+        "In children with chronic liver diseases, what is the diagnostic performance of noninvasive methods (serum and/or imaging) for predicting degree of portal hypertension (based on HVPG)?"
+      ]
+    ],
+    "row_count": 2,
+    "column_count": 2
+  },
+  {
+    "table_index": 3,
+    "headers": [
+      "References",
+      "Country, setting, main institution(s), study period",
+      "Specific disease",
+      "Inclusion/exclusion criteria",
+      "Sample size",
+      "Age (mean, y)",
+      "Sex (proportion women) (%)",
+      "Mean BMI",
+      "HVPG-defined portal HTN (% of total patients)",
+      "Intervention"
+    ],
+    "rows": [
+      [
+        "Banini et al35",
+        "Unites States, single center, Virginia Commonwealth University, 10/2016 to 05/2020",
+        "NAFLD",
+        "Adult patients with CLD who were referred for TJLB and had FIB-4 and VCTEExclusion criteria: a history of liver transplantation, pregnancy, CHF, or severe valvular disease",
+        "197",
+        "55",
+        "58",
+        "NR",
+        "CSPH: HVPG ≥10 mm Hg (11%)",
+        "FIB-4, VCTE"
+      ],
+      [
+        "Cho et al30",
+        "Korea, Wonju SeveranceChristian Hospital, 01/2009 to 12/2013",
+        "Alcohol-associated cirrhosis",
+        "Patients with alcohol-associated cirrhosis with baseline HVPG and LSM were included. Patients had to be abstinent for at least 2 mo before measurementsExclusion criteria: HbsAg+, HCV ab or RNA+, concomitant splenic or PVT, current use of beta-blockers, the presence of bacterial infection, other advanced complications of cirrhosis including renal and cardiopulmonary involvement, HCC, and severe comorbidity. Patients with severe ascites at the time of performing TE or poorly reliable LSMs were also excluded",
+        "Total: 219Comp: 88Decom: 131",
+        "Compensated: 52 (median)Decomp: 50 (median)",
+        "Compensated: 13%Decompensated: 6%",
+        "NR",
+        "CSPH: HVPG ≥10 mm Hg (50%)",
+        "APRI, Forns’ indexFIB-4, Lok index, (LSPS), (Plt/Spl), (P2/MS Index)"
+      ],
+      [
+        "Colecchia et al29",
+        "Italy, tertiary center: the Department of Clinical Medicine of the University of Bologna09/2009 to 02/2011",
+        "HCV-related cirrhosis",
+        "Patients with HCV-related cirrhosis without clinically evident decompensation eventsExclusion criteria: diagnosis of cirrhosis was not confirmed by histology, ascites, severe obesity, and inability to complete imaging technically",
+        "100",
+        "54",
+        "29",
+        "25",
+        "Absence of portal HTN: HVPG<5 mm HgPreclinical portal HTN: HVPG6–9 mm Hg, (35%)CSPH: HVPG ≥10 mm Hg (65%)Severe portal HTN: HVPG ≥12 mm Hg",
+        "LSMSSMPlt/SplLSPS (LS–spleen diameter-to-platelet ratio score)"
+      ],
+      [
+        "Mandorfer et al31",
+        "AustriaDivision of Gastroenterology and Hepatology, Department of Internal Medicine III, Medical University of Vienna",
+        "HCV",
+        "Patients with suspected/confirmed ACLD due to hepatitis C who underwent IFN-free therapy, with portal hypertension HVPG≥6 mm Hg who underwent HVPG and TE before IFN-free therapyExclusion criteria: patients without SVR",
+        "60",
+        "53",
+        "27",
+        "NR",
+        "Subclinical portal HTN: HVPG of 6–9 mm Hg (32%)CSPH: HVPG ≥10 mm Hg (35%) pronounced portal HTNHVPG ≥16 mm Hg (33%)",
+        "TE"
+      ],
+      [
+        "Mauro et al32",
+        "SpainLiver Transplant Unit, Liver Unit, IDIBAPS, CIBERehd, Hospital Clinic2001 to 06/2015",
+        "HCV",
+        "HCV-infected liver transplant recipients, who achieved viral eradication, defined as HCV-RNA undetectability 12 wk after completing therapy (SVR12)Exclusion criteria: Patients inadequate liver biopsy specimens and those without fibrosis on pretreatment biopsy, FCH",
+        "51",
+        "63",
+        "NR",
+        "NR",
+        "CSPH: HVPG ≥10 mm Hg (31%)",
+        "LSMELF"
+      ],
+      [
+        "Pons et al34",
+        "International, Multicenter, 2016 to 2018",
+        "HCV, NASH, ALD",
+        "Patients with CLD of different etiologies, LSM, and HVPG obtained within 3 months of each other, and no history of hepatic decompensation and normal liver functionExclusion criteria: uncommon causes of CLD",
+        "836",
+        "57",
+        "36",
+        "26.8",
+        "Prevalence of portal HTN: >5 mm HgCSPH: HVPG ≥10 mm Hg (59%)",
+        "TE, platelet count"
+      ],
+      [
+        "Reiberger et al28",
+        "AustriaDivision of Gastroenterology and Hepatology, Department of Internal Medicine III, Medical University Vienna",
+        "Viral: 390Alcohol-associated: 227",
+        "Inclusion: NRExclusion criteria: pre- or post-sinusoidal portal hypertension, elevated aminotransferases >10-fold ULN, average daily ethanol intake >50 g within last 2 mo, and active bacterial infection",
+        "Total: 695HVPG cohort: 502Subanalysis (ALD): 227",
+        "50",
+        "28",
+        "Total: 23.1",
+        "Normal portal pressure HVPG of 1–5 mm HgElevated portal pressure as an HVPG of 6-9 mm HgCSPH: HVPG ≥10 mm Hg Total: (55%)",
+        "TE"
+      ],
+      [
+        "Vizzutti, et al27",
+        "ItalyDipartimento di Medicina Interna, Center for Research, HigherEducation and Transfer DENOThe03/2005 to 01/2006",
+        "HCV-related cirrhosis",
+        "Patients with chronic HCV infectionExclusion criteria: BMI>35, ascites, complications of cirrhosis including cardiopulmonary and renal involvement, HCC, transaminases >10-fold ULN, ongoing antiviral therapy, co-infection with HBV and/or HIV, active infectious diseases other than HCV, ethanol intake within 6 mo preceding the study, treatment for portal hypertension, diuretics, anti-inflammatory drugs, concomitant presinusoidal and extrahepatic causes of portal hypertension, age younger than 18y or older than 75 y, and pregnancy",
+        "61",
+        "56",
+        "36",
+        "23",
+        "CSPH: HVPG ≥10 mm Hg (77%)",
+        "TE"
+      ],
+      [
+        "Zhu et al33",
+        "China, multicenter, Zhongshan Hospital and Shanghai Institute of Medical Imaging, Fudan University, 02/2012 to 09/2015",
+        "HBV",
+        "Patients with CHB and a liver neoplasm with normal liver functionExclusion criteria: history of antiviral treatment or other CLD, cholestasis, hilar cholangiocarcinoma, PVT, history of TIPS, or those with mass lesions >4 cm",
+        "64",
+        "53",
+        "25",
+        "NR",
+        "CSPH: HVPG ≥10 mm HgSevere portal HTN: HVPG ≥12 mm Hg",
+        "ARFI elastography"
+      ]
+    ],
+    "row_count": 9,
+    "column_count": 10
+  },
+  {
+    "table_index": 4,
+    "headers": [
+      "HVPG cutoff",
+      "Liver condition",
+      "Test",
+      "Cutoff values",
+      "No. studies",
+      "Diagnostic measures",
+      "Conclusion",
+      "Certainty of evidence"
+    ],
+    "rows": [
+      [
+        "HVPG ≥10",
+        "ALD",
+        "APRI",
+        "1",
+        "130",
+        "TP 90TN 39FP 19FN 71",
+        "Sensitivity 0.56Specificity 0.68PPV 0.65NPV 0.59",
+        "Low (high ROB, imprecision)"
+      ],
+      [
+        "",
+        "ALD",
+        "FIB-4",
+        "4.1",
+        "130",
+        "TP 86TN 42FP 16FN 75",
+        "Sensitivity 0.54Specificity 0.73PPV 0.68NPV 0.59",
+        "Low (high ROB, imprecision)"
+      ],
+      [
+        "",
+        "ALD",
+        "Plt/Spl",
+        "10.2",
+        "130",
+        "TP 86TN 45FP 13FN 75",
+        "Sensitivity 0.54Specificity 0.78PPV 0.72NPV 0.61",
+        "Low (high ROB, Imprecision)"
+      ],
+      [
+        "",
+        "ALD",
+        "LSPS",
+        "1.7",
+        "130",
+        "TP 101TN 42FP 16FN 60",
+        "Sensitivity 0.63Specificity 0.73PPV 0.71NPV 0.64",
+        "Low (high ROB, imprecision)"
+      ],
+      [
+        "",
+        "ALD",
+        "TE",
+        "13.6–15",
+        "134",
+        "TP 163TN 17FP 17FN 6",
+        "TP 164TN 11FP 23FN 5",
+        "Sensitivity 0.96–0.97Specificity 0.32–0.50PPV 0.88–0.91NPV 0.69–0.74",
+        "Moderate (moderate ROB)"
+      ],
+      [
+        "",
+        "ALD",
+        "TE",
+        "19–21.8",
+        "228,30",
+        "TP 77TN 25FP 9FN 9",
+        "TP 116TN 41FP 17FN 45",
+        "Sensitivity 0.72–0.89Specificity 0.70–0.73PPV 0.72–0.89NPV 0.70–0.84",
+        "Low (high ROB, imprecision)"
+      ],
+      [
+        "",
+        "ALD",
+        "TE",
+        "25",
+        "134",
+        "TP 144TN 28FP 6FN 25",
+        "Sensitivity 0.85Specificity 0.82PPV 0.96NPV 0.53",
+        "Low (moderate ROB, imprecision)"
+      ],
+      [
+        "",
+        "HBV",
+        "ARFI",
+        "1.79",
+        "133",
+        "TP 32TN 13FP 11FN 8",
+        "Sensitivity 0.79Specificity 0.56PPV 0.74NPV 0.64",
+        "Low (moderate ROB, imprecision)"
+      ],
+      [
+        "",
+        "HCV",
+        "TE",
+        "12.4–14.3",
+        "427,31,32,34",
+        "TP 46TN 13FP 1FN 1",
+        "TP 90TN 45FP 8FN 6",
+        "Sensitivity 0.94 (0.85–0.98)Specificity 0.81 (0.50–0.95)DPR: 67.25 (11.67–388.88)LR+: 4.96 (1.52–16.23)LR-: 0.07 (0.03–0.20)",
+        "Low (high ROB, imprecision)"
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "TP 201TN 54FP 94FN 9",
+        "TP 45TN 13FP 1FN 2",
+        "",
+        ""
+      ],
+      [
+        "",
+        "HCV",
+        "TE",
+        "15–18.8",
+        "329,31,34",
+        "TP 194TN 71FP 77FN 16",
+        "TP 41TN 13FP 6FN 0",
+        "Sensitivity 0.92–1.00Specificity 0.48–0.71PPV 0.72–0.87NPV 0.82–1.00",
+        "Moderate (moderate ROB)"
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "TP 62TN 24FP 11FN 3",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "HCV",
+        "TE",
+        ">23",
+        "429,31,32,34",
+        "TP 9TN 52FP 1FN 15",
+        "TP 34TN 34FP 1FN 31",
+        "Sensitivity 0.54 (0.47–0.61)Specificity 0.95 (0.90–0.98)DOR: 24.31 (11.5–51.42)LR+: 11.68 (5.63–24.23)LR-: 0.48 (0.41–0.56)",
+        "Low (high ROB, imprecision)"
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "TP 120TN 138FP 10FN 90",
+        "TP 24TN 18FP 1FN 17",
+        "",
+        ""
+      ],
+      [
+        "",
+        "HCV",
+        "LSPS",
+        "<0.927",
+        "129",
+        "TP 64TN 19FP 16FN 1",
+        "Sensitivity 0.99Specificity 0.54PPV 0.80NPV 0.95",
+        "Moderate (low ROB, imprecision)"
+      ],
+      [
+        "",
+        "HCV",
+        "LSPS",
+        "≥3.75",
+        "129",
+        "TP 34TN 34FP 1FN 31",
+        "Sensitivity 0.52Specificity 0.97PPV 0.97NPV 0.52",
+        "Moderate (low ROB, imprecision)"
+      ],
+      [
+        "",
+        "HCV",
+        "Plt/Spl",
+        "<2340",
+        "129",
+        "TP 64TN 5FP 30FN 1",
+        "Sensitivity 0.99Specificity 0.14PPV 0.68NPV 0.83",
+        "Moderate (low ROB, imprecision)"
+      ],
+      [
+        "",
+        "HCV",
+        "Plt/Spl",
+        "≥695",
+        "129",
+        "TP 31TN 34FP 1FN 34",
+        "Sensitivity 0.48Specificity 0.97PPV 0.97NPV 0.50",
+        "Moderate (low ROB, imprecision)"
+      ],
+      [
+        "",
+        "HCV",
+        "SSM",
+        "<40",
+        "129",
+        "TP 64FP 26FP 9FN 1",
+        "Sensitivity 0.99Specificity 0.74PPV 0.88NPV 0.97",
+        "Moderate (low ROB, imprecision)"
+      ],
+      [
+        "",
+        "HCV",
+        "SSM",
+        "≥52.8",
+        "129",
+        "TP 50TN 34FP 1FN 15",
+        "Sensitivity 0.77Specificity 0.97PPV 0.98NPV 0.69",
+        "Moderate (low ROB, Imprecision)"
+      ],
+      [
+        "",
+        "HCV",
+        "ELF",
+        "10.83",
+        "132",
+        "TP 21TN 44FP 9FN 3",
+        "Sensitivity 0.88Specificity 0.83PPV 0.68NPV 0.95",
+        "Low (high ROB, imprecision)"
+      ],
+      [
+        "",
+        "NAFLD",
+        "FIB-4",
+        "1.85",
+        "135",
+        "TP 7TN 53FP 30FN 2",
+        "Sensitivity 0.78Specificity 0.64PPV 0.19NPV 0.96",
+        "Low (moderate ROB, imprecision)"
+      ],
+      [
+        "",
+        "NAFLD",
+        "TE",
+        "13.6",
+        "134",
+        "TP 90TN 57FP 94FN 7",
+        "Sensitivity 0.93Specificity 0.38PPV 0.49NPV 0.89",
+        "Low (moderate ROB, imprecision)"
+      ],
+      [
+        "",
+        "NAFLD",
+        "TE",
+        "15–16.8",
+        "234,35",
+        "TP 7TN 46FP 37FN 2",
+        "TP 87TN 75FP 76FN 10",
+        "Sensitivity 0.78–0.90Specificity 0.50–0.55PPV 0.16–0.53NPV 0.88–0.96",
+        "Moderate (moderate ROB)"
+      ],
+      [
+        "",
+        "NAFLD",
+        "TE",
+        "21.3–25",
+        "234,35",
+        "TP 6TN 58FP 25FN 3",
+        "TP 57TN 134FP 17FN 40",
+        "Sensitivity 0.59–0.67Specificity 0.70–0.89PPV 0.19–0.77NPV 0.77–0.95",
+        "Low (moderate ROB, imprecision)"
+      ]
+    ],
+    "row_count": 25,
+    "column_count": 8
+  },
+  {
+    "table_index": 5,
+    "headers": [
+      "References",
+      "Was a consecutive or random sample of patients enrolled?",
+      "Did the study avoid inappropriate exclusions?",
+      "Were the index test results interpreted without knowledge of the results of the reference standard?",
+      "If a threshold was used, was it prespecified?",
+      "Were the reference standard results interpreted without knowledge of the results of the index test?",
+      "Was there an appropriate interval between index test(s) and reference standard?",
+      "Were all patients included in the analysis?",
+      "Overall ROB"
+    ],
+    "rows": [
+      [
+        "Banini et al35",
+        "Yes",
+        "Yes",
+        "Unclear",
+        "Yes",
+        "Yes",
+        "Unclear",
+        "Yes",
+        "Low"
+      ],
+      [
+        "Cho et al30",
+        "Yes",
+        "Yes",
+        "No",
+        "No",
+        "Yes",
+        "Unclear",
+        "Yes",
+        "High"
+      ],
+      [
+        "Colecchia et al29",
+        "Yes",
+        "Yes",
+        "Yes",
+        "Unclear",
+        "Yes",
+        "Yes",
+        "No",
+        "Low"
+      ],
+      [
+        "Mandorfer et al31",
+        "Unclear",
+        "Yes",
+        "Unclear",
+        "Unclear",
+        "Unclear",
+        "Yes",
+        "No",
+        "High"
+      ],
+      [
+        "Mauro et al32",
+        "Yes",
+        "Yes",
+        "Unclear",
+        "No",
+        "Unclear",
+        "No",
+        "No",
+        "High"
+      ],
+      [
+        "Pons et al34",
+        "Yes",
+        "Yes",
+        "Unclear",
+        "Yes",
+        "Unclear",
+        "Unclear",
+        "Yes",
+        "Moderate"
+      ],
+      [
+        "Reiberger et al28",
+        "Unclear",
+        "Yes",
+        "Unclear",
+        "No",
+        "Unclear",
+        "Unclear",
+        "Yes",
+        "High"
+      ],
+      [
+        "Vizzutti et al27",
+        "Yes",
+        "Yes",
+        "Yes",
+        "No",
+        "Unclear",
+        "Yes",
+        "Yes",
+        "Low"
+      ],
+      [
+        "Zhu et al33",
+        "No",
+        "Yes",
+        "Unclear",
+        "No",
+        "Yes",
+        "Yes",
+        "Yes",
+        "Low"
+      ]
+    ],
+    "row_count": 9,
+    "column_count": 9
+  }
+]

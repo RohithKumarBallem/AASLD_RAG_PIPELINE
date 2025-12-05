@@ -1,0 +1,42 @@
+[
+  {
+    "table_index": 1,
+    "headers": [],
+    "rows": [
+      [
+        "End Note"
+      ],
+      [
+        "Procite"
+      ],
+      [
+        "Reference Manager"
+      ]
+    ],
+    "row_count": 3,
+    "column_count": 1
+  },
+  {
+    "table_index": 2,
+    "headers": [
+      "Possible Condition",
+      "Preventative Actions"
+    ],
+    "rows": [
+      [
+        "Increased risk for thin bones (osteoporosis)",
+        "DEXA scan, vitamin D levels"
+      ],
+      [
+        "Increased risk for infection",
+        "Vaccinations, especially hepatitis A and B"
+      ],
+      [
+        "Increased risk for other autoimmune disease",
+        "Check thyroid test"
+      ]
+    ],
+    "row_count": 3,
+    "column_count": 2
+  }
+]

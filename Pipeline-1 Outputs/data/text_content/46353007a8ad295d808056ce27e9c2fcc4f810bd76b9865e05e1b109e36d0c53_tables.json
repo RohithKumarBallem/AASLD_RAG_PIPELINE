@@ -1,0 +1,790 @@
+[
+  {
+    "table_index": 1,
+    "headers": [],
+    "rows": [
+      [
+        "End Note"
+      ],
+      [
+        "Procite"
+      ],
+      [
+        "Reference Manager"
+      ]
+    ],
+    "row_count": 3,
+    "column_count": 1
+  },
+  {
+    "table_index": 2,
+    "headers": [
+      "",
+      "Platelets",
+      "Coagulation",
+      "Fibrinogen",
+      "Fibrinolysis"
+    ],
+    "rows": [
+      [
+        "Changes promoting bleeding",
+        "ThrombocytopeniaPlatelet function defectsAnemia (less platelet margination when hematocrit is low)",
+        "Low levels of factors II, V, VII, IX, X, and XIDecreased platelet procoagulant surface",
+        "Low plasma levelsHypersialyation leading to decreased rates of fibrin polymerizationLow FXIII",
+        "Elevated tPA not balanced by elevated plasminogen activator inhibitor‐1Low levels of α2‐antiplasmin and TAFI"
+      ],
+      [
+        "Changes promoting clotting",
+        "Elevated levels of VWFDecreased levels of ADAMTS13Enhancedin vivoplatelet activationActivated endothelium",
+        "Low levels of protein C and S and antithrombin; elevated factor VIII",
+        "Decreased permeability of the fibrin clot",
+        "Low plasminogen"
+      ],
+      [
+        "Net effect",
+        "Poorly studied; elevated VWF compensates at least partly for thrombocytopenia",
+        "Normal to enhanced thrombin‐generating capacity",
+        "Poorly studied",
+        "Controversial; decompensation appears to favor hyperfibrinolysis, but ACLF/sepsis can severely inhibit fibrinolysis"
+      ]
+    ],
+    "row_count": 3,
+    "column_count": 5
+  },
+  {
+    "table_index": 3,
+    "headers": [
+      "Test*",
+      "Diagnostic or Research",
+      "Advantages",
+      "Limitations",
+      "Predictive Value for Procedural or Spontaneous Bleeding in Patients With Cirrhosis"
+    ],
+    "rows": [
+      [
+        "Platelet count",
+        "Diagnostic",
+        "Easily accessible; marker of portal hypertension and sequestration",
+        "No relation to platelet function; does not take into account the role of elevated VWF in compensating for the thrombocytopenia of cirrhosis",
+        "Some, but not all, studies suggest an increased bleeding risk with lower platelet count, but this may simply reflect increased severity of disease or portal hypertension. Whether normalization of platelet count reduces bleeding risk is unknown."
+      ],
+      [
+        "Platelet aggregation",
+        "Diagnostic",
+        "Test of platelet function in response to multiple agonists",
+        "Unreliable in thrombocytopenic samples and therefore underestimates platelet function in thrombocytopenia",
+        "Unknown"
+      ],
+      [
+        "Flow‐based platelet function tests",
+        "Diagnostic (PFA‐100/200) and research",
+        "Test of platelet function; sensitive for VWF",
+        "Sensitive to anemia and thrombocytopenia and therefore does not give information on intrinsic platelet function",
+        "Unknown"
+      ],
+      [
+        "Flow cytometry based–platelet function tests",
+        "Research",
+        "Not dependent on platelet count and therefore gives information on intrinsic platelet function in response to various agonists",
+        "Only tests activation, not aggregation",
+        "Unknown"
+      ],
+      [
+        "PT/aPTT",
+        "Diagnostic",
+        "Easily accessible; PT is a marker of liver disease severity",
+        "Only sensitive for procoagulant proteins and is therefore unsuitable to assess hemostatic competency; laboratory‐to‐laboratory variation, which may result in clinically relevant differences in MELD scores",
+        "No predictive value"
+      ],
+      [
+        "Fibrinogen",
+        "Diagnostic",
+        "Easily accessible",
+        "Unclear what fibrinogen levels are required for hemostasis in patients with liver disease; does not take into account potential structural changes in the fibrin clot",
+        "Some studies suggest that low fibrinogen increases bleeding risk, but this may simply reflect increasing severity of liver disease. Normalization of fibrinogen levels does not appear to reduce bleeding risk."
+      ],
+      [
+        "Thrombin generation",
+        "Research",
+        "Gives an adequate representation of coagulation balance, particularly when modified with thrombomodulin or other protein C activators",
+        "Cumbersome test, although an automated analyzer (Genesia‐ST) has been developed. Whole‐blood variants are in development, which may be useful as point‐of‐care tests.",
+        "Unknown"
+      ],
+      [
+        "TEG/ROTEM",
+        "Diagnostic",
+        "Point‐of‐care test that gives a much better estimate of hemostatic balance than other readily available diagnostic tests; helpful in transfusion management in bleeding patients",
+        "Insensitive for VWF and protein C and therefore likely underestimates hemostatic competency. Older devices require experienced operators and suffer from laboratory‐to‐laboratory variation. New‐generation devices are less operator dependent.",
+        "Unclear; some studies have shown predictive value, whereas others have not. Unknown whether normalization of TEG or ROTEM parameters reduces bleeding risk"
+      ],
+      [
+        "Markers of activation of platelets, coagulation, and fibrinolysis (platelet factor 4, soluble CD40 ligand, D‐dimer, prothrombin fragment F1 + 2, thrombin antithrombin complex, plasmin‐α2‐antiplasmin, and others)",
+        "Diagnostic (d‐dimer) and research",
+        "These markers give a representation of hemostatic processes that are ongoing in the test subject, whereas tests such as PT/aPTT/thrombin generation/TEG/ROTEM assess hemostatic potential.",
+        "These markers are cleared by the liver, and it is uncertain whether elevated levels represent actual ongoing platelet activation, coagulation, or fibrinolysis or accumulation of these markers by reduced clearance.",
+        "Unknown"
+      ],
+      [
+        "Fibrinolysis in TEG/ROTEM",
+        "Diagnostic",
+        "Rapid, point‐of‐care test",
+        "Only sensitive for profound hyperfibrinolysis",
+        "May have predictive value during liver transplantation and other major operative procedures or severe hemorrhage"
+      ],
+      [
+        "Plasma‐based fibrinolysis tests",
+        "Research",
+        "Sensitive for all profibrinolytic and antifibrinolytic factors; hypofibrinolysis associated with venous and arterial thrombosis risk in general population; hypofibrinolytic state associated with poor outcome in critically ill patients with cirrhosis",
+        "Relation between hyperfibrinolysis and bleeding has not been established",
+        "Unknown"
+      ],
+      [
+        "Ratios (FVIII/protein C or thrombin generation with and without protein C activator)",
+        "Research",
+        "May predict thrombotic events; may be markers of a hypercoagulable state",
+        "May be confusing and misinterpreted. Biological plausibility of a FVIII protein C ratio is unclear; a thrombin generation ratio is a measure of functionality of the protein C system, not of global hypercoagulability.",
+        "May have predictive value for PVT, not bleeding"
+      ]
+    ],
+    "row_count": 12,
+    "column_count": 5
+  },
+  {
+    "table_index": 4,
+    "headers": [
+      "",
+      "Low Risk",
+      "High Risk"
+    ],
+    "rows": [
+      [
+        "Percutaneous",
+        "ParacentesisThoracentesisDrainage catheter exchange",
+        "Biliary intervention (cholecystostomy or percutaneous biliary drain)Liver biopsyTumor ablationNonliver intraabdominal solid‐organ biopsyIntrathoracic organ biopsyNephrostomy tube placementCentral nervous system proceduresIntraocular procedures/injectionsIntra‐articular injections"
+      ],
+      [
+        "Vascular",
+        "Peripherally inserted central catheter line placementCentral venous catheter placementCentral line removalIVC filter placementDiagnostic venographyCoronary angiography and right heart catheterization (diagnostic)",
+        "TIPSAngiography or venography with interventionTransjugular liver biopsyTranshepatic arterial chemoembolization or radioembolizationTherapeutic coronary angiography"
+      ],
+      [
+        "Endoscopic",
+        "Diagnostic esophagogastroduodenoscopy and routine variceal band ligationEnteroscopyColonoscopy (including mucosal biopsy)Endoscopic retrograde cholangiopancreatography without sphincterotomyCapsule endoscopyEndoscopic ultrasound without fine‐needle aspirationTransesophageal echocardiogramDiagnostic bronchoscopy without biopsy",
+        "Endoscopic polypectomyEndoscopic stricture dilation or mucosal resectionBalloon‐assisted enteroscopyPercutaneous endoscopic gastrostomy placementEndoscopic retrograde cholangiopancreatography with sphincterotomyEndoscopic ultrasound with fine‐needle aspirationCystgastrostomyTherapeutic bronchoscopy or diagnostic bronchoscopy with biopsy"
+      ],
+      [
+        "Other",
+        "Skin biopsyDental cleaning and nonextraction procedures",
+        "Dental extraction"
+      ]
+    ],
+    "row_count": 4,
+    "column_count": 3
+  },
+  {
+    "table_index": 5,
+    "headers": [
+      "Organization",
+      "Platelet Count (× 1,000/μL)",
+      "INR",
+      "Fibrinogen Level (mg/dL)"
+    ],
+    "rows": [
+      [
+        "AASLD (this document)",
+        "No routine preprocedure correction",
+        "No routine preprocedure correction",
+        "No routine preprocedure correction"
+      ],
+      [
+        "Society of Interventional Radiology 2019(28)",
+        ">30",
+        "<2.5*",
+        ">100"
+      ],
+      [
+        "American Gastroenterological Association 2019(81)",
+        ">50",
+        "No correction",
+        ">120"
+      ],
+      [
+        "American College of Gastroenterology 2020(3)",
+        ">50",
+        "No correction",
+        ">120‐150"
+      ]
+    ],
+    "row_count": 4,
+    "column_count": 4
+  },
+  {
+    "table_index": 6,
+    "headers": [
+      "Descriptor",
+      "Definition"
+    ],
+    "rows": [
+      [
+        "Time course",
+        ""
+      ],
+      [
+        "Recent",
+        "PVT presumed to be present for <6 months"
+      ],
+      [
+        "Chronic",
+        "PVT present or persistent for >6 months"
+      ],
+      [
+        "Percent occlusion of main PV",
+        ""
+      ],
+      [
+        "Completely occlusive",
+        "No persistent lumen"
+      ],
+      [
+        "Partially occlusive",
+        "Clot obstructing >50% of original vessel lumen"
+      ],
+      [
+        "Minimally occlusive",
+        "Clot obstructing <50% of original vessel lumen"
+      ],
+      [
+        "Cavernous transformation",
+        "Gross portoportal collaterals without original PV seen"
+      ],
+      [
+        "Response to treatment or interval change",
+        ""
+      ],
+      [
+        "Progressive",
+        "Thrombus increases in size or progresses to more complete occlusion"
+      ],
+      [
+        "Stable",
+        "No appreciable change in size or occlusion"
+      ],
+      [
+        "Regressive",
+        "Thrombus decreases in size or degree of occlusion"
+      ]
+    ],
+    "row_count": 12,
+    "column_count": 2
+  },
+  {
+    "table_index": 7,
+    "headers": [
+      "System",
+      "Classification Type",
+      "Categories",
+      "Outcome Correlation",
+      "Strengths",
+      "Weaknesses"
+    ],
+    "rows": [
+      [
+        "Stieber et al., 1991(93)",
+        "Anatomical",
+        "PartialComplete PV occlusionExtensive with mesenteric involvement",
+        "Posttransplant survival",
+        "First systematic report; correlates with perioperative death in early LT series",
+        "Only anatomical classes and exclusive to LT patients"
+      ],
+      [
+        "Nonami et al., 1992(94)",
+        "Anatomical",
+        "IntrahepaticPrimary PV branchMain PV trunkMesenteric plus main trunk",
+        "Correlated with severity of portal hypertension pretransplant",
+        "Large series of early LT patients with anatomical PVT location described",
+        "Only patients evaluated at the time of LT"
+      ],
+      [
+        "Gayowski et al., 1996(95)",
+        "Anatomical",
+        "IntrahepaticPrimary PV branchMain PV trunkMesenteric plus main trunk",
+        "Posttransplant patient and graft survival",
+        "Longer follow‐up posttransplant and more complete survival information",
+        "Only patients presenting for LT"
+      ],
+      [
+        "Yerdel et al., 2000(96)",
+        "Anatomical and degree of occlusion",
+        "<50% occlusion>50% occlusionComplete PV/SV occlusionComplete PV occlusion with SMV extension",
+        "Posttransplant survival",
+        "Well‐defined long‐term posttransplant survival; investigation into pretransplant risk factors; more clinically pertinent anatomical definitions",
+        "Only patients presenting for LT"
+      ],
+      [
+        "Charco et al., 2005(97)",
+        "Anatomical and collateral presence",
+        "Confined to PVExtending to proximal SMVDiffuse involvement of mesenteric system with large collateralsDiffuse with fine collaterals",
+        "None based on this system",
+        "System based on collateral formation and surgical approach",
+        "Only patients presenting for LT; no outcome assessment of classification system"
+      ],
+      [
+        "Bauer et al., 2006(99)",
+        "Anatomical and degree of occlusion",
+        "<25% occlusion of PV26%‐50% occlusion51%‐75% occlusion76%‐100% occlusionAll stratified by location of clot and cavernous transformation presence",
+        "Change in grade after TIPS placement",
+        "First series dedicated to patients not necessarily undergoing LT; extreme detail on clot location and percentage occlusion",
+        "No long‐term outcome data and only patients who underwent TIPS and endovascular intervention"
+      ],
+      [
+        "Ma et al., 2014(100)",
+        "Anatomical; degree of occlusion; and presence of collaterals",
+        "Duration of clotPresence of symptomsDegree of portal hypertension",
+        "Correlation with symptoms and portal hypertension complications",
+        "Nontransplant cohort with careful imaging classification and symptom measurement",
+        "No long‐term outcome assessment"
+      ],
+      [
+        "Sarin et al., 2016(101)",
+        "Anatomical; degree of occlusion; duration; and presence of underlying liver disease",
+        "Location of clotDegree of occlusionTime courseExtent of occlusionPresence of underlying liver disease",
+        "None",
+        "PVT classified in multiple characteristics and scenarios",
+        "System is complex and nomenclature can be cumbersome; no outcome correlation."
+      ],
+      [
+        "Bhangui et al., 2019(98)",
+        "Anatomical and presence of collaterals",
+        "ComplexNoncomplex",
+        "Requirement of portal inflow reconstruction at the time of LT",
+        "Simplifies anatomical considerations for PV management during LT",
+        "Only applies to LT techniques; no natural history outcomes"
+      ]
+    ],
+    "row_count": 9,
+    "column_count": 6
+  },
+  {
+    "table_index": 8,
+    "headers": [
+      "",
+      "HVT/BCS",
+      "Extrahepatic PV Thrombosis"
+    ],
+    "rows": [
+      [
+        "Acquired hematological disorders"
+      ],
+      [
+        "Myeloproliferative neoplasia",
+        "Most common in Western patients. Frequently masked by hypersplenism. Splenomegaly nonspecific when portal hypertension is present. Significant positive predictive value of platelet count >200,000/µL together with splenomegaly >15 cm in a context of severe portal hypertension. Diagnosis based on first‐line identification of JAK2 V617F mutation (86% of these) and CALR mutations (much less common) and, when negative, on bone marrow biopsy",
+        "41%*(326‐328)",
+        "Most common in Western and Asian patients. Frequently masked by hypersplenism. Splenomegaly nonspecific when portal hypertension is present. Significant positive predictive value of platelet count >200,000/µL together with splenomegaly >15 cm in a context of severe portal hypertension. Diagnosis based on first‐line identification of JAK2 V617F mutation and CALR mutations (86% of these) and, when negative, on bone marrow biopsy",
+        "32%(326‐328)"
+      ],
+      [
+        "Antiphospholipid syndrome",
+        "Low diagnostic specificity of isolated anticardiolipin antibodies in a context of symptomatic liver disease",
+        "10%(329)",
+        "Less common than for large HVs and IVC",
+        "(329)"
+      ],
+      [
+        "Paroxysmal nocturnal hemoglobinuria",
+        "Uncommon disease presentation",
+        "7%(330)",
+        "Rare presentation",
+        "NA"
+      ],
+      [
+        "Inherited thrombophilia conditions"
+      ],
+      [
+        "Factor V Leiden",
+        "Over‐represented in Western patients. Molecular diagnosis",
+        "8% population prevalence in Europeans(331‐334)",
+        "Uncertain role. Molecular diagnosis",
+        "7%(331,333,335)"
+      ],
+      [
+        "Factor II G20210A mutation",
+        "Uncertain role. Molecular diagnosis",
+        "3% population prevalence in Europeans(332‐334)",
+        "Over‐represented in Western patients. Molecular diagnosis",
+        "7%(333)"
+      ],
+      [
+        "Protein C deficiency",
+        "Plasma activity nonspecific in the context of liver dysfunction. Molecular diagnosis of uncertain value attributable to multiple private mutations",
+        "5%(336)",
+        "Plasma activity nonspecific in the context of liver dysfunction. Molecular diagnosis of uncertain value attributable to multiple private mutations",
+        "6%(336)"
+      ],
+      [
+        "Protein S deficiency",
+        "Plasma level nonspecific in a context of liver dysfunction. Molecular diagnosis of uncertain value attributable to multiple private mutations",
+        "4%(336)",
+        "Plasma level nonspecific in a context of liver dysfunction. Molecular diagnosis of uncertain value attributable to multiple private mutations",
+        "3%(336)"
+      ],
+      [
+        "Antithrombin deficiency",
+        "Plasma activity nonspecific in the context of liver dysfunction. Molecular diagnosis of uncertain value attributable to multiple isolated mutations",
+        "1%(336)",
+        "Plasma activity nonspecific in the context of liver dysfunction. Molecular diagnosis of uncertain value attributable to multiple isolated mutations",
+        "4%(336)"
+      ],
+      [
+        "Local factors and other systemic diseases of undetermined significance and prevalence"
+      ],
+      [
+        "Behcet’s disease",
+        "Major cause in the Mediterranean region",
+        "2%‐3%(337‐340)",
+        "Uncommon",
+        "NA"
+      ],
+      [
+        "Celiac disease",
+        "Over‐represented in North Africa",
+        "1%(337)",
+        "Uncommon",
+        "NA"
+      ],
+      [
+        "Obesity",
+        "Uncertain role",
+        "NA",
+        "Abdominal obesity over‐represented",
+        "Bureau et al., 2016(341)"
+      ],
+      [
+        "Oral contraceptives or recent pregnancy",
+        "Over‐represented in Western patients",
+        "23%(342)",
+        "Uncertain role",
+        "Janssen et al., 2001(343)"
+      ],
+      [
+        "Low socioeconomic status",
+        "Over‐represented in Asian patients with obstructed IVC",
+        "Shrestha et al., 1996(344)",
+        "Uncertain role",
+        "NA"
+      ],
+      [
+        "General and iatrogenic factors",
+        "Hepatic surgery,",
+        "1%‐2%(133,198)",
+        "Splenectomy, hepatic or biliary surgery, sleeve gastrectomy pancreatitis, inflammatory bowel disease, appendicitis, diverticulitis, blunt abdominal trauma extrahepatic solid‐organ malignancy",
+        "Ageno et al., 2017(133)"
+      ],
+      [
+        "blunt abdominal trauma,"
+      ],
+      [
+        "hepatic cysts,"
+      ],
+      [
+        "prolonged immobilization,"
+      ],
+      [
+        "extrahepatic solid‐organ malignancy"
+      ],
+      [
+        "Other",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        ">1 risk factor",
+        "19%(134,135)",
+        "NA",
+        "NA"
+      ],
+      [
+        "",
+        "No risk factors",
+        "24%(134,135)",
+        "NA",
+        "NA"
+      ]
+    ],
+    "row_count": 24,
+    "column_count": 3
+  },
+  {
+    "table_index": 9,
+    "headers": [
+      "Specialty Test*",
+      "Cohort to Be Tested",
+      "Limitations"
+    ],
+    "rows": [
+      [
+        "JAK2 V617F mutation(328)",
+        "PVT/HVT in the absence of major provoking factor†",
+        "Occult MPN is frequent; this test should be performed, even if CBC is not suggestive.If negative in the presence of thrombocytosis or clinical concern for polycythemia vera, further tests are needed to exclude an MPN."
+      ],
+      [
+        "CALR mutation(327)",
+        "PVT/BCS in the absence of major provoking factor if JAK2 negative†",
+        "Significant positive predictive value with platelet count >200,000/µL together with splenomegaly >15 cm in the context of severe portal hypertension"
+      ],
+      [
+        "Antiphospholipid antibodies(345,346)Cardiolipin antibodiesBeta2 glycoprotein antibodiesLupus anticoagulant",
+        "PVT/BCS in the absence of major provoking factor†",
+        "Solid‐phase IgG and IgM anti‐beta‐2 glycoprotein‐1 and anticardiolipin antibodies can be tested in the acute phase.Antibodies of potential clinical significance if >40 GPL units or MPL units or >99th percentileDiagnosis of antiphospholipid syndrome requires persistence of antibodies on repeat testing ≥12 weeks.Lupus anticoagulant should not be tested in the acute phase because acute changes and anticoagulation can interfere."
+      ],
+      [
+        "Paroxysmal nocturnal hemoglobinuria flow cytometry(330)",
+        "PVT/BCS in the absence of major provoking factor†",
+        "Increased index of suspicion if current/preexisting hemolytic anemia and/or cytopeniasExtremely rare disease"
+      ],
+      [
+        "Heritable thrombophiliaFactor V LeidenProthrombin gene polymorphismProtein C deficiencyProtein S deficiencyAntithrombin deficiency",
+        "Not routinely recommended",
+        "Results do not generally influence management.Proteins C, S, and antithrombin can be low in the context of acute thrombosis and/or liver disease and may not reflect an inherited deficiency."
+      ]
+    ],
+    "row_count": 5,
+    "column_count": 3
+  },
+  {
+    "table_index": 10,
+    "headers": [
+      "",
+      "VKAs",
+      "LMWH",
+      "Dabigatran",
+      "Apixaban",
+      "Betrixaban",
+      "Edoxaban",
+      "Rivaroxaban"
+    ],
+    "rows": [
+      [
+        "Mechanism",
+        "Decreases factors II, VII, IX, X, PC, and PS, among others",
+        "Potentiates antithrombin (indirect inhibitor of IIa/Xa)",
+        "Inhibits factor IIa",
+        "Inhibits factor Xa",
+        "Inhibits factor Xa",
+        "Inhibits factor Xa",
+        "Inhibits factor Xa"
+      ],
+      [
+        "Dosing",
+        "Variable daily; based on INR",
+        "Weight based; daily or BID",
+        "BID",
+        "BID",
+        "Once‐daily",
+        "Once‐daily",
+        "Once‐daily"
+      ],
+      [
+        "Elimination",
+        "Renal: 92%",
+        "Renal: 40%",
+        "Renal: 80%",
+        "Renal: 27%",
+        "Renal: 11%",
+        "Renal: 50%",
+        "Renal: 66%"
+      ],
+      [
+        "Hepatobiliary/intestinal: 8%",
+        "Hepatobiliary/intestinal: 60%",
+        "Hepatobiliary/intestinal: 20%",
+        "Hepatobiliary/intestinal: 73%",
+        "Hepatobiliary/ intestinal: 85%",
+        "Hepatobiliary/intestinal: 50%",
+        "Hepatobiliary/intestinal: 34%"
+      ],
+      [
+        "Initiation",
+        "Overlap with LMWH until INR > 2",
+        "See above",
+        "≥5 days LMWH and then switch",
+        "10 mg BID for 7 days",
+        "160‐mg loading dose",
+        "5 days LMWH and then switch",
+        "15 mg BID for 3 weeks"
+      ],
+      [
+        ""
+      ],
+      [
+        "Standard dose",
+        "Overlap with LMWH until INR > 2",
+        "See above",
+        "150 mg BID",
+        "5 mg BID from day 8",
+        "80 mg daily",
+        "60 mg daily",
+        "20 mg daily from day 21"
+      ],
+      [
+        ""
+      ],
+      [
+        "Dose reduction",
+        "NA",
+        "CrCl 15‐30 mL/min and then reduce dose",
+        "110 mg BID for ≥80 years or concomitant verapamil, and consider for other high‐risk groups",
+        "2.5 mg BID from 6 months",
+        "CrCl 15‐30 mL/min and then reduce dose",
+        "30 mg daily for CrCl <50 mL/min or weight <60 kg",
+        "Consider dose reduction to 10 mg from 6 months."
+      ],
+      [
+        "INR monitoring",
+        "Yes",
+        "No",
+        "No",
+        "No",
+        "No",
+        "No",
+        "No"
+      ],
+      [
+        "Liver disease labeling",
+        "All",
+        "All",
+        "Limited experience; no change in exposure in CTP B (n = 12)",
+        "Labeled for ≤CTP B without significant coagulopathy",
+        "Contraindicated in chronic liver disease",
+        "Contraindicated in chronic liver disease with coagulopathy;",
+        "Contraindicated in liver disease with coagulopathy or bleeding risk, including CTP B/C"
+      ],
+      [
+        "caution with mild/moderate liver disease, ALT/AST >2 × ULN or total bilirubin ≥1.5 × ULN"
+      ],
+      [
+        "CKD adjustment",
+        "No",
+        "Yes, dose reduce for CrCl 15‐30 mL/min",
+        "No",
+        "No",
+        "Yes, dose reduce for CrCl 15‐30 mL/min",
+        "Yes, 30 mg for CrCl 15‐50 mL/min",
+        "No"
+      ],
+      [
+        "Contraindicated with CrCl <15 mL/min",
+        "Contraindicated with CrCl <30 mL/min",
+        "Contraindicated with CrCl <15 mL/min",
+        "Contraindicated with CrCl <15 mL/min",
+        "Contraindicated with CrCl <15 mL/minute",
+        "Contraindicated with CrCl <15 mL/min"
+      ]
+    ],
+    "row_count": 14,
+    "column_count": 8
+  },
+  {
+    "table_index": 11,
+    "headers": [],
+    "rows": [
+      [
+        "Blood diseases"
+      ],
+      [
+        "Aplastic anemia"
+      ],
+      [
+        "Myeloproliferative disorders"
+      ],
+      [
+        "Hodgkin lymphoma"
+      ],
+      [
+        "Multiple myeloma"
+      ],
+      [
+        "Prothrombotic conditions"
+      ],
+      [
+        "Protein C or S deficiency"
+      ],
+      [
+        "Factor II G20210A or factor V Leiden gene mutation"
+      ],
+      [
+        "Antiphospholipid syndrome"
+      ],
+      [
+        "ADAMTS13 deficiency"
+      ],
+      [
+        "Immunological/inflammatory disorders"
+      ],
+      [
+        "Common variable immune deficiency"
+      ],
+      [
+        "Autoimmune hepatitis"
+      ],
+      [
+        "Systemic lupus erythematosus"
+      ],
+      [
+        "Scleroderma"
+      ],
+      [
+        "Rheumatoid arthritis"
+      ],
+      [
+        "HIV infection"
+      ],
+      [
+        "Celiac disease"
+      ],
+      [
+        "Repeated gastrointestinal infections"
+      ],
+      [
+        "Drug induced"
+      ],
+      [
+        "Didanosine"
+      ],
+      [
+        "Azathioprine"
+      ],
+      [
+        "Thioguanine"
+      ],
+      [
+        "Oxaliplatin"
+      ],
+      [
+        "Genetic"
+      ],
+      [
+        "HHT with liver vascular malformations"
+      ],
+      [
+        "Turner syndrome"
+      ],
+      [
+        "Adams‐Oliver syndrome"
+      ],
+      [
+        "TERT mutations"
+      ],
+      [
+        "Cystic fibrosis"
+      ],
+      [
+        "Familial cases of unknown genetic mutation"
+      ]
+    ],
+    "row_count": 31,
+    "column_count": 1
+  }
+]

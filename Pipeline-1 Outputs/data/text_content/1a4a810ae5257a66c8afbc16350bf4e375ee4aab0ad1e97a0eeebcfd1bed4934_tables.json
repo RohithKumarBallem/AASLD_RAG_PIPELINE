@@ -1,0 +1,1235 @@
+[
+  {
+    "table_index": 1,
+    "headers": [],
+    "rows": [
+      [
+        "End Note"
+      ],
+      [
+        "Procite"
+      ],
+      [
+        "Reference Manager"
+      ]
+    ],
+    "row_count": 3,
+    "column_count": 1
+  },
+  {
+    "table_index": 2,
+    "headers": [
+      "Imaging based with or without being blood based for portal hypertension in adults"
+    ],
+    "rows": [
+      [
+        "PICO 1",
+        "In adult patients with chronic liver diseases, what is the diagnostic performance of noninvasive methods (blood and/or imaging based) for predicting the presence and/or severity of portal hypertension, including CSPH (based on HVPG)?"
+      ],
+      [
+        "PICO 2",
+        "In adult patients with CLD and clinically significant portal hypertension, what is the prognostic performance of noninvasive assessments of liver fibrosis for predicting liver-related clinical outcomes (decompensation and transplant-free survival) compared with HVPG?"
+      ]
+    ],
+    "row_count": 2,
+    "column_count": 1
+  },
+  {
+    "table_index": 3,
+    "headers": [],
+    "rows": [
+      [
+        "1. Rating the quality of evidence"
+      ],
+      [
+        "Study designRCTObservational",
+        "Initial rating of quality of evidenceHighModerateLowVery low",
+        "Rate down when there isRisk of biasInconsistencyImprecisionIndirectnessPublication bias",
+        "Rate up when there isLarge effect size (e.g., RR 0.5)Very large effect (e.g., RR 0.2)Dose response gradientAll plausible confounding that would increase the association"
+      ],
+      [
+        "2. Determinants of strength of a recommendation"
+      ],
+      [
+        "Quality of evidenceBalance of benefits and harmsPatient values and preferencesResources and costs"
+      ],
+      [
+        "3. Implications of the strength of a recommendation"
+      ],
+      [
+        "StrongPopulation: most people in this situation would want the recommended course of action and only a small proportion would not.Healthcare workers: most people should receive the recommended course of action.Policy makers: the recommendation can be adopted as policy in most situations.ConditionalPopulation: the majority of people in this situation would want the recommended course of action, but many would not.Healthcare workers: be prepared to help patients make a decision that is consistent with their values using decision aids and shared decision making.Policy makers: there is a need for substantial debate and involvement of stakeholders"
+      ]
+    ],
+    "row_count": 6,
+    "column_count": 1
+  },
+  {
+    "table_index": 4,
+    "headers": [
+      "Diagnostic index",
+      "Calculation",
+      "Comments"
+    ],
+    "rows": [
+      [
+        "Sensitivity",
+        "TP/(TP + FN)",
+        "Usually independent on the prevalence of the disease. Correctly detects patients who have the condition; does not miss the disease"
+      ],
+      [
+        "Specificity",
+        "TN/(TN + FP)",
+        "Usually independent on the prevalence of the disease. A high specificity means a test is useful for ruling in disease and does not falsely assign the disease"
+      ],
+      [
+        "Accuracy",
+        "(TP +TN)/(P+ N)",
+        "—"
+      ],
+      [
+        "PPV",
+        "TP/(TP + FP)×100",
+        "Used to “rule in” disease"
+      ],
+      [
+        "NPV",
+        "TN/(TN + FN)×100",
+        "Important for screening studies to not miss disease"
+      ],
+      [
+        "AUROC",
+        "Graph values of test performance from 0 (a perfectly inaccurate test) to 1 (a perfect test). Plots the diagnostic ability of a binary classifier system as its discrimination threshold is varied",
+        "Summarizes the overall diagnostic accuracy of a test. In general, an AUROC of 0.5 suggests no discrimination (i.e., ability to diagnose patients with and without the disease or condition based on the test), 0.7–0.8 is considered acceptable, 0.8–0.9 is considered excellent, and >0.9 is considered outstanding"
+      ],
+      [
+        "c-statistic",
+        "The probability that a randomly selected subject who experienced the outcome will have a higher predicted probability of having the outcome occur than a randomly selected subject who did not experience the outcome",
+        "A value of 0.5 means that the model is no better than predicting an outcome than random chance. Values >0.7 indicate a good model. Values >0.8 indicate a strong model"
+      ]
+    ],
+    "row_count": 7,
+    "column_count": 3
+  },
+  {
+    "table_index": 5,
+    "headers": [
+      "References",
+      "Study cohort",
+      "Clinical variables",
+      "Indirect markers",
+      "Direct markers",
+      "Model algorithm"
+    ],
+    "rows": [
+      [
+        "APRI,11",
+        "HCV",
+        "—",
+        "AST, platelets",
+        "—",
+        "[(AST level/ULN)/platelet count (109/L)]×100"
+      ],
+      [
+        "FIB-4,12",
+        "HIV-HCV",
+        "Age",
+        "AST, ALT, platelets",
+        "—",
+        "Age (y)×AST (U/L)/platelet count (109/L)×√ALT (U/L)"
+      ],
+      [
+        "NFS,13",
+        "NAFLD",
+        "Age, BMI, IFG/diabetes",
+        "AST, ALT, platelets, albumin",
+        "—",
+        "−1.675 + (0.037×age) + (0.094×BMI) + 1.13×IFG/diabetes (yes=1, no=0) + 0.99×(AST/ALT ratio) − (0.013×platelets) − (0.66×albumin)"
+      ],
+      [
+        "FibroTest,14",
+        "HCV",
+        "—",
+        "α2M, GGT, total bilirubin, haptoglobin, ApoA-I",
+        "—",
+        "Proprietary"
+      ],
+      [
+        "ELF,15",
+        "Mixed",
+        "Age",
+        "—",
+        "HA, PIIINP, TIMP-1",
+        "Proprietary"
+      ],
+      [
+        "FibroSpect II,16",
+        "HCV",
+        "—",
+        "α2M",
+        "HA, TIMP-1",
+        "Proprietary"
+      ],
+      [
+        "FibroMeter,17",
+        "Mixed",
+        "Age",
+        "Platelets, prothrombin index, urea, AST, α2M",
+        "HA",
+        "Proprietary"
+      ]
+    ],
+    "row_count": 7,
+    "column_count": 6
+  },
+  {
+    "table_index": 6,
+    "headers": [
+      "Clinical condition",
+      "Tools affected",
+      "Comments"
+    ],
+    "rows": [
+      [
+        "Obesity18–23",
+        "TEMREpSWE/2D-SWE",
+        "Although an XL probe can remediate TE-LSM failure in most cases with skin-to-(liver) capsule distance ≥25 mm, extreme obesity (BMI ≥40 kg/m2) can result in TE-LSM failure.Depending on body frame, extreme obesity can also affect transmission of mechanical wave leading to MRE failure.SWE acoustic signal transmission can also be affected by obesity, resulting in failure"
+      ],
+      [
+        "Narrow intercostal space",
+        "TE",
+        "If not corrected by repositioning, this can lead to failure or falsely elevated LSM estimation"
+      ],
+      [
+        "Ascites19",
+        "TEpSWE",
+        "Transmission of vibration and mechanical signals are affected, leading to failure"
+      ],
+      [
+        "Splenectomy",
+        "APRIFIB-4FibroIndexFibroMeterNFSSSE",
+        "As these tools use platelets as a biomarker of portal hypertension, attenuated thrombocytopenia from splenectomy gives a falsely higher fibrosis estimation. Spleen stiffness cannot be assessed after splenectomy."
+      ],
+      [
+        "Thrombocytopenia (not related to portal hypertension)",
+        "APRIFIB-4FibroIndexFibroMeterNFS",
+        "Thrombocytopenia from other conditions gives a falsely higher estimation of the degree of portal hypertension"
+      ],
+      [
+        "Iron overload24",
+        "MRE",
+        "T2 signaling is affected, leading to failure"
+      ],
+      [
+        "Steatosis25–27",
+        "TESWE",
+        "Although its clinical impact is unclear, moderate to severe steatosis causes TE-LSM to overestimate LSM"
+      ],
+      [
+        "Active alcohol use28",
+        "FibroTestHepascore",
+        "GGT increases, leading to falsely elevated fibrosis estimation"
+      ],
+      [
+        "Hepatic venous outflow tract obstruction29",
+        "TEMREpSWE/2D-SWE",
+        "Retrograde vascular congestion results in increased stiffness of hepatic parenchyma and falsely elevated LSM estimation"
+      ],
+      [
+        "Obstructive cholestasis30",
+        "TEMREpSWE/2D-SWE",
+        "Large bile duct obstruction results in increased stiffness of hepatic parenchyma and falsely elevated LSM estimation"
+      ],
+      [
+        "Hepatic infiltration31",
+        "TEMREpSWE/2D-SWE",
+        "Amyloid or tumoral infiltration results in increased stiffness of hepatic parenchyma and falsely elevated LSM estimation"
+      ],
+      [
+        "Elevated ALT and/or AST (inflammatory hepatitis)28,32,33",
+        "APRIFIB-4FibroIndexFibroMeterTENAFLD fibrosis score",
+        "Elevated aminotransferases occurring in relation to acute or acute-on-chronic hepatitis lead to falsely elevated fibrosis and/or LSM estimation"
+      ],
+      [
+        "Chronic kidney disease34–36",
+        "FibroIndexAPRIFIB-4FibroMeterTE",
+        "Elevated urea levels can result in falsely lower fibrosis estimation.Patients with hemodialysis tend to have lower ALT and AST levels, resulting in falsely lower fibrosis estimation.Hemofiltration can result in higher stiffness in patients with baseline fluid overload"
+      ],
+      [
+        "Malnutrition",
+        "NFS",
+        "Albumin reduction that is disproportionate to liver dysfunction results in falsely elevated fibrosis estimation"
+      ],
+      [
+        "Inflammatory condition",
+        "FibroTestFibroIndexHepascoreFibroMeter",
+        "Can result in increased α2-macroglobulin levels and falsely elevated FibroTest, and increased α-globulin and falsely elevated FibroIndex."
+      ],
+      [
+        "Hemolysis",
+        "FibroTest",
+        "Haptoglobin levels are decreased and total bilirubin is increased, leading to falsely elevated fibrosis estimation"
+      ],
+      [
+        "Gilbert syndrome and other cholestatic diseases",
+        "FibroTestHepascore",
+        "Increased total bilirubin and falsely elevated fibrosis estimation can occur"
+      ],
+      [
+        "Postprandial37",
+        "TENFS",
+        "Liver stiffness increases of up to 26% have been described for TE-LSM 2 hours after a meal.A rise in postprandial glucose (>110 mg/dl) falsely elevates NAFLD fibrosis score. Similar effects are expected with other forms of liver stiffness measurement (SWE and MRE)"
+      ],
+      [
+        "Gastrectomy38",
+        "FibroSpectHepascoreELF",
+        "Increases in hyaluronic acid result in falsely elevated fibrosis estimation"
+      ],
+      [
+        "Extrahepatic fibrosing conditions39",
+        "FibroMeterFibroSpectELF",
+        "Conditions such as interstitial lung disease can increase collagen turnover markers, resulting in falsely elevated fibrosis estimation"
+      ],
+      [
+        "Acute sickle cell crisis40",
+        "FibroTestTE",
+        "The results are related to hemolysis (as above).Acute vaso-occlusive crisis increases LSM"
+      ],
+      [
+        "Critically ill41",
+        "TE",
+        "Deceased liver donors in the ICU may have falsely elevated LSM, which is potentially related to fluid overload and nonspecific or ischemia-related elevations in aminotransferases"
+      ]
+    ],
+    "row_count": 22,
+    "column_count": 3
+  },
+  {
+    "table_index": 7,
+    "headers": [
+      "Method",
+      "Availability",
+      "Cost",
+      "Evidence",
+      "ROI size",
+      "ROI placement",
+      "Failure rate",
+      "Reasons for failure",
+      "Units"
+    ],
+    "rows": [
+      [
+        "TE",
+        "Widespread in hepatology offices",
+        "Low",
+        "Well validated",
+        "Small",
+        "Restricted—no guidance",
+        "<5%–15%",
+        "High BMI (M probe) ascites",
+        "Young’s modulus (kPa)"
+      ],
+      [
+        "ARFI methods",
+        "Moderate",
+        "Low",
+        "Moderate validation",
+        "Small (pSWE) Medium (2D-SWE)",
+        "Flexible up to 8-cm depth with US guidance",
+        "<5%–15%",
+        "High BMI",
+        "SWE: Young’s modulus (kPa)pSWE: wave speed (ms−1)"
+      ],
+      [
+        "MRE",
+        "Limited",
+        "High",
+        "Limited validation",
+        "Large",
+        "Whole organ coverage",
+        "<5%",
+        "Liver iron deposition, large ascites, high BMI, 3T (for 2D GRE)",
+        "Shear modulus (kPa)"
+      ]
+    ],
+    "row_count": 3,
+    "column_count": 9
+  },
+  {
+    "table_index": 8,
+    "headers": [
+      "References",
+      "Liver diseasea",
+      "Technique",
+      "TotalN",
+      "Cirrhosis,N(%)",
+      "CSPH,N(%)b",
+      "Cutoff (kPa or m/s)c",
+      "AUROCc",
+      "Sens (%)",
+      "Spec (%)",
+      "PPV (%)",
+      "Comments"
+    ],
+    "rows": [
+      [
+        "Carrion et al.67",
+        "HCV",
+        "TE",
+        "124",
+        "19 (15)",
+        "15 (12)",
+        "8.7",
+        "0.94",
+        "NA",
+        "NA",
+        "NA",
+        "HCV was recurrent after liver transplant"
+      ],
+      [
+        "Vizzutti et al.68",
+        "HCV",
+        "TE",
+        "61",
+        "61 (100)",
+        "47 (77)",
+        "13.6",
+        "0.99",
+        "97",
+        "92",
+        "97",
+        "Correlation of LSM and HVPG was poor at HVPG ≥12 mm Hg"
+      ],
+      [
+        "Bureau et al.69",
+        "Mixed",
+        "TE",
+        "144",
+        "89 (59)",
+        "76 (51)",
+        "13 21",
+        "NA 0.95",
+        "93 90",
+        "84 93",
+        "84 93",
+        "—"
+      ],
+      [
+        "Lemoine et al.70",
+        "HCV",
+        "TE",
+        "44",
+        "44 (100)",
+        "34 (77)",
+        "20.5",
+        "0.76",
+        "63",
+        "70",
+        "88",
+        "Active HCV therapy, PVT, and treatment with beta-blockers were excluded"
+      ],
+      [
+        "",
+        "ALD",
+        "TE",
+        "48",
+        "48 (100)",
+        "40 (83)",
+        "34.9",
+        "0.94",
+        "90",
+        "88",
+        "97",
+        ""
+      ],
+      [
+        "Sanchez-Conde et al.71",
+        "HCV/HIV",
+        "TE",
+        "38",
+        "17/28 (61)",
+        "28 (74)",
+        "14",
+        "0.80",
+        "93",
+        "50",
+        "84",
+        "Patients without histological cirrhosis had clinical evidence suggestive of cirrhosis"
+      ],
+      [
+        "Colecchia et al.58",
+        "HCV",
+        "TE",
+        "100",
+        "100 (100)",
+        "65 (65)",
+        "16 24.2",
+        "0.92 0.92",
+        "95 52",
+        "69 97",
+        "NA NA",
+        "SSM was also performed; SSM, but not LSM, predicted clinical decompensation"
+      ],
+      [
+        "Llop et al.72",
+        "Mixed",
+        "TE",
+        "79",
+        "79 (100)",
+        "32 (40)",
+        "136",
+        "0.84",
+        "91",
+        "57",
+        "59",
+        "Cirrhosis was compensated with resectable liver lesions"
+      ],
+      [
+        "Reiberger et al.73",
+        "Mixed ETOH",
+        "TE TE",
+        "502 NA",
+        "NA NA",
+        "276 (55) NA",
+        "18 19",
+        "0.8 0.8",
+        "83 89",
+        "82 73",
+        "86 89",
+        "Patients with active ETOH consumption were excluded; there is no information on antiviral therapy"
+      ],
+      [
+        "Berzigotti et al.74",
+        "Mixed",
+        "TE",
+        "117",
+        "117 (100)",
+        "78 (67)",
+        "17.4",
+        "0.88",
+        "82",
+        "77",
+        "88",
+        "LSPS was also examined, which was slightly more accurate in prediction of CSPH than LSM alone"
+      ],
+      [
+        "Hong et al.75",
+        "Mixed",
+        "TE",
+        "59",
+        "59 (100)",
+        "42 (71)",
+        "22",
+        "0.85",
+        "83",
+        "74",
+        "87",
+        "At a cutoff of 24 kPa, the AUROC for HVPG ≥12 mm Hg was 0.88"
+      ],
+      [
+        "Salzl et al.76",
+        "Mixed",
+        "TE ARFI",
+        "59 (100%)",
+        "59 (100)",
+        "42 (71)",
+        "16.8 2.6 m/sc",
+        "0.87 0.86",
+        "90 71",
+        "75 88",
+        "88 94",
+        "The failure rate of TE was 25%. Patients who received beta-blockers were excluded"
+      ],
+      [
+        "Attia et al.77",
+        "Mixed",
+        "ARFI",
+        "78",
+        "67 (86)",
+        "67 (86)",
+        "2.2 m/sc",
+        "0.93",
+        "97",
+        "89",
+        "99",
+        "SSM was also performed."
+      ],
+      [
+        "Cho et al.66",
+        "ALD",
+        "TE",
+        "88",
+        "88 (100)",
+        "44 (50)",
+        "21.8",
+        "0.85",
+        "72",
+        "70",
+        "72",
+        "LSM and LSPS (AUROC 0.82) were better than APRI and FIB-4"
+      ],
+      [
+        "Elkrief et al.78",
+        "Mixed",
+        "SWE",
+        "77",
+        "77 (100)",
+        "69 (90)",
+        "24.6",
+        "0.87",
+        "81",
+        "89",
+        "98",
+        "SSM was also performed. VCTE and SWE were both performed. Failure of VCTE was high for both LSM and SSM"
+      ],
+      [
+        "Kim et al.79",
+        "Mixed",
+        "SWE",
+        "92",
+        "92 (100)",
+        "77 (84)",
+        "15.2",
+        "0.82",
+        "86",
+        "80",
+        "96",
+        "Patients with advanced liver failure were excluded, and patients being treated with vasoactive drugs were excluded."
+      ],
+      [
+        "Kitson et al.80",
+        "Mixed",
+        "TE",
+        "95",
+        "88 (93)",
+        "70 (74)",
+        "29",
+        "0.90",
+        "72",
+        "100",
+        "100",
+        "LS <25.0 kPa and a platelet count >150×109/L excluded CSPH with 92% sensitivity"
+      ],
+      [
+        "Procopet et al.81",
+        "Mixed",
+        "TE SWE",
+        "43 43 46",
+        "43 43 46",
+        "NA NA NA",
+        "13.6 21.0 15.4",
+        "0.93 0.93 0.94",
+        "91 64 90",
+        "71 95 90",
+        "NA NA NA",
+        "SSM was also performed. LSM was higher (median 36 kPa) and more variable with decompensation"
+      ],
+      [
+        "Schwabl et al.82",
+        "Mixed",
+        "TE",
+        "226",
+        "124 (55)",
+        "72 (32)",
+        "16.1",
+        "0.96",
+        "95",
+        "87",
+        "76",
+        "A total 76% of the patients had viral etiology"
+      ],
+      [
+        "Zykus et al.83",
+        "Mixed",
+        "TE",
+        "107",
+        "102 (95)",
+        "78 (73)",
+        "17.4",
+        "0.95",
+        "88",
+        "88",
+        "96",
+        "SSM was also performed"
+      ],
+      [
+        "Mandorfer et al.84",
+        "HCV (post-SVR)",
+        "TE",
+        "60",
+        "60 (100)",
+        "41 (68)",
+        "27.2",
+        "NA",
+        "59",
+        "90",
+        "94",
+        "All patients were treated with DAA therapy; 84% were in CTP group A"
+      ],
+      [
+        "Jansen et al.85",
+        "Mixed",
+        "SWE",
+        "155",
+        "155 (100)",
+        "104 (67)",
+        "24.6",
+        "0.86",
+        "68",
+        "80",
+        "88",
+        "SSM was also performed"
+      ],
+      [
+        "Kumar et al.86",
+        "Mixed",
+        "TE",
+        "326",
+        "326 (100)",
+        "278 (85)",
+        "21.6",
+        "0.74",
+        "79",
+        "67",
+        "93",
+        "There was poorer performance as HVPG rose above>10 mmHg"
+      ],
+      [
+        "Wagner et al.87",
+        "Mixed",
+        "MRE",
+        "33",
+        "10 (29)",
+        "9 (27)",
+        "5.8",
+        "0.74",
+        "55",
+        "91",
+        "NA",
+        "Perfusion metrics were most accurate. SSM was also performed; SSM did not correlate with HVPG"
+      ],
+      [
+        "Mauro et al.88N4",
+        "HCV",
+        "TE",
+        "112",
+        "37 (33)",
+        "NA",
+        "11.3",
+        "0.89",
+        "76",
+        "94",
+        "58",
+        "HCV was post-OLT"
+      ],
+      [
+        "Salavrakos et al.89",
+        "ALD",
+        "TE",
+        "118",
+        "45 (38)",
+        "28 (24)",
+        "30.6",
+        "0.92",
+        "81",
+        "94",
+        "NA",
+        "Patients had been actively drinking ETOH up to 2 weeks prior to TE"
+      ],
+      [
+        "Zhu et al.90",
+        "HBV",
+        "SWE",
+        "104",
+        "104 (100)",
+        "84 (81)",
+        "16.1",
+        "0.72",
+        "78",
+        "72",
+        "NA",
+        "SSM was also performed"
+      ],
+      [
+        "Zhu et al.91",
+        "HBV",
+        "ARFI",
+        "64",
+        "64 (100)",
+        "NA",
+        "1.8 m/s",
+        "0.67",
+        "79",
+        "56",
+        "74",
+        "Performance was better in patients with “advanced cirrhosis.” SSM had no correlation with HVPG"
+      ],
+      [
+        "Pons et al.92",
+        "ALD HCV NASH HBV",
+        "TE TE TE TE",
+        "203 358 248 27",
+        "203 (100) 358 (100) 248 (100) 27 (100)",
+        "169 (83) 210 (59) 97 (39) 16 (63)",
+        "20 25 20 25 20 25 20 25",
+        "NA NA NA NA NA NA NA NA",
+        "92 85 75 57 79 59 82 64",
+        "65 82 80 93 75 89 100 100",
+        "93 96 84 92 67 77 100 100",
+        "Patients were from multiple centers, including some from earlier studies. Patients had “compensated advanced chronic liver disease.”"
+      ],
+      [
+        "Banini et al.93",
+        "Mixed",
+        "TE",
+        "142",
+        "85 (60)",
+        "16 (11)",
+        "21.3",
+        "0.68",
+        "56",
+        "74",
+        "21",
+        "Cohort was primarily patients with NASH"
+      ]
+    ],
+    "row_count": 30,
+    "column_count": 12
+  },
+  {
+    "table_index": 9,
+    "headers": [
+      "References",
+      "Liver diseasea",
+      "Technique",
+      "TotalN",
+      "Cirrh-osis,N(%)",
+      "CSPH by HVPG,N(%)b",
+      "Cutoff (kPa unless otherwise noted)",
+      "AUROCc",
+      "Sensitivity (%)",
+      "Specificity (%)",
+      "PPV",
+      "Comparison of SSM and LSM"
+    ],
+    "rows": [
+      [
+        "Hirooka et al.100",
+        "Mixed",
+        "RTE",
+        "60",
+        "48 (80)",
+        "28 (47)",
+        "8.2",
+        "0.98",
+        "NA",
+        "NA",
+        "NA",
+        "AUROC for SSM was higher than LSM (AUROC 0.83)"
+      ],
+      [
+        "Colecchia et al.95",
+        "HCV",
+        "TE",
+        "100",
+        "100 (100)",
+        "65 (65)",
+        "40 52.8",
+        "0.97 0.97",
+        "99 77",
+        "74 97",
+        "NA NA",
+        "LSM and SSM had similar performance characteristics"
+      ],
+      [
+        "Attia et al.77",
+        "Mixed",
+        "ARFI",
+        "78",
+        "67 (86)",
+        "70 (90)",
+        "2.32 m/s",
+        "0.97",
+        "96",
+        "89",
+        "96",
+        "LSM had similar performance characteristics"
+      ],
+      [
+        "Elkrief et al.78",
+        "Mixed",
+        "2D-SWE",
+        "77",
+        "77 (100)",
+        "69 (90)",
+        "34.7",
+        "0.64",
+        "40",
+        "100",
+        "100",
+        "LSM had better performance characteristics"
+      ],
+      [
+        "Procopet et al.81",
+        "Mixed",
+        "SWE",
+        "55",
+        "55 (100)",
+        "28 (51)",
+        "NA",
+        "0.73",
+        "NA",
+        "NA",
+        "NA",
+        "LSM had better performance characteristics. SSM failed in 34% of patients"
+      ],
+      [
+        "Zykus et al.83",
+        "Mixed",
+        "TE",
+        "99",
+        "95 (95)",
+        "NA",
+        "47.6",
+        "0.85",
+        "77",
+        "79",
+        "92",
+        "LSM had better performance characteristics"
+      ],
+      [
+        "Takuma et al.101",
+        "Mixed",
+        "ARFI",
+        "60",
+        "60 (97)",
+        "35 (57)",
+        "3.10 m/s",
+        "0.94",
+        "97",
+        "58",
+        "75",
+        "—"
+      ],
+      [
+        "Jansen et al.85",
+        "Mixed",
+        "SWE",
+        "112",
+        "112 (100)",
+        "75 (67)a",
+        "26.3",
+        "0.84",
+        "80",
+        "84",
+        "91",
+        "LSM had similar to slightly poorer performance characteristics"
+      ],
+      [
+        "Zhu et al.90",
+        "HBV",
+        "SWE",
+        "104",
+        "104 (100)",
+        "84 (81)",
+        "25.3",
+        "0.81",
+        "85",
+        "79",
+        "NA",
+        "AUROC for SSM was higher than LSM"
+      ]
+    ],
+    "row_count": 9,
+    "column_count": 12
+  },
+  {
+    "table_index": 10,
+    "headers": [
+      "Blood-based NILDA"
+    ],
+    "rows": [
+      [
+        "Sanyal et al.121",
+        "Blood marker",
+        "NASH cirrhosis enrolled in simtuzumab trials",
+        "258",
+        "31 (median)",
+        "Liver disease–related complications: ascites, varices, HE, increase in CTP score, and death",
+        "50 (19%)",
+        "HVPG",
+        "10 mmHg",
+        "—",
+        "—",
+        "c-statistic 0.72"
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "ELFa",
+        "11.3",
+        "51",
+        "72",
+        "c-statistic 0.68"
+      ],
+      [
+        "Hsieh et al.122",
+        "Blood marker",
+        "Cirrhosis, 42% child A",
+        "242",
+        "6 (endpoint)",
+        "Death",
+        "7 (3%)",
+        "HVPG",
+        "—",
+        "—",
+        "—",
+        "0.61"
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "APRI",
+        "—",
+        "—",
+        "—",
+        "0.59"
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "FIB-4",
+        "—",
+        "—",
+        "—",
+        "0.64"
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Lok Index",
+        "—",
+        "—",
+        "—",
+        "0.73"
+      ],
+      [
+        "Imaging-based NILDA"
+      ],
+      [
+        "Robic et al.123",
+        "TE-LSM",
+        "100 patients with HVPG and TE (65% with cirrhosis)",
+        "100 (96 with TE)",
+        "24 (endpoint)",
+        "PHT complications: ascites and VB",
+        "18 (18%)b",
+        "HVPG",
+        "10 mmHg",
+        "100",
+        "60",
+        "0.83"
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "—",
+        "LSM",
+        "21.1 kPa",
+        "100",
+        "65",
+        "0.84"
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Liver disease–related complications: VB, ascites, HE, HCC, sepsis, LT, and death",
+        "41 (41%)b",
+        "HVPG",
+        "10 mmHg",
+        "83",
+        "71",
+        "0.81"
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "LSM",
+        "21.1 kPa",
+        "82",
+        "76",
+        "0.84"
+      ],
+      [
+        "Colecchia et al.124",
+        "TE-LSM and SSM",
+        "Patients with HCV and cirrhosis, 100% (untreated)",
+        "92",
+        "24 (endpoint)",
+        "PHT complications: ascites, VB, and HE",
+        "30 (33%)",
+        "HVPG",
+        "10 mmHg",
+        "—",
+        "—",
+        "0.83 (accuracy)"
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "SSM",
+        "54.0 kPa",
+        "97",
+        "—",
+        "0.85 (accuracy)"
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "LSM",
+        "Not independently associated with outcome"
+      ],
+      [
+        "Kitson et al.80",
+        "TE-LSM",
+        "95 patients with HVPG and TE, 88 (93% cirrhosis)",
+        "90 with F/u",
+        "15.1 (median)",
+        "PHT compensated",
+        "28 (31%)",
+        "HVPG",
+        "10 mmHg",
+        "100",
+        "40",
+        "PPV 43%"
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "LSM",
+        "21.1 kPa",
+        "82",
+        "45",
+        "PPV 40%"
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "LSM",
+        "34.5 kPa",
+        "75",
+        "69",
+        "PPV 52%"
+      ],
+      [
+        "Rajakannu et al.125",
+        "TE-LSM",
+        "HCC",
+        "102, 56 (49%) with cirrhosis)",
+        "3 (endpoint)",
+        "Decompensation after hepatectomy: ascites, jaundice, and HE",
+        "Mortality 5 (4.7%)Decompensation 9 (8.5%)",
+        "HVPG",
+        "10 mmHg",
+        "29",
+        "96",
+        "0.71"
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "LSM",
+        "22 kPa",
+        "43",
+        "93",
+        "0.81"
+      ],
+      [
+        "Procopet et al.126",
+        "TE-LSM",
+        "HCC",
+        "51 (27 with both HVPG and LSM)",
+        "3 (endpoint)",
+        "Decompensation after hepatectomy: ascites, VB, HE, jaundice, and AKI",
+        "15 (29%)b",
+        "HVPG",
+        "—",
+        "—",
+        "—",
+        "0.88"
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "LSM",
+        "—",
+        "—",
+        "—",
+        "0.81"
+      ]
+    ],
+    "row_count": 21,
+    "column_count": 1
+  }
+]

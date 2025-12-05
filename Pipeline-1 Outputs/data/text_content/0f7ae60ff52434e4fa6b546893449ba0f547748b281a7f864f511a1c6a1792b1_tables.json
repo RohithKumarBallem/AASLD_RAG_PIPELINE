@@ -1,0 +1,907 @@
+[
+  {
+    "table_index": 1,
+    "headers": [],
+    "rows": [
+      [
+        "End Note"
+      ],
+      [
+        "Procite"
+      ],
+      [
+        "Reference Manager"
+      ]
+    ],
+    "row_count": 3,
+    "column_count": 1
+  },
+  {
+    "table_index": 2,
+    "headers": [],
+    "rows": [
+      [
+        "Hepatic",
+        "• Asymptomatic hepatomegaly• Isolated splenomegaly• Persistently elevated serum aminotransferase activity (AST, ALT)• Fatty liver• Acute hepatitis, varying severity including acute liver injury (ALI)• Resembling autoimmune hepatitis• Cirrhosis—compensated or decompensated• Acute liver failure"
+      ],
+      [
+        "Neurological",
+        "• Dysarthria• Movement disorders (tremor, involuntary movements)• Pseudobulbar palsy• Drooling, transfer dysphagia• Rigid dystonia• Dysautonomia• Seizures• Sleep disorders, insomnia"
+      ],
+      [
+        "Psychiatric",
+        "• Depression• Bipolar disorder/bipolar spectrum• Neurotic behaviors• Personality changes• Psychosis"
+      ],
+      [
+        "Other systems",
+        "• Eye: Kayser–Fleischer rings, sunflower cataracts• Renal abnormalities: aminoaciduria and nephrolithiasis• Skeletal abnormalities: premature osteoporosis and arthritis• Cardiomyopathy, dysrhythmias• Pancreatitis• Hypoparathyroidism• Infertility, repeated miscarriages"
+      ]
+    ],
+    "row_count": 4,
+    "column_count": 2
+  },
+  {
+    "table_index": 3,
+    "headers": [
+      "Neurological manifestations at onset",
+      "% of patients",
+      "Treatments"
+    ],
+    "rows": [
+      [
+        "Dysarthria",
+        "46–97",
+        "Speech therapy"
+      ],
+      [
+        "Gait abnormality/ataxia/cerebellar",
+        "28–75",
+        "Physical therapy, assistive device"
+      ],
+      [
+        "Dystonia",
+        "38–69",
+        "Trihexyphenidyl, botulinum toxin (for focal symptoms), clonazepam"
+      ],
+      [
+        "Parkinsonism",
+        "12–58",
+        "Carbidopa/levodopa, dopamine agonist"
+      ],
+      [
+        "Postural tremor",
+        "55",
+        "Primidone, propranolol, clonazepam"
+      ],
+      [
+        "Dysphagia",
+        "50",
+        "Swallow therapy, thickeners"
+      ],
+      [
+        "Chorea/athetosis",
+        "6–30",
+        "Neuroleptics, VMAT2 inhibitors"
+      ],
+      [
+        "Seizures",
+        "6–28",
+        "Anticonvulsants"
+      ],
+      [
+        "Rest tremor",
+        "4",
+        "Carbidopa/levodopa, dopamine agonist"
+      ]
+    ],
+    "row_count": 9,
+    "column_count": 3
+  },
+  {
+    "table_index": 4,
+    "headers": [],
+    "rows": [
+      [
+        "Nonselective renal protein loss"
+      ],
+      [
+        "Protein‐losing enteropathy"
+      ],
+      [
+        "Severe chronic liver disease with global hepatic synthetic deficit"
+      ],
+      [
+        "Neurological disorders (cervical dystonia)"
+      ],
+      [
+        "Absolute copper deficiency"
+      ],
+      [
+        "Improper formulation of TPN omitting copper"
+      ],
+      [
+        "After gastric or bariatric surgery"
+      ],
+      [
+        "Chronic Ingestion of zinc in excess"
+      ],
+      [
+        "Menkes disease"
+      ],
+      [
+        "Aceruloplasminemia"
+      ],
+      [
+        "MEDNIK syndrome (AP1S1disorder)"
+      ],
+      [
+        "AP1B1disorder"
+      ],
+      [
+        "Congenital glycosylation disorder"
+      ],
+      [
+        "PGM1‐CDG"
+      ],
+      [
+        "CCDC115‐CGD"
+      ],
+      [
+        "TMEM119‐CDG"
+      ],
+      [
+        "Niemann‐Pick type C"
+      ]
+    ],
+    "row_count": 17,
+    "column_count": 1
+  },
+  {
+    "table_index": 5,
+    "headers": [
+      "",
+      "URL",
+      "Comments"
+    ],
+    "rows": [
+      [
+        "Public domain databases"
+      ],
+      [
+        "ClinVar",
+        "https://www.ncbi.nlm.nih.gov/clinvar/",
+        "National Center for Biotechnology Information (NCBI)"
+      ],
+      [
+        "gnomAD",
+        "https://gnomad.broadinstitute.org/",
+        ""
+      ],
+      [
+        "VarSome",
+        "https://landing.varsome.com/varsome‐clinical",
+        ""
+      ],
+      [
+        "Proprietary databases"
+      ],
+      [
+        "Human Gene Mutation Database",
+        "http://www.hgmd.org",
+        "University of Cardiff433"
+      ],
+      [
+        "WilsonGen",
+        "https://clingen.igib.res.in/WilsonGen/",
+        "CSIR Institute of Genomics and Integrative Biology, Delhi434"
+      ],
+      [
+        "University of Alberta Wilson Disease Mutation Database",
+        "(Previously)www.medgen.med.ualberta.ca/database.html",
+        "Limited or no access at the present time435"
+      ]
+    ],
+    "row_count": 8,
+    "column_count": 3
+  },
+  {
+    "table_index": 6,
+    "headers": [
+      "Disorder",
+      "Gene",
+      "Serum ceruloplasmin",
+      "Hepatic Cu",
+      "24‐h basal urinary Cu",
+      "Possible mechanism(s)",
+      "Typea"
+    ],
+    "rows": [
+      [
+        "Aceruloplasminemia",
+        "CP",
+        "Absent",
+        "Normal; ↑Fe",
+        "Normal",
+        "No production of ceruloplasmin",
+        "Clinical"
+      ],
+      [
+        "MDR3 deficiency",
+        "ABCB4",
+        "Normal",
+        "↑",
+        "May be ↑",
+        "Copper retention due to cholestasis",
+        "Clinical"
+      ],
+      [
+        "MEDNIK syndromeb",
+        "AP1S1",
+        "Very low",
+        "May be ↑",
+        "↑ (2.5 μmol /24 h)",
+        "Protein production + metal (Cu) excretion abnormality",
+        "Mechanistic"
+      ],
+      [
+        "Mn retention–1c",
+        "SLC30A10",
+        "Normal",
+        "Slightly ↑",
+        "??",
+        "Hepatic Mn excretion abnormality",
+        "Mechanistic"
+      ],
+      [
+        "Mn retention–2c",
+        "SLC39A14",
+        "Not reported",
+        "Hepatic Mn uptake abnormality",
+        "Mechanistic"
+      ],
+      [
+        "Nieman–Pick type Cd",
+        "NPC1,NPC2",
+        "Low or slightly low",
+        "Mildly ↑ (between 100 and 250 μg/g dry weight)",
+        "Normal",
+        "Defective interaction with ATP7B",
+        "Mechanistic"
+      ],
+      [
+        "PGM1‐CDG",
+        "PGM1",
+        "Low",
+        "Mildly ↑ (between 50 and 250 μg/g dry weight)",
+        "Normal",
+        "(Golgi dysfunction)",
+        "Clinical, mechanistic"
+      ],
+      [
+        "CCDC115‐CGDe",
+        "CCDC115",
+        "Low or very low",
+        "Slightly ↑",
+        "Normal or mildly ↑",
+        "Abnormality in protein production pathway affecting ATP7B function (Golgi dysfunction)",
+        "Clinical, mechanistic"
+      ],
+      [
+        "TMEM119‐CDGe",
+        "TMEM199",
+        "Low",
+        "Not reported",
+        "Normal or mildly ↑",
+        "(Golgi dysfunction)",
+        "Clinical, mechanistic"
+      ]
+    ],
+    "row_count": 9,
+    "column_count": 7
+  },
+  {
+    "table_index": 7,
+    "headers": [
+      "Type of problem",
+      "Specific issues",
+      "Action"
+    ],
+    "rows": [
+      [
+        "Accuracy of laboratory data",
+        "Serum ceruloplasmin—known confounders",
+        "See"
+      ],
+      [
+        "24‐h urinary copper—incomplete collection or contamination",
+        "• Confirm technical adequacy of assay• Check creatinine level• Repeat testing"
+      ],
+      [
+        "Liver [Cu]—was specimen large enough? Stored properly?",
+        "Check report and/or discuss with pathologist"
+      ],
+      [
+        "Competence/completeness of genetic analysis",
+        "• Review protocols• Consult clinical geneticist• Confirm trans (not cis) mutations"
+      ],
+      [
+        "Adequacy of clinical assessment",
+        "Neurological assessment",
+        "• Expert review for specifying relevant findings• Brain MRI"
+      ],
+      [
+        "Kayser–Fleischer rings",
+        "Repeat exam or optical tomography to determine whether present or not"
+      ],
+      [
+        "Psychiatric assessment (only implied in algorithms)",
+        "Expert consultation/review"
+      ],
+      [
+        "Data available but not accounted for in algorithms",
+        "Liver biochemistries",
+        "• Normal LFTs would likely preclude a liver biopsy• Abnormal LFTs support WD or some other liver disorder: biopsy may be performed"
+      ],
+      [
+        "Liver histology",
+        "• Findings may support WD or provide basis for alternative diagnosis• Consider examining ultrastructure (by EM) because findings may support WD, notably in children"
+      ],
+      [
+        "Emerging problems not well accounted for in algorithms",
+        "Hepatic Cu <250 μg/g dry weight but above suggested revisions of that threshold (e.g., >75 μg/g dry weight) and well above normal",
+        "• Reevaluate, with genetic analysis if not yet performed• Treatment trial"
+      ],
+      [
+        "Only one mutation found, but along with a VUS",
+        "• Repeat clinical/biochemical evaluation in 6–12 months or until clear diagnosis is reached• In silico assessment of VUS"
+      ],
+      [
+        "Screening reveals affected infant/toddler who is entirely healthy",
+        "Reevaluate every 6 months: plan to start treatment at 3 years‐old unless earlier evidence of organ damage"
+      ]
+    ],
+    "row_count": 12,
+    "column_count": 3
+  },
+  {
+    "table_index": 8,
+    "headers": [
+      "Parameters",
+      "Points"
+    ],
+    "rows": [
+      [
+        "Specific clinical features",
+        ""
+      ],
+      [
+        "Kayser–Fleischer rings (by slit‐lamp examination)",
+        ""
+      ],
+      [
+        "Present",
+        "2"
+      ],
+      [
+        "Absent",
+        "0"
+      ],
+      [
+        "Neuropsychiatric symptoms suggestive of WD (or typical features on brain MRIa)",
+        ""
+      ],
+      [
+        "Present",
+        "2"
+      ],
+      [
+        "Absent",
+        "0"
+      ],
+      [
+        "Coombs‐negative (nonimmune) hemolytic anemia (plus high serum copper)",
+        ""
+      ],
+      [
+        "Present",
+        "1"
+      ],
+      [
+        "Absent",
+        "0"
+      ],
+      [
+        "Laboratory tests",
+        ""
+      ],
+      [
+        "24‐h urinary copper excretion (in the absence of acute hepatitis)—ULN modifiedb",
+        ""
+      ],
+      [
+        "Normal",
+        "0"
+      ],
+      [
+        "1–2× ULN",
+        "1"
+      ],
+      [
+        ">2× ULN",
+        "2"
+      ],
+      [
+        "Normal but >500 μg/day 1 day after challenge with 2× 500 mgd‐penicillamine (see notec)",
+        "2"
+      ],
+      [
+        "Liver copper quantitatived",
+        ""
+      ],
+      [
+        "Normal (ULN = 50 μg/g dry weight)",
+        "–1"
+      ],
+      [
+        "Up to 5× ULN",
+        "1"
+      ],
+      [
+        ">5× ULN",
+        "2"
+      ],
+      [
+        "Rhodanine‐positive hepatocytes (only if quantitative copper measurement not available)",
+        ""
+      ],
+      [
+        "Absent",
+        "0"
+      ],
+      [
+        "Present",
+        "1"
+      ],
+      [
+        "Serum ceruloplasmin (nephelometric assay, LLN = 20 mg/dle)",
+        ""
+      ],
+      [
+        "Normal",
+        "0"
+      ],
+      [
+        "10–20",
+        "1"
+      ],
+      [
+        "<10",
+        "2"
+      ],
+      [
+        "Mutation analysis (ATP7B)",
+        ""
+      ],
+      [
+        "Disease‐causing mutations on both chromosomes",
+        "4"
+      ],
+      [
+        "Disease‐causing mutation on one chromosome",
+        "1"
+      ],
+      [
+        "No disease‐causing mutation detected",
+        "0"
+      ],
+      [
+        "Total score (not available: scores 0)",
+        ""
+      ],
+      [
+        "Assessment of the WD‐diagnosis scoref"
+      ],
+      [
+        "4 or more: Diagnosis of Wilson disease highly likely"
+      ],
+      [
+        "2–3: Diagnosis of Wilson disease probable, do more investigations"
+      ],
+      [
+        "0–1: Diagnosis of Wilson disease unlikely"
+      ]
+    ],
+    "row_count": 36,
+    "column_count": 2
+  },
+  {
+    "table_index": 9,
+    "headers": [
+      "Points assigned",
+      "0",
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "rows": [
+      [
+        "Bilirubin, mg/dl (μmol/L)",
+        "0–5.8 (0‐100)",
+        "5.9–8.7 (101‐150)",
+        "8.8–11.7 (151‐200)",
+        "11.8–17.5 (201‐300)",
+        ">17.5 (>300)"
+      ],
+      [
+        "INR",
+        "0–1.29",
+        "1.3–1.6",
+        "1.7–1.9",
+        "2.0–2.4",
+        "≥2.5"
+      ],
+      [
+        "AST, IU/L",
+        "0–100",
+        "101–150",
+        "151–200",
+        "201–300",
+        ">300"
+      ],
+      [
+        "WBC (×106/ml)",
+        "0–6.7",
+        "6.8–8.3",
+        "8.4–10.3",
+        "10.4–15.3",
+        "≥15.4"
+      ],
+      [
+        "Albumin, mg/dl",
+        ">4.5",
+        "3.4–4.4",
+        "2.5–3.3",
+        "2.1–2.4",
+        "≤2.0"
+      ]
+    ],
+    "row_count": 5,
+    "column_count": 6
+  },
+  {
+    "table_index": 10,
+    "headers": [
+      "Drug",
+      "Mode of action",
+      "Neurological worsening",
+      "Side effects",
+      "Comments"
+    ],
+    "rows": [
+      [
+        "D‐Penicillamine",
+        "General chelator induces renal excretion of copper",
+        "10%–20% during initial phase of treatment",
+        "• Fever, rash, proteinuria, lupus‐like reaction• Aplastic anemia• Leukopenia• Thrombocytopenia• Nephrotic syndrome• Degenerative changes in skin• Elastosis perforans serpiginosa• Serous retinitis• Hepatotoxicity• Colitis",
+        "Reduce dose for surgery to promote wound‐healing and during pregnancy"
+      ],
+      [
+        "Trientine",
+        "General chelator induces renal excretion of copper",
+        "10%–15% during initial phase of treatment",
+        "• Gastritis• Aplastic anemia rare• Sideroblastic anemia• Colitis",
+        "Reduce dose for surgery to promote wound‐healing and during pregnancy"
+      ],
+      [
+        "Zinc",
+        "Metallothionein inducer, blocks intestinal copper absorption",
+        "Can occur during initial phase of treatment",
+        "• Gastritis• Biochemical pancreatitis• Zinc accumulation• Possible changes in immune function",
+        "No dosage reduction for surgery or pregnancy"
+      ]
+    ],
+    "row_count": 3,
+    "column_count": 5
+  },
+  {
+    "table_index": 11,
+    "headers": [
+      "",
+      "Treatment initiationa",
+      "Maintenance treatment",
+      "Overtreatment",
+      "Treatment failure on chronic therapy (nonadherence; drug failure)"
+    ],
+    "rows": [
+      [
+        "D‐Penicillamine",
+        "Increases",
+        "~200–500 (≈3–8 μmol/24 h)",
+        "5–15",
+        "Trend to normalb",
+        "↓",
+        "<100",
+        "<5",
+        "↓↓CPN, ↓↓Cu; sideroblastic anemia; ↓WBC; ↑Fe indices",
+        ">500 (previously in range)c",
+        ">15",
+        "↑"
+      ],
+      [
+        "Trientine",
+        "Increases",
+        "~150–500 (≈2.4–8 μmol/24 h)",
+        "5–15",
+        "Trend to normalb",
+        "↓",
+        "<100",
+        "<5",
+        "↓↓CPN, ↓↓Cu; sideroblastic anemia; ↓WBC; ↑Fe indices;",
+        ">500 (previously in range)c",
+        ">15",
+        "↑"
+      ],
+      [
+        "Zinc",
+        "No change, then ↓",
+        "<100 (<1.6 μmol/24 h)",
+        "5–15",
+        "Trend to normalb",
+        "↓",
+        "<20",
+        "<5",
+        "↓↓CPN, ↓↓Cu; sideroblastic anemia; ↓WBC; ↑Fe indices;",
+        ">100 (previously normal/near‐normal)",
+        ">15",
+        "↑"
+      ]
+    ],
+    "row_count": 3,
+    "column_count": 5
+  },
+  {
+    "table_index": 12,
+    "headers": [
+      "First author, year of publication",
+      "Place",
+      "Time period",
+      "n",
+      "Population",
+      "Indication",
+      "Follow‐up, years",
+      "Patient survival, %",
+      "Graft survival, %"
+    ],
+    "rows": [
+      [
+        "Schilsky et al., 1994237",
+        "USA",
+        "–",
+        "55 (62 LT)",
+        "–",
+        "–",
+        "33",
+        "21",
+        "1",
+        "2.5",
+        "79",
+        "–",
+        "–",
+        "–"
+      ],
+      [
+        "Eghtesad et al., 1999375",
+        "USA",
+        "1971–1993",
+        "45 (56 LT)",
+        "26",
+        "16",
+        "15",
+        "30",
+        "0",
+        "5",
+        "–",
+        "73",
+        "69",
+        "–",
+        "58",
+        "54"
+      ],
+      [
+        "Emre et al., 200172",
+        "USA",
+        "1988–2000",
+        "17 (21 LT)",
+        "14",
+        "3",
+        "6",
+        "11",
+        "0",
+        "5.3",
+        "88",
+        "–",
+        "–",
+        "62",
+        "–",
+        "–"
+      ],
+      [
+        "Sutcliffe et al., 2003438",
+        "UK",
+        "1988–2000",
+        "24 (25 LT)",
+        "–",
+        "–",
+        "–",
+        "8",
+        "–",
+        "87",
+        "–",
+        "–",
+        "87",
+        "–"
+      ],
+      [
+        "Wang et al., 2005388",
+        "",
+        "2001–2003",
+        "22",
+        "3",
+        "19",
+        "20",
+        "2",
+        "9",
+        "1.5",
+        "95",
+        "–",
+        "–",
+        "95",
+        "–",
+        "–"
+      ],
+      [
+        "Medici et al., 2005378",
+        "Italy",
+        "1985–2000",
+        "37 (41 LT)",
+        "–",
+        "–",
+        "8",
+        "29",
+        "0",
+        "–",
+        "–",
+        "75",
+        "60",
+        "–",
+        "70",
+        "47"
+      ],
+      [
+        "Sevmis et al., 2008439",
+        "",
+        "2001–2007",
+        "24 (24 LT)",
+        "–",
+        "–",
+        "16",
+        "18",
+        "0",
+        "1.8",
+        "–",
+        "79",
+        "–",
+        "–",
+        "76",
+        "–"
+      ],
+      [
+        "Cheng et al., 2009440",
+        "China",
+        "2001–2007",
+        "36 (36 LRLT)",
+        "–",
+        "–",
+        "32",
+        "2",
+        "2",
+        "3.7",
+        "–",
+        "75",
+        "–",
+        "–",
+        "75",
+        "–"
+      ],
+      [
+        "Yoshitoshi et al., 2009441",
+        "Japan",
+        "1992–2006",
+        "32 (32 LRLT)",
+        "8",
+        "24",
+        "11",
+        "21",
+        "0",
+        "6.7",
+        "–",
+        "84",
+        "80",
+        "–",
+        "88a",
+        "83a"
+      ],
+      [
+        "Arnon et al. (UNOS), 2011371",
+        "USA",
+        "1987–2008",
+        "570 (n/a)",
+        "400",
+        "170",
+        "–",
+        "–",
+        "–",
+        "89, ch86, ad",
+        "–",
+        "–"
+      ],
+      [
+        "Arnon et al. (UNOS), 2011371",
+        "USA",
+        "2002–2008",
+        "170 (n/a)",
+        "119",
+        "51",
+        "67",
+        "103",
+        "0",
+        "–",
+        "–",
+        "100/88b, ch90/90b, ad",
+        "",
+        "–",
+        "100/82b, ch86/86b, ad",
+        ""
+      ],
+      [
+        "Guillaud et al., 2014390",
+        "France",
+        "1985–2009",
+        "121 (140 LT)",
+        "75",
+        "46",
+        "55",
+        "59",
+        "7",
+        "6",
+        "–",
+        "87",
+        "87",
+        "–",
+        "80",
+        "79"
+      ],
+      [
+        "Ferrarese et al., 2020442",
+        "Italy",
+        "2006–2016",
+        "27 (27 LT)",
+        "27",
+        "0",
+        "24",
+        "1",
+        "2",
+        "–",
+        "–",
+        "88",
+        "83",
+        "–",
+        "88",
+        "82"
+      ]
+    ],
+    "row_count": 13,
+    "column_count": 9
+  }
+]
