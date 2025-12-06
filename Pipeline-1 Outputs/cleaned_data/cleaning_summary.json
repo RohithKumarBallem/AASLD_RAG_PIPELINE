@@ -1,0 +1,399 @@
+{
+  "cleaning_date": "2025-11-11T17:31:04.640989",
+  "statistics": {
+    "total_files": 48,
+    "successful": 48,
+    "failed": 0,
+    "html_files": 44,
+    "pdf_files": 4,
+    "total_recommendations": 0,
+    "total_clinical_values": 10340,
+    "total_words": 11006847
+  },
+  "files": [
+    {
+      "file_id": "0550de0db30051568c6588fc5982cc974167d2a7209d0e68a49d46c426133b6f",
+      "title": "AASLD Practice Guideline on blood-based noninvasive liver disease assessment of hepatic fibrosis and steatosis",
+      "type": "html",
+      "url": "https://journals.lww.com/hep/citation/9900/aasld_practice_guideline_on_blood_based.810.aspx",
+      "recommendations_count": 0,
+      "clinical_values_count": 72
+    },
+    {
+      "file_id": "09d21214154c335fd11d8a5d6e071762461c07249486b6473b4a5e03a5e83253",
+      "title": "Diagnosis and Management of Autoimmune Hepatitis in Adults and Children: A Patient‐Friendly Summary of the 2019 AASLD Guidelines",
+      "type": "html",
+      "url": "https://journals.lww.com/cld/Fulltext/2021/02000/Diagnosis_and_Management_of_Autoimmune_Hepatitis.9.aspx",
+      "recommendations_count": 0,
+      "clinical_values_count": 0
+    },
+    {
+      "file_id": "0f7ae60ff52434e4fa6b546893449ba0f547748b281a7f864f511a1c6a1792b1",
+      "title": "A multidisciplinary approach to the diagnosis and management of Wilson disease: 2022 Practice Guidance on Wilson disease from the American Association for the Study of Liver Diseases",
+      "type": "html",
+      "url": "https://journals.lww.com/hep/Citation/9900/A_multidisciplinary_approach_to_the_diagnosis_and.207.aspx",
+      "recommendations_count": 0,
+      "clinical_values_count": 1109
+    },
+    {
+      "file_id": "1a4a810ae5257a66c8afbc16350bf4e375ee4aab0ad1e97a0eeebcfd1bed4934",
+      "title": "AASLD Practice Guideline on noninvasive liver disease assessment of portal hypertension",
+      "type": "html",
+      "url": "https://journals.lww.com/hep/citation/9900/aasld_practice_guideline_on_non_invasive_liver.806.aspx",
+      "recommendations_count": 0,
+      "clinical_values_count": 57
+    },
+    {
+      "file_id": "20b01d1df137c13a7596b23df54ee3ff69fd75daff081b99f670696761323515",
+      "title": "Diagnosis, Evaluation, and Management of Ascites, Spontaneous Bacterial Peritonitis and Hepatorenal Syndrome: 2021 Practice Guidance by the American Association for the Study of Liver Diseases",
+      "type": "html",
+      "url": "https://journals.lww.com/hep/fulltext/2021/08000/diagnosis,_evaluation,_and_management_of_ascites,.38.aspx",
+      "recommendations_count": 0,
+      "clinical_values_count": 1274
+    },
+    {
+      "file_id": "241d01eb3a55b549889d39cf3d0e3a49cb4019c7a2e9f24587aa4e56488213ed",
+      "title": "CHB%20Educational%20Slide%20Set%20Final%202",
+      "type": "pdf",
+      "url": "https://www.aasld.org/sites/default/files/2025-11/CHB%20Educational%20Slide%20Set%20Final%202.pdf",
+      "recommendations_count": 0,
+      "clinical_values_count": 0
+    },
+    {
+      "file_id": "2bd7efdad31837440d3894321b89f0151e01e949a5a58acf849637900e9255de",
+      "title": "Technical systematic review supporting 2025 AASLD Practice Guidelines on management of chronic hepatitis B",
+      "type": "html",
+      "url": "https://journals.lww.com/10.1097/HEP.0000000000001584",
+      "recommendations_count": 0,
+      "clinical_values_count": 0
+    },
+    {
+      "file_id": "325bef98ce4312e380a7ccd452a3a33863ecc341864dc68fdf8cbe79215c5211",
+      "title": "Long-term medical management of the pediatric patient after liver transplantation: 2013 practice guideline by the American Association for the Study of Liver Diseases and the American Society of Transplantation",
+      "type": "html",
+      "url": "https://journals.lww.com/lt/Citation/2013/08000/Long_term_medical_management_of_the_pediatric.4.aspx",
+      "recommendations_count": 0,
+      "clinical_values_count": 0
+    },
+    {
+      "file_id": "342e0823b9fbf9d0f3c568dac7b94a0fc8d1932fe6f6350ef75ea0d07f9a6afc",
+      "title": "Malnutrition, Frailty, and Sarcopenia in Patients With Cirrhosis: 2021 Practice Guidance by the American Association for the Study of Liver Diseases",
+      "type": "html",
+      "url": "https://journals.lww.com/hep/fulltext/2021/09000/malnutrition,_frailty,_and_sarcopenia_in_patients.38.aspx",
+      "recommendations_count": 0,
+      "clinical_values_count": 424
+    },
+    {
+      "file_id": "34cca69e3eb1387d62b9869dcee29a5df42f81ac542b05167cf3a4d24568e3a8",
+      "title": "Primary biliary cholangitis: 2021 practice guidance update from the American Association for the Study of Liver Diseases",
+      "type": "html",
+      "url": "https://journals.lww.com/hep/fulltext/2022/04000/primary_biliary_cholangitis__2021_practice.24.aspx",
+      "recommendations_count": 0,
+      "clinical_values_count": 0
+    },
+    {
+      "file_id": "39e28350f34db56417480eb4b76ef6f7bcaf1fc925cbfd00cd7cb412927ffe07",
+      "title": "TCPOBOP‐Induced Hepatomegaly and Hepatocyte Proliferation are Attenuated by Combined Disruption of MET and EGFR Signaling",
+      "type": "html",
+      "url": "https://journals.lww.com/hep/Abstract/2019/04000/Development_of_Quality_Measures_in_Cirrhosis_by.34.aspx ",
+      "recommendations_count": 0,
+      "clinical_values_count": 0
+    },
+    {
+      "file_id": "39fcf494f30e4ae708b07d61e4d83a61872cf69ffc1b27d9f3da911f2e4cf829",
+      "title": "Quality measures in HCC care by the Practice Metrics Committee of the American Association for the Study of Liver Diseases",
+      "type": "html",
+      "url": "https://journals.lww.com/hep/abstract/2022/05000/quality_measures_in_hcc_care_by_the_practice.25.aspx",
+      "recommendations_count": 0,
+      "clinical_values_count": 0
+    },
+    {
+      "file_id": "46353007a8ad295d808056ce27e9c2fcc4f810bd76b9865e05e1b109e36d0c53",
+      "title": "Vascular Liver Disorders, Portal Vein Thrombosis, and Procedural Bleeding in Patients With Liver Disease: 2020 Practice Guidance by the American Association for the Study of Liver Diseases",
+      "type": "html",
+      "url": "https://journals.lww.com/hep/Citation/2021/01000/Vascular_Liver_Disorders,_Portal_Vein_Thrombosis,.26.aspx",
+      "recommendations_count": 0,
+      "clinical_values_count": 531
+    },
+    {
+      "file_id": "48e73042939fbe33e1922c38acd22209248fbcf25ec37c955a2eec6f83f819ab",
+      "title": "AASLD Practice Guidance on the use of TIPS, variceal embolization, and retrograde transvenous obliteration in the management of variceal hemorrhage",
+      "type": "html",
+      "url": "https://journals.lww.com/hep/fulltext/2024/01000/aasld_practice_guidance_on_the_use_of_tips,.23.aspx",
+      "recommendations_count": 0,
+      "clinical_values_count": 17
+    },
+    {
+      "file_id": "4db8334122165a08729048d9b5d4007d5187adf45132ec8991f2839b290af20b",
+      "title": "A multidisciplinary approach to the diagnosis and management of Wilson disease: Executive summary of the 2022 Practice Guidance on Wilson disease from the American Association for the Study of Liver Diseases",
+      "type": "html",
+      "url": "https://journals.lww.com/hep/Citation/9900/A_multidisciplinary_approach_to_the_diagnosis_and.208.aspx",
+      "recommendations_count": 0,
+      "clinical_values_count": 684
+    },
+    {
+      "file_id": "4ef184c440e3dab4753554bfae18726a4dcf556e9b773aa9b81caa43a887d3f8",
+      "title": "Diagnosis and Treatment of Primary Biliary Cholangitis: A Patient‐Friendly Summary of the 2018 AASLD Practice Guidance",
+      "type": "html",
+      "url": "https://journals.lww.com/cld/Fulltext/2021/11000/Diagnosis_and_Treatment_of_Primary_Biliary.8.aspx",
+      "recommendations_count": 0,
+      "clinical_values_count": 119
+    },
+    {
+      "file_id": "6007a355df5eef3b7dd4861b368e76389c9188e140eea1dcce5bf3535eca037e",
+      "title": "Hepatic encephalopathy in chronic liver disease: 2014 Practice Guideline by the American Association for the Study Of Liver Diseases and the European Association for the Study of the Liver",
+      "type": "html",
+      "url": "https://journals.lww.com/hep/Fulltext/2014/08000/Hepatic_encephalopathy_in_chronic_liver_disease_.30.aspx ",
+      "recommendations_count": 0,
+      "clinical_values_count": 0
+    },
+    {
+      "file_id": "69b9558bfdd12b626bcd8e4b8def7945ffb6af6f70fb86fb523f0a9747a033dd",
+      "title": "Diagnosis and Treatment of Alcohol‐Associated Liver Disease: A Patient‐Friendly Summary of the 2019 AASLD Guidelines",
+      "type": "html",
+      "url": "https://journals.lww.com/cld/Fulltext/2021/06000/Diagnosis_and_Treatment_of_Alcohol_Associated.9.aspx",
+      "recommendations_count": 0,
+      "clinical_values_count": 3
+    },
+    {
+      "file_id": "6bb3dfe7dde28a0380577bcdc9c7e7db9c85f6ea25fd50c3cee55a0f8ac60aee",
+      "title": "AASLD AST Practice Guideline on Adult Liver Transplantation: Diagnosis and management of Graft-Related complications",
+      "type": "html",
+      "url": "https://journals.lww.com/lt/abstract/9900/aasld_ast_practice_guideline_on_adult_liver.696.aspx",
+      "recommendations_count": 0,
+      "clinical_values_count": 0
+    },
+    {
+      "file_id": "7965e4f8475a50c6c4de13782cabbe624ae545f4d97cb05ce6cb79180d681d61",
+      "title": "Evaluation of the Pediatric Patient for Liver Transplantation: 2014 Practice Guideline by the American Association for the Study of Liver Diseases, American Society of Transplantation and the North American Society for Pediatric Gastroenterology, Hepatology and Nutrition",
+      "type": "html",
+      "url": "https://journals.lww.com/hep/Fulltext/2014/07000/Evaluation_of_the_Pediatric_Patient_for_Liver.40.aspx",
+      "recommendations_count": 0,
+      "clinical_values_count": 255
+    },
+    {
+      "file_id": "7ce5b84f1e00d143acfe395c071d282fd0dd722506c0913c7773128116b4f4a6",
+      "title": "Long-term management of the successful adult liver transplant: 2012 practice guideline by the American Association for the Study of Liver Diseases and the American Society of Transplantation",
+      "type": "html",
+      "url": "https://journals.lww.com/lt/citation/2013/01000/long_term_management_of_the_successful_adult_liver.2.aspx",
+      "recommendations_count": 0,
+      "clinical_values_count": 0
+    },
+    {
+      "file_id": "7f91063166ce47580c38a37cbfc03b9adb29f0afe0628fa888dbb647bf982631",
+      "title": "AASLD Practice Guidance on Acute-on-chronic liver failure and the management of critically ill patients with cirrhosis",
+      "type": "html",
+      "url": "https://journals.lww.com/hep/citation/9900/aasld_practice_guidance_on_acute_on_chronic_liver.640.aspx",
+      "recommendations_count": 0,
+      "clinical_values_count": 762
+    },
+    {
+      "file_id": "7ffece07fcb3e2eb3fa689238d2f2849b1f4ab02d7855b2861afd26b4740007f",
+      "title": "Diagnosis and Management of Hepatocellular Carcinoma",
+      "type": "html",
+      "url": "https://journals.lww.com/hep/citation/9900/diagnosis_and_management_of_hepatocellular.954.aspx",
+      "recommendations_count": 0,
+      "clinical_values_count": 0
+    },
+    {
+      "file_id": "8632c9df35f348e4b14e9c64e4ce0072f137c3de29387468588b5bb0df5e1def",
+      "title": "Introduction to the revised American Association for the Study of Liver Diseases position paper on acute liver failure 2011",
+      "type": "html",
+      "url": "https://journals.lww.com/hep/Fulltext/2012/03000/Introduction_to_the_revised_American_Association.32.aspx",
+      "recommendations_count": 0,
+      "clinical_values_count": 0
+    },
+    {
+      "file_id": "92867afd9e74407a70ba740747ccb5f59d04b7d4d749a299ecfe43500a3987ce",
+      "title": "Diagnosis and management of hemochromatosis: 2011 Practice Guideline by the American Association for the Study of Liver Diseases",
+      "type": "html",
+      "url": "https://journals.lww.com/hep/Fulltext/2011/07000/Diagnosis_and_management_of_hemochromatosis__2011.36.aspx ",
+      "recommendations_count": 0,
+      "clinical_values_count": 0
+    },
+    {
+      "file_id": "92c722c98c27b38c58e94dad15f2b25477c275e5ed15e0ba87684ed25a3faef2",
+      "title": "Errata Acute Liver Failure2011",
+      "type": "pdf",
+      "url": "https://www.aasld.org/sites/default/files/2022-07/ErrataAcuteLiverFailure2011.pdf",
+      "recommendations_count": 0,
+      "clinical_values_count": 0
+    },
+    {
+      "file_id": "981243fa95401e7d3df08cc66072a86cd4ba0ecd07f5c7cdc13e5c17d61bf2ef",
+      "title": "Hepatology",
+      "type": "html",
+      "url": "https://journals.lww.com/hep/fulltext/2022/09000/aasld_practice_guidance__palliative_care_and.28.aspx",
+      "recommendations_count": 0,
+      "clinical_values_count": 0
+    },
+    {
+      "file_id": "9924f8ea161cc675a5f780c5bf14794c654b81f6dca28ef3237ff8ba76e89709",
+      "title": "Diagnosis and Treatment of Alcohol‐Associated Liver Diseases: 2019 Practice Guidance From the American Association for the Study of Liver Diseases",
+      "type": "html",
+      "url": "https://journals.lww.com/hep/Citation/2020/01000/Diagnosis_and_Treatment_of_Alcohol_Associated.25.aspx ",
+      "recommendations_count": 0,
+      "clinical_values_count": 182
+    },
+    {
+      "file_id": "9a5307992b2d2fca31d00d495fbde0fe0f39d470336319fc3883a79414acc8e3",
+      "title": "Critical Update: AASLD Practice Guidance on prevention, diagnosis, and treatment of hepatocellular carcinoma",
+      "type": "html",
+      "url": "https://journals.lww.com/hep/citation/9900/critical_update__aasld_practice_guidance_on.1176.aspx",
+      "recommendations_count": 0,
+      "clinical_values_count": 0
+    },
+    {
+      "file_id": "9c0e979c19f35e0731c90260defaadcd1d8cdf288fdb5bbd2050ab244b86ef69",
+      "title": "Accuracy of blood-based biomarkers for staging liver fibrosis in chronic liver disease: A systematic review supporting the AASLD Practice Guideline",
+      "type": "html",
+      "url": "https://journals.lww.com/hep/abstract/9900/accuracy_of_blood_based_biomarkers_for_staging.805.aspx",
+      "recommendations_count": 0,
+      "clinical_values_count": 36
+    },
+    {
+      "file_id": "a48dd08110b7ad8f42ae8918320012920f3ff0f4ca36e01824e2989925e1f9b2",
+      "title": "AASLD practice guidance on drug, herbal, and dietary supplement–induced liver injury",
+      "type": "html",
+      "url": "https://journals.lww.com/hep/Citation/9900/AASLD_practice_guidance_on_drug,_herbal,_and.123.aspx",
+      "recommendations_count": 0,
+      "clinical_values_count": 676
+    },
+    {
+      "file_id": "a8418d6c65f306e5d83ec5ec4ac69938a98e576737a7733867802e3097ff3eb7",
+      "title": "PSC%20Partners%20Comment%20on%20the%20Newly%20Published%20AASLD%20Guidance%20for%20Primary%20Sclerosing%20Cholangitis%20pdf",
+      "type": "pdf",
+      "url": "https://www.aasld.org/sites/default/files/2022-09/PSC%20Partners%20Comment%20on%20the%20Newly%20Published%20AASLD%20Guidance%20for%20Primary%20Sclerosing%20Cholangitis%20pdf.pdf",
+      "recommendations_count": 0,
+      "clinical_values_count": 0
+    },
+    {
+      "file_id": "ab475e601e1c33d805c0479009ae68258547cbe4a589b52a46de65a1134dbb8f",
+      "title": "AASLD Practice Guideline on imaging-based noninvasive liver disease assessment of hepatic fibrosis and steatosis",
+      "type": "html",
+      "url": "https://journals.lww.com/hep/citation/9900/aasld_practice_guideline_on_imaging_based.807.aspx",
+      "recommendations_count": 0,
+      "clinical_values_count": 108
+    },
+    {
+      "file_id": "ab954bb62543b132d132383dc23be1d7ad5557df869512eea0781a2a25e209f3",
+      "title": "Imaging-based noninvasive liver disease assessment for staging liver fibrosis in chronic liver disease: A systematic review supporting the AASLD Practice Guideline",
+      "type": "html",
+      "url": "https://journals.lww.com/hep/abstract/9900/imaging_based_non_invasive_liver_disease.808.aspx",
+      "recommendations_count": 0,
+      "clinical_values_count": 0
+    },
+    {
+      "file_id": "b00d98eb84cd3b273ea05e221520fcedc605e84b2546cae6b396d841f0960662",
+      "title": "Primary Biliary Cholangitis: 2018 Practice Guidance from the American Association for the Study of Liver Diseases",
+      "type": "html",
+      "url": "https://journals.lww.com/hep/Fulltext/2019/01000/Primary_Biliary_Cholangitis__2018_Practice.32.aspx ",
+      "recommendations_count": 0,
+      "clinical_values_count": 650
+    },
+    {
+      "file_id": "b3bd71bc2ef1a77b7ed7aff0411f4591e739420321766968af49913a3db20c6a",
+      "title": "Diagnosis and Management of Autoimmune Hepatitis in Adults and Children: 2019 Practice Guidance and Guidelines From the American Association for the Study of Liver Diseases",
+      "type": "html",
+      "url": "https://journals.lww.com/hep/Citation/2020/08000/Diagnosis_and_Management_of_Autoimmune_Hepatitis.24.aspx ",
+      "recommendations_count": 0,
+      "clinical_values_count": 1157
+    },
+    {
+      "file_id": "b6b69d0b891608444e0ede718221cb1af9cf0770282d3148b4f0fae564a09134",
+      "title": "AASLD Practice Guidance on risk stratification and management of portal hypertension and varices in cirrhosis",
+      "type": "html",
+      "url": "https://journals.lww.com/hep/citation/9900/aasld_practice_guidance_on_risk_stratification_and.612.aspx",
+      "recommendations_count": 0,
+      "clinical_values_count": 646
+    },
+    {
+      "file_id": "c2573fac12994767c05b45cb97d76645ae98853d1643dfee98e9be8532cc2162",
+      "title": "Updated AASLD Guidelines for Chronic Hepatitis B Treatment",
+      "type": "html",
+      "url": "https://journals.lww.com/10.1097/HEP.0000000000001607",
+      "recommendations_count": 0,
+      "clinical_values_count": 0
+    },
+    {
+      "file_id": "c8640f15752c40b40a24f4dc1734caa0425c819495e94d3add348f12ac6d5dd4",
+      "title": "AASLD%20PSC%20Guidance%20Supporting%20Statement%209.12.22%20Final",
+      "type": "pdf",
+      "url": "https://www.aasld.org/sites/default/files/2022-09/AASLD%20PSC%20Guidance%20Supporting%20Statement%209.12.22%20Final.pdf",
+      "recommendations_count": 0,
+      "clinical_values_count": 0
+    },
+    {
+      "file_id": "d4b7c4bde201eceda56c2d897d4a6fc797024a83db149d1d4e54fd099d417ccc",
+      "title": "Reproductive Health and Liver Disease: Practice Guidance by the American Association for the Study of Liver Diseases",
+      "type": "html",
+      "url": "https://journals.lww.com/hep/Citation/2021/01000/Reproductive_Health_and_Liver_Disease__Practice.25.aspx",
+      "recommendations_count": 0,
+      "clinical_values_count": 399
+    },
+    {
+      "file_id": "dedbaae96e4582222667a55c1a3e63917ef3d786e15fc348409c48687724fd08",
+      "title": "Liver biopsy†",
+      "type": "html",
+      "url": "https://journals.lww.com/hep/Fulltext/2009/03000/Liver_biopsy_.35.aspx",
+      "recommendations_count": 0,
+      "clinical_values_count": 34
+    },
+    {
+      "file_id": "e5753aca0ee818c85d8c4fe63085fbffc2f26affe908f9730c31ef067c2f389c",
+      "title": "Evaluation for liver transplantation in adults: 2013 practice guideline by the American Association for the Study of Liver Diseases and the American Society of Transplantation",
+      "type": "html",
+      "url": "https://journals.lww.com/hep/Fulltext/2014/03000/Evaluation_for_liver_transplantation_in_adults_.42.aspx",
+      "recommendations_count": 0,
+      "clinical_values_count": 187
+    },
+    {
+      "file_id": "e5bbb7ae5282fb700142dd20a6bb9e92177d98067d2bbb32339930d39ee1d16b",
+      "title": "Commentary - AASLD Practice Guideline on treatment of chronic hepatitis B (2025 Update)",
+      "type": "html",
+      "url": "https://journals.lww.com/10.1097/HEP.0000000000001582",
+      "recommendations_count": 0,
+      "clinical_values_count": 0
+    },
+    {
+      "file_id": "f930334df3875e4642658c36e5d36d09f345f27e102a56eee195d3781a2ac399",
+      "title": "AASLD/IDSA Practice Guideline on treatment of chronic hepatitis B",
+      "type": "html",
+      "url": "https://journals.lww.com/10.1097/HEP.0000000000001549",
+      "recommendations_count": 0,
+      "clinical_values_count": 0
+    },
+    {
+      "file_id": "fb9fbf123bee6360a51014708d2accd84374176fdbf44b1a235ee17ec99fa5ac",
+      "title": "AASLD practice guidance on primary sclerosing cholangitis and cholangiocarcinoma",
+      "type": "html",
+      "url": "https://journals.lww.com/hep/Citation/9900/AASLD_practice_guidance_on_primary_sclerosing.180.aspx  ",
+      "recommendations_count": 0,
+      "clinical_values_count": 924
+    },
+    {
+      "file_id": "fd72dd726db65e37139c56107bed006e0581af87025657e236450e051baedcff",
+      "title": "AASLD Practice Guidance on prevention, diagnosis, and treatment of hepatocellular carcinoma",
+      "type": "html",
+      "url": "https://journals.lww.com/hep/fulltext/2023/12000/aasld_practice_guidance_on_prevention,_diagnosis,.27.aspx",
+      "recommendations_count": 0,
+      "clinical_values_count": 34
+    },
+    {
+      "file_id": "fdb941dbf57c3f0668d49c807fba8b278c8b7040b056921d9833666cdd8816a6",
+      "title": "Noninvasive liver disease assessment to identify portal hypertension: Systematic and narrative reviews supporting the AASLD Practice Guideline",
+      "type": "html",
+      "url": "https://journals.lww.com/hep/abstract/9900/non_invasive_liver_disease_assessment_to_identify.809.aspx",
+      "recommendations_count": 0,
+      "clinical_values_count": 0
+    },
+    {
+      "file_id": "ffbb0f9afc6318f7df2748615abb778abe6752c1e3a6fbe680096cba8ff2cba4",
+      "title": "TCPOBOP‐Induced Hepatomegaly and Hepatocyte Proliferation are Attenuated by Combined Disruption of MET and EGFR Signaling",
+      "type": "html",
+      "url": "https://journals.lww.com/hep/Fulltext/2019/04000/Development_of_Quality_Measures_in_Cirrhosis_by.34.aspx",
+      "recommendations_count": 0,
+      "clinical_values_count": 0
+    }
+  ]
+}
